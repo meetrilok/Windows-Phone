@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="CheckBox_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CheckBox_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            x:Name="lblResultado" 
+            HorizontalAlignment="Left"
+            Margin="66,113,0,0" 
+            TextWrapping="Wrap" 
+            Text="Exemplo de Uso Sistêmico" 
+            FontSize="24"
+            VerticalAlignment="Top" />
+
+        <CheckBox 
+            x:Name="chkOpcao1" 
+            Content="Opção #1"        
+            HorizontalAlignment="Left" 
+            Margin="27,208,0,0" 
+            VerticalAlignment="Top"
+            Checked="chkOpcao1_Checked"
+            Unchecked="chkOpcao1_UnChecked"/>
+    </Grid>
+</Page>
+
