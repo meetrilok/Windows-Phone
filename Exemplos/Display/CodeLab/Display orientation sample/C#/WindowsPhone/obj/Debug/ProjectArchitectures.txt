@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Display\CodeLab\Display orientation sample\C#\WindowsPhone\DisplayOrientationSample.WindowsPhone.csproj;neutral

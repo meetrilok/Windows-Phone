@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.FlyoutsV21.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6F2756E9866D8CA524A4D017A79ED4AB543FEC9456960FB4C5F246B628214E73</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.FlyoutsV21.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.FlyoutsV21.CS_8wekyb3d8bbwe!SDKSample.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.FlyoutsV21.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-26T12:40:08.857</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Flyouts.exe">
+      <PackagePath>Flyouts.exe</PackagePath>
+      <Modified>2015-07-26T12:40:08.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-06-05T21:32:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Scenario4.xbf">
+      <PackagePath>Scenario4.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Scenario3.xbf">
+      <PackagePath>Scenario3.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Scenario2.xbf">
+      <PackagePath>Scenario2.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xbf</PackagePath>
+      <Modified>2015-07-26T12:40:07.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\Flyouts.xr.xml">
+      <PackagePath>Flyouts.xr.xml</PackagePath>
+      <Modified>2015-07-26T12:40:07.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-26T12:40:08.776</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

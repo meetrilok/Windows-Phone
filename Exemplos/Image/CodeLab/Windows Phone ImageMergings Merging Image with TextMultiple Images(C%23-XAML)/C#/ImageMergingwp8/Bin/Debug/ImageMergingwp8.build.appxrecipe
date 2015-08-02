@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7bbe525d-dfb0-441d-ae07-359e5a52b159</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Bin\Debug\ImageMergingwp8.dll">
+      <PackagePath>ImageMergingwp8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\ApplicationIcon.png">
+      <PackagePath>ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Background.png">
+      <PackagePath>Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Lovely-Sea-House-485x728.jpg">
+      <PackagePath>Lovely-Sea-House-485x728.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Roses-Most-Beautiful-485x728.jpg">
+      <PackagePath>Roses-Most-Beautiful-485x728.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\White.jpg">
+      <PackagePath>White.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images%28C%2523-XAML%29\C#\ImageMergingwp8\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

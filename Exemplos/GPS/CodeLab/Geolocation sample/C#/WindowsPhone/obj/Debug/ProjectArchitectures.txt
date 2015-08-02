@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\GPS\CodeLab\Geolocation sample\C#\WindowsPhone\GeolocationCS.WindowsPhone.csproj;neutral

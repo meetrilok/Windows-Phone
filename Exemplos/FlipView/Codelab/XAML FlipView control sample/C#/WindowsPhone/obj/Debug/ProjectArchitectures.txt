@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlipView\Codelab\XAML FlipView control sample\C#\WindowsPhone\Controls_FlipView.WindowsPhone.csproj;neutral

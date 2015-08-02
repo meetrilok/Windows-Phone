@@ -1,0 +1,33 @@
+﻿{
+    "DayTasks": 
+    [
+        {
+            "Day": "3/8/2014",
+            "Tasks": 
+            [
+                {
+                    "StartTime": "6AM",
+                    "EndTime": "7AM",
+                    "Description": "As Sang"
+                },
+                {
+                    "StartTime": "8AM",
+                    "EndTime": "9AM",
+                    "Description": "Game"
+                }
+            ]
+        },
+
+        {
+            "Day": "4/8/2014",
+            "Tasks": 
+            [
+                {
+                    "StartTime": "5AM",
+                    "EndTime": "7AM",
+                    "Description": "NGU"
+                }
+            ]
+        }
+    ]
+}

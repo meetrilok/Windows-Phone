@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="Video_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Video_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <Grid Background="#64B5F6">
+        <StackPanel>
+            <MediaElement 
+                x:Name="myMediaElement"
+                Height="400"
+                Width="400" />
+        </StackPanel>
+
+        <Button 
+            x:Name="playVideoButton"
+            Height="80"
+            Width="158"
+            Content="Toca o Vídeo"
+            Click="playVideoButton_Click" 
+            Margin="119,448,0,112" />
+
+        <Button 
+            x:Name="stopVideoButton"
+            Height="80"
+            Width="158"
+            Content="Pára o Vídeo"
+            Click="stopVideoButton_Click" 
+            Margin="214,522,0,38" />
+
+        <Button 
+            x:Name="pauseVideoButton"
+            Height="80"
+            Width="158"
+            Content="Pausa o Vídeo"
+            Click="pauseVideoButton_Click" 
+            Margin="27,522,0,38" />
+
+    </Grid>
+
+</Page>

@@ -1,0 +1,455 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head><link rel="stylesheet" type="text/css" href="description/Combined.css,0:HeaderFooterSprite,0:Header.NonMtps,1:LinkList;/Areas/Centers/Themes/StandardDevCenter/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;hashKey=C9973DA951AE6202C9B348379A1BE49D" xmlns="http://www.w3.org/1999/xhtml" />
+<link type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml" />
+<link rel="stylesheet" type="text/css" href="description/b79636be-b088-48b5-8a8d-c21645d26d2fCombined.css,0:HeaderFooterSprite,0:Footer.NonMtps,1:LinkList;/Areas/Centers/Themes/StandardDevCenter/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;hashKey=F576C687BC536B84D6E5B3246EE39B49" xmlns="http://www.w3.org/1999/xhtml" />
+<link type="text/css" rel="stylesheet" xmlns="http://www.w3.org/1999/xhtml" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Windows Phone ImageMergings: Merging Image with Text/Multiple Images(C#-XAML)</title>
+        <link href="description/Galleries.css" type="text/css" rel="Stylesheet" /><link href="description/Layout.css" type="text/css" rel="Stylesheet" /><link href="description/Brand.css" type="text/css" rel="Stylesheet" />
+        <link href="description/iframedescription.css" rel="Stylesheet" type="text/css" />
+        <script src="description/offline.js" type="text/javascript"></script>
+        <style type="text/css">
+            #projectInfo {
+                overflow: auto;
+            }
+            #longDesc {
+                clear:both;
+                margin: 25px 0 10px 0;
+            }
+
+            #SampleIndexList{
+                margin-left: 15px;
+            }
+        </style>
+    </head>
+<body>
+    <div id="offlineDescription">
+        <h1>Windows Phone ImageMergings: Merging Image with Text/Multiple Images(C#-XAML)</h1>
+        <br/>
+        <div id="projectInfo">
+            <div class="section">
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Technologies">Technologies</label>
+                        <div id="Technologies">
+                            Windows Phone 7, Windows Phone 7.1, Windows Phone 8, Windows Phone Development, Windows Phone SDK
+                        </div>
+                    </div>
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Topics">Topics</label>
+                        <div id="Topics">
+                            Merging Multiple images to single image in wp8 c#, Image merging with text in windows phone, How to save image to media
+                        </div>
+                    </div>
+                <div class="itemBarLong">
+                    <label for="Platforms">Platforms</label>
+                    <div id="Platforms">
+                        Phone
+                    </div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="Requirements">Requirements</label>
+                    <div id="Requirements">
+                        
+                    </div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Primary language</label>
+                    <div id="LastUpdated">en-US</div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Updated</label>
+                    <div id="LastUpdated">3/25/2014</div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="License">License</label>
+                    <div id="License">
+                        <a href="license.rtf">Apache License, Version 2.0</a></div>
+                </div>
+                <div class="itemBar">
+                    <div class="viewonlinecont">
+                        <a data-link="online" href="http://code.msdn.microsoft.com/WindowsPhoneMerge-multiple-cb32b948">View this sample online</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                   
+<script type="text/javascript">
+    function initializePage() {
+        var otherTabClass = 'otherTab';
+        var hiddenPreClass = 'hidden';
+
+        var htmlDecode = function(encodedData) {
+            var decodedData = "";
+            if (encodedData) {
+                var div = document.createElement('div');
+                div.innerHTML = encodedData;
+                decodedData = div.firstChild.nodeValue.replace( /\\r\\n/ig , '\r\n');
+            }
+            return decodedData;
+        };
+                
+        Galleries.iterateElem(Galleries.findElem(null, 'div', 'scriptcode'), function (index, scriptBlock) {
+            var titleElem = Galleries.findElem(scriptBlock, 'div', 'title')[0];
+            var labelElems = Galleries.findElem(titleElem, 'span');
+            if (labelElems.length == 0) {
+                labelElems = titleElem;
+            }
+            var languageSpans = Galleries.findElem(scriptBlock, 'span', 'hidden');
+            var pres = Galleries.findElem(scriptBlock, 'pre');
+            if (languageSpans.length > 0 && pres.length > 1) {
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    var languageSpan = languageSpans[index];
+                            
+                    elem.code = codePre.innerHTML.replace( /(\r(\n)?)|((\r)?\n)/ig , '\\r\\n');
+                            
+                    codePre.className = codePre.className.replace(hiddenPreClass, '');
+                            
+                    languageSpan.parentNode.removeChild(languageSpan);
+                });
+
+                pres = Galleries.findElem(scriptBlock, 'pre');
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    if (index == 0) {
+                        scriptBlock.activeTab = 0;
+                    }
+                    else {
+                        labelSpan.className += otherTabClass;
+                        codePre.className += hiddenPreClass;
+                    }
+                    Galleries.attachEventHandler(labelSpan, 'click', function(e) {
+                        var activeTab = scriptBlock.activeTab;
+                        labelElems[activeTab].className += otherTabClass;
+                        pres[activeTab].className += hiddenPreClass;
+
+                        codePre.className = codePre.className.replace(hiddenPreClass, '');
+                        labelSpan.className = labelSpan.className.replace(otherTabClass, '');
+                        scriptBlock.activeTab = index;
+                    });
+                });
+
+                var preview = Galleries.findElem(scriptBlock, 'div', 'preview');
+                if (preview.length == 0) {
+                    preview.push(pres[pres.length - 1]);
+                }
+                Galleries.iterateElem(preview, function(index, elem) {
+                    elem.parentNode.removeChild(elem);
+                });
+
+                if (window.clipboardData && clipboardData.setData) {
+                    var copyLink = document.createElement('a');
+                    copyLink.href = 'javascript:void(0);';
+                    copyLink.className = 'copyCode';
+                    copyLink.innerHTML = 'Copy code';
+                    Galleries.attachEventHandler(copyLink, 'click', function (e) {
+                        clipboardData.setData("Text", htmlDecode(labelElems[scriptBlock.activeTab].code));
+                        return false;
+                    });
+                    scriptBlock.insertBefore(copyLink, scriptBlock.childNodes[0]);
+                }
+            }
+        });
+    }
+
+    Galleries.onWindowLoad(function(){
+        initializePage();
+    });
+
+</script>
+<div id="longDesc">
+    
+<h1>Introduction</h1>
+<p><span style="font-size:small"><em>Hi guys! its quit very interesting concept for me is
+<strong>&quot;Merging multiple image on single image control in windows phone&quot;</strong> or &quot;<strong>Merging image with text&quot;
+</strong>.However in this post i am going to explain how can we achieve these two Requirements in our windows phone app with c#</em></span></p>
+<p><strong><span style="font-size:small"><em>For more &nbsp;information you may comment on this post at
+<a title="MyBlog Reference" href="http://bsubramanyamraju.blogspot.com/2014/03/windows-phone-imagemergings-merging.html">
+Imagemerging sample post</a></em></span></strong></p>
+<h1><span>Requirements</span></h1>
+<p><span style="font-size:small"><em>For this sample no need for extra/third party dll's,just unzip this download sample and run it with your sdk.</em></span></p>
+<p><span style="font-size:small"><em><strong>Note</strong>: 1)This sample is work for both windows phone 7 and 8 sdk</em></span></p>
+<p><span style="font-size:small"><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2)<span>Due to memory limitations, if you operate too many pictures for merge, it will throw an OutOfMemoryException exception.</span></em></span></p>
+<p><span style="font-size:20px; font-weight:bold">Description</span></p>
+<p><span style="font-size:small"><em>However we can achieve this by converting our image control to
+<em>WriteableBitmap and finnaly</em>&nbsp;<span>&nbsp;render the text/images over the image control and position it, and then save the final merge image to media library.So that we need follow some few steps to meet simplicity</span></em></span></p>
+<p><strong><span style="font-size:medium"><em>1)How to merge Image with Text</em></span></strong></p>
+<p><span style="font-size:small"><em><span>Create WriteableBitmap object as global</span></em></span><em style="font-size:small">&nbsp;</em></p>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><em>C#</em></div>
+<div class="pluginLinkHolder"><em><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></em></div>
+<em><span class="hidden">csharp</span>
+<pre class="hidden"> WriteableBitmap wb;</pre>
+</em><em>
+<div class="preview">
+<pre class="csharp">&nbsp;WriteableBitmap&nbsp;wb;</pre>
+</div>
+</em><span style="font-size:small"><em>&nbsp;</em></span></div>
+</div>
+<div class="endscriptcode"><span style="font-size:small"><em>&nbsp;Do like this for merging image with Text</em></span></div>
+<div class="endscriptcode"></div>
+<div class="endscriptcode">
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span style="font-size:small">C#</span></div>
+<div class="pluginLinkHolder"><span style="font-size:small"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></span></div>
+<span class="hidden" style="font-size:small">csharp </span>
+<pre class="hidden"><span style="font-size:small">private void Mergebtn_click(object sender, RoutedEventArgs e)
+        {
+            wb = new WriteableBitmap((BitmapSource)firstimage.Source);
+            TextBlock tb = new TextBlock();
+            tb.Text = Txt.Text;
+            tb.TextWrapping = TextWrapping.Wrap;
+            tb.Foreground = new SolidColorBrush(Colors.Black);
+            tb.FontSize = 70;
+            tb.FontWeight = FontWeights.Bold;
+            wb.Render(tb, new TranslateTransform() { X = 25, Y = 191 });
+            wb.Invalidate();
+            FinalMergeImage.Source = wb;//Merging Image with text
+            Savebtn.IsEnabled = true;
+        }
+</span></pre>
+<div class="preview">
+<pre class="csharp"><span style="font-size:small"><span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;Mergebtn_click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wb&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;WriteableBitmap((BitmapSource)firstimage.Source);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TextBlock&nbsp;tb&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;TextBlock();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tb.Text&nbsp;=&nbsp;Txt.Text;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tb.TextWrapping&nbsp;=&nbsp;TextWrapping.Wrap;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tb.Foreground&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;SolidColorBrush(Colors.Black);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tb.FontSize&nbsp;=&nbsp;<span class="cs__number">70</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tb.FontWeight&nbsp;=&nbsp;FontWeights.Bold;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wb.Render(tb,&nbsp;<span class="cs__keyword">new</span>&nbsp;TranslateTransform()&nbsp;{&nbsp;X&nbsp;=&nbsp;<span class="cs__number">25</span>,&nbsp;Y&nbsp;=&nbsp;<span class="cs__number">191</span>&nbsp;});&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wb.Invalidate();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FinalMergeImage.Source&nbsp;=&nbsp;wb;<span class="cs__com">//Merging&nbsp;Image&nbsp;with&nbsp;text</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Savebtn.IsEnabled&nbsp;=&nbsp;<span class="cs__keyword">true</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;</span>
+</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode"><span style="font-size:small">&nbsp;<em>&nbsp;Do like this for saving merged image to Media Library</em></span></div>
+<div class="endscriptcode"><span style="font-size:small"><em>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span style="font-size:x-small">C#</span></div>
+<div class="pluginLinkHolder"><span style="font-size:x-small"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></span></div>
+<span class="hidden" style="font-size:x-small">csharp </span>
+<pre class="hidden"><span style="font-size:x-small"> private void SaveMergebtn_click(object sender, RoutedEventArgs e)
+        {
+            using (MemoryStream stream = new MemoryStream())
+            {
+                wb.SaveJpeg(stream, wb.PixelWidth, wb.PixelHeight, 0, 100);
+                stream.Seek(0, SeekOrigin.Begin);
+                using (MediaLibrary mediaLibrary = new MediaLibrary())
+                    mediaLibrary.SavePicture(&quot;Picture.jpg&quot;, stream);
+            }
+            MessageBox.Show(&quot;Picture Saved to media library...&quot;);
+        }</span></pre>
+<div class="preview">
+<pre class="csharp"><span style="font-size:x-small">&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;SaveMergebtn_click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">using</span>&nbsp;(MemoryStream&nbsp;stream&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;MemoryStream())&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wb.SaveJpeg(stream,&nbsp;wb.PixelWidth,&nbsp;wb.PixelHeight,&nbsp;<span class="cs__number">0</span>,&nbsp;<span class="cs__number">100</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stream.Seek(<span class="cs__number">0</span>,&nbsp;SeekOrigin.Begin);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">using</span>&nbsp;(MediaLibrary&nbsp;mediaLibrary&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;MediaLibrary())&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mediaLibrary.SavePicture(<span class="cs__string">&quot;Picture.jpg&quot;</span>,&nbsp;stream);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Messa</span>geBox.Show(<span class="cs__string">&quot;Picture&nbsp;Saved&nbsp;to&nbsp;media&nbsp;library...&quot;</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode"><em>
+<div class="endscriptcode">ScreenShot</div>
+<div class="endscriptcode"></div>
+<div class="endscriptcode"><img id="111176" src="description/Capture2.PNG" alt="" width="200" height="300"></div>
+</em></div>
+<div class="endscriptcode"><span style="font-size:medium"><strong><em>2)How to merge Multiple Images on single image control</em></strong></span></div>
+<div class="endscriptcode"><span style="font-size:medium"><strong><em>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span style="font-size:small">C#</span></div>
+<div class="pluginLinkHolder"><span style="font-size:small"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></span></div>
+<span class="hidden" style="font-size:small">csharp </span>
+<pre class="hidden"><span style="font-size:small">BitmapImage finalImage = new BitmapImage();
+ WriteableBitmap wbFinal;</span></pre>
+<div class="preview">
+<pre class="csharp"><span style="font-size:small">BitmapImage&nbsp;finalImage&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;BitmapImage();&nbsp;
+&nbsp;WriteableBitmap&nbsp;wbFinal;</span></pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span style="font-size:small">C#</span></div>
+<div class="pluginLinkHolder"><span style="font-size:small"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></span></div>
+<span class="hidden" style="font-size:small">csharp </span>
+<pre class="hidden"><span style="font-size:small">private void Mergebtn_click(object sender, RoutedEventArgs e)
+        {
+            string[] files = new string[] { &quot;Roses-Most-Beautiful-485x728.jpg&quot;, &quot;Lovely-Sea-House-485x728.jpg&quot;}; // Image list.
+            List&lt;BitmapImage&gt; images = new List&lt;BitmapImage&gt;(); // BitmapImage list.
+            int width = 0; // Final width.
+            int height = 0; // Final height.
+
+            foreach (string image in files)
+            {
+                // Create a Bitmap from the file and add it to the list                
+                BitmapImage img = new BitmapImage();
+                StreamResourceInfo r = <a class="libraryLink" href="http://msdn.microsoft.com/en-US/library/System.Windows.Application.GetResourceStream.aspx"  title="Auto generated link to System.Windows.Application.GetResourceStream">System.Windows.Application.GetResourceStream</a>(new Uri(image, UriKind.Relative));
+                img.SetSource(r.Stream);
+
+                WriteableBitmap wb = new WriteableBitmap(img);
+
+                // Update the size of the final bitmap
+                width = wb.PixelWidth &gt; width ? wb.PixelWidth : width;
+                height = wb.PixelHeight &gt; height ? wb.PixelHeight : height;
+
+                images.Add(img);
+            }
+
+            // Create a bitmap to hold the combined image 
+           
+             
+            StreamResourceInfo sri = <a class="libraryLink" href="http://msdn.microsoft.com/en-US/library/System.Windows.Application.GetResourceStream.aspx"  title="Auto generated link to System.Windows.Application.GetResourceStream">System.Windows.Application.GetResourceStream</a>(new Uri(&quot;White.jpg&quot;,
+                UriKind.Relative));
+            finalImage.SetSource(sri.Stream);
+
+            wbFinal = new WriteableBitmap(finalImage);
+            using (MemoryStream mem = new MemoryStream())
+            {
+                int tempWidth = 0;   // Parameter for Translate.X
+                int tempHeight = 0;  // Parameter for Translate.Y
+
+                foreach (BitmapImage item in images)
+                {
+                    Image image = new Image();
+                    image.Height = item.PixelHeight;
+                    image.Width = item.PixelWidth;
+                    image.Source = item;
+
+                    // TranslateTransform                      
+                    TranslateTransform tf = new TranslateTransform();
+                    tf.X = tempWidth;
+                    tf.Y = tempHeight;
+                    wbFinal.Render(image, tf);
+
+                    tempHeight &#43;= item.PixelHeight;
+                }
+
+                wbFinal.Invalidate();
+                wbFinal.SaveJpeg(mem, width, height, 0, 100);
+                mem.Seek(0, System.IO.SeekOrigin.Begin);
+
+                // Show image.               
+                finalmergeimage.Source = wbFinal;//Mergin Multiple Image into single Image
+                txtblck.Visibility = Visibility.Visible;
+                Savebtn.IsEnabled = true;
+            }
+
+            
+        }</span></pre>
+<div class="preview">
+<pre class="csharp"><span style="font-size:small"><span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;Mergebtn_click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">string</span>[]&nbsp;files&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;<span class="cs__keyword">string</span>[]&nbsp;{&nbsp;<span class="cs__string">&quot;Roses-Most-Beautiful-485x728.jpg&quot;</span>,&nbsp;<span class="cs__string">&quot;Lovely-Sea-House-485x728.jpg&quot;</span>};&nbsp;<span class="cs__com">//&nbsp;Image&nbsp;list.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List&lt;BitmapImage&gt;&nbsp;images&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;List&lt;BitmapImage&gt;();&nbsp;<span class="cs__com">//&nbsp;BitmapImage&nbsp;list.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">int</span>&nbsp;width&nbsp;=&nbsp;<span class="cs__number">0</span>;&nbsp;<span class="cs__com">//&nbsp;Final&nbsp;width.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">int</span>&nbsp;height&nbsp;=&nbsp;<span class="cs__number">0</span>;&nbsp;<span class="cs__com">//&nbsp;Final&nbsp;height.</span>&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">foreach</span>&nbsp;(<span class="cs__keyword">string</span>&nbsp;image&nbsp;<span class="cs__keyword">in</span>&nbsp;files)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Create&nbsp;a&nbsp;Bitmap&nbsp;from&nbsp;the&nbsp;file&nbsp;and&nbsp;add&nbsp;it&nbsp;to&nbsp;the&nbsp;list&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BitmapImage&nbsp;img&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;BitmapImage();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamResourceInfo&nbsp;r&nbsp;=&nbsp;<a class="libraryLink" href="http://msdn.microsoft.com/en-US/library/System.Windows.Application.GetResourceStream.aspx"  title="Auto generated link to System.Windows.Application.GetResourceStream">System.Windows.Application.GetResourceStream</a>(<span class="cs__keyword">new</span>&nbsp;Uri(image,&nbsp;UriKind.Relative));&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;img.SetSource(r.Stream);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WriteableBitmap&nbsp;wb&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;WriteableBitmap(img);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Update&nbsp;the&nbsp;size&nbsp;of&nbsp;the&nbsp;final&nbsp;bitmap</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;width&nbsp;=&nbsp;wb.PixelWidth&nbsp;&gt;&nbsp;width&nbsp;?&nbsp;wb.PixelWidth&nbsp;:&nbsp;width;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;height&nbsp;=&nbsp;wb.PixelHeight&nbsp;&gt;&nbsp;height&nbsp;?&nbsp;wb.PixelHeight&nbsp;:&nbsp;height;&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;images.Add(img);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Create&nbsp;a&nbsp;bitmap&nbsp;to&nbsp;hold&nbsp;the&nbsp;combined&nbsp;image&nbsp;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StreamResourceInfo&nbsp;sri&nbsp;=&nbsp;<a class="libraryLink" href="http://msdn.microsoft.com/en-US/library/System.Windows.Application.GetResourceStream.aspx"  title="Auto generated link to System.Windows.Application.GetResourceStream">System.Windows.Application.GetResourceStream</a>(<span class="cs__keyword">new</span>&nbsp;Uri(<span class="cs__string">&quot;White.jpg&quot;</span>,&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UriKind.Relative));&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;finalImage.SetSource(sri.Stream);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wbFinal&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;WriteableBitmap(finalImage);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">using</span>&nbsp;(MemoryStream&nbsp;mem&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;MemoryStream())&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">int</span>&nbsp;tempWidth&nbsp;=&nbsp;<span class="cs__number">0</span>;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Parameter&nbsp;for&nbsp;Translate.X</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">int</span>&nbsp;tempHeight&nbsp;=&nbsp;<span class="cs__number">0</span>;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Parameter&nbsp;for&nbsp;Translate.Y</span>&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">foreach</span>&nbsp;(BitmapImage&nbsp;item&nbsp;<span class="cs__keyword">in</span>&nbsp;images)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image&nbsp;image&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;Image();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;image.Height&nbsp;=&nbsp;item.PixelHeight;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;image.Width&nbsp;=&nbsp;item.PixelWidth;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;image.Source&nbsp;=&nbsp;item;&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;TranslateTransform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TranslateTransform&nbsp;tf&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;TranslateTransform();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tf.X&nbsp;=&nbsp;tempWidth;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tf.Y&nbsp;=&nbsp;tempHeight;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wbFinal.Render(image,&nbsp;tf);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tempHeight&nbsp;&#43;=&nbsp;item.PixelHeight;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wbFinal.Invalidate();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wbFinal.SaveJpeg(mem,&nbsp;width,&nbsp;height,&nbsp;<span class="cs__number">0</span>,&nbsp;<span class="cs__number">100</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mem.Seek(<span class="cs__number">0</span>,&nbsp;System.IO.SeekOrigin.Begin);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Show&nbsp;image.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;finalmergeimage.Source&nbsp;=&nbsp;wbFinal;<span class="cs__com">//Mergin&nbsp;Multiple&nbsp;Image&nbsp;into&nbsp;single&nbsp;Image</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;txtblck.Visibility&nbsp;=&nbsp;Visibility.Visible;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Savebtn.IsEnabled&nbsp;=&nbsp;<span class="cs__keyword">true</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span></pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;<em style="font-size:small">
+<div class="endscriptcode" style="display:inline!important">ScreenShot &nbsp;</div>
+<div class="endscriptcode" style="display:inline!important"></div>
+<div class="endscriptcode" style="display:inline!important"></div>
+</em></div>
+</div>
+</em></strong></span></div>
+<div class="endscriptcode"><img id="111174" src="description/Capture1.PNG" alt="Marge image with Text" width="200" height="250"></div>
+<br>
+</em></span></div>
+</div>
+<div class="endscriptcode"></div>
+<div class="endscriptcode"><span style="font-size:small"><em><br>
+</em></span></div>
+<h1>More Information</h1>
+<p><span style="font-size:small"><strong><em>For more &nbsp;information you may comment on this post at&nbsp;<a title="MyBlog Reference" href="http://bsubramanyamraju.blogspot.com/2014/03/windows-phone-imagemergings-merging.html">Imagemerging sample post</a></em></strong></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size:small"><strong>Help me with feedback:</strong></span></p>
+<p><span style="font-size:small">Thank you for reading my article. Drop all your questions/comments in QA tab give me your feedback with&nbsp;<img id="67168" src="description/Ratings.png" alt="" width="74" height="15">&nbsp;star
+ rating (1 Star - Very Poor, 5&nbsp;Star -&nbsp;Very Nice). &nbsp;</span></p>
+<h1></h1>
+
+</div>
+
+
+    </div>
+</body>
+</html>

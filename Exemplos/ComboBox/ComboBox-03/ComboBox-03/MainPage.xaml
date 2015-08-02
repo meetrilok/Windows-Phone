@@ -1,0 +1,76 @@
+﻿<Page
+    x:Class="ComboBox_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ComboBox_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+
+        <TextBlock 
+            x:Name="TxtEscolha"
+            TextAlignment="Center"
+            HorizontalAlignment="center" 
+            Margin="58,203,63,0" 
+            TextWrapping="Wrap" 
+            Text="Voce Escolheu "
+            FontSize="24"
+            VerticalAlignment="Top"
+            Width="279" />
+
+        <TextBlock
+            x:Name="TxtResultado" 
+            TextAlignment="Center"
+            HorizontalAlignment="Center" 
+            Margin="91,237,84,0"
+            TextWrapping="Wrap" 
+            Text="Resultado da Seleção" 
+            FontSize="24"
+            VerticalAlignment="Top" />
+
+        <ComboBox
+            DropDownOpened="ComboBoxDropDownOpen"
+            DropDownClosed="ComboBoxDropDownClose"
+            Header="Escolha uma Opção"            
+            x:Name="cmbBox"  
+            SelectedIndex="3"
+            HorizontalAlignment="Left"
+            Margin="91,281,0,0" 
+            VerticalAlignment="Top" 
+            Width="208" >
+            <ComboBoxItem 
+                Content="Primeira Opção"
+                Tag="1"/>
+
+            <ComboBoxItem 
+                Content="Segunda Opção"
+                Tag="2"/>
+
+            <ComboBoxItem
+                Content="Terceira Opção" 
+                Tag="3"/>
+
+            <ComboBoxItem 
+                Content="Quarta Opção" 
+                Tag="4"/>
+
+            <ComboBoxItem
+                Content="Quinta Opção" 
+                Tag="5"/>
+
+        </ComboBox>
+
+        <Button 
+            x:Name="BtnOk" 
+            Content="Escolha"
+            HorizontalAlignment="Left" 
+            Margin="137,560,0,0" 
+            VerticalAlignment="Top" 
+            Click="Click_BtnOK" />
+
+    </Grid>
+</Page>
+

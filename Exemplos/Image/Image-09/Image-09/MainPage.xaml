@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Image_09.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Image_09"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <Image 
+            Source="http://s2.glbimg.com/JXUYMUYP9oc7gtEjLYLFUrpoB2Y=/e.glbimg.com/og/ed/f/original/2014/07/18/5875.jpg" />
+    </Grid>
+    
+</Page>

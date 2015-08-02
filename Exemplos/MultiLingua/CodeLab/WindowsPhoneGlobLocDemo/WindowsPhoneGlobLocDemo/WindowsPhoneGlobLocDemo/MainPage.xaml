@@ -1,0 +1,74 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    x:Class="WindowsPhoneGlobLocDemo.MainPage"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- LOCALIZATION NOTE:
+            To localize the displayed strings copy their values to appropriately named
+            keys in the app's neutral language resource file (AppResources.resx) then
+            replace the hard-coded text value between the attributes' quotation marks
+            with the binding clause whose path points to that string name.
+
+            For example:
+
+                Text="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}"
+
+            This binding points to the template's string resource named "ApplicationTitle".
+
+            Adding supported languages in the Project Properties tab will create a
+            new resx file per language that can carry the translated values of your
+            UI strings. The binding in these examples will cause the value of the
+            attributes to be drawn from the .resx file that matches the
+            CurrentUICulture of the app at run time.
+         -->
+
+        <!--Uncomment to see an alignment grid to help ensure your controls are
+            aligned on common boundaries.  The image has a top margin of -32px to
+            account for the System Tray. Set this to 0 (or remove the margin altogether)
+            if the System Tray is hidden.
+
+            Before shipping remove this XAML and the image itself.-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+            <TextBlock Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <RadioButton x:Name="radioButtonenUS" Content="en-US" HorizontalAlignment="Left" Margin="106,32,0,0" VerticalAlignment="Top" Checked="radioButtonenUS_Checked"/>
+            <RadioButton x:Name="radiobuttonfrFR" Content="fr-FR" HorizontalAlignment="Left" Margin="106,85,0,0" VerticalAlignment="Top" Checked="radiobuttonfrFR_Checked"/>
+            <TextBox x:Name="textBoxLongDate" HorizontalAlignment="Left" Height="72" Margin="170,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" />
+            <TextBox x:Name="textBoxShortDate" HorizontalAlignment="Left" Height="72" Margin="170,253,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280"  />
+            <TextBlock x:Name="textBlockHello" HorizontalAlignment="Left" Margin="22,483,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" Height="27" Text="{Binding Path=LocalizedResources.Salutation, Source={StaticResource LocalizedStrings}}"/>
+            <TextBlock x:Name="textBlockUser" HorizontalAlignment="Left" Margin="183,483,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding Path=LocalizedResources.UserName, Source={StaticResource LocalizedStrings}}" />
+            <TextBox x:Name="textBoxTime" HorizontalAlignment="Left" Height="72" Margin="170,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280"  />
+            <TextBox x:Name="textBoxCurrency" HorizontalAlignment="Left" Height="72" Margin="170,371,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" />
+            <TextBlock x:Name="textBlockLongDate" HorizontalAlignment="Left" Margin="22,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding Path=LocalizedResources.TextLabelLongDate, Source={StaticResource LocalizedStrings}}"/>
+            <TextBlock x:Name="textBlockShortDate" HorizontalAlignment="Left" Margin="22,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding Path=LocalizedResources.TextLabelShortDate, Source={StaticResource LocalizedStrings}}"/>
+            <TextBlock x:Name="textBlockTime" HorizontalAlignment="Left" Margin="22,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.487,2.293" Text="{Binding Path=LocalizedResources.TextLabelTime, Source={StaticResource LocalizedStrings}}" />
+            <TextBlock x:Name="textBlockCurrency" HorizontalAlignment="Left" Margin="22,396,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.487,2.293" Text="{Binding Path=LocalizedResources.TextLabelCurrency, Source={StaticResource LocalizedStrings}}"/>
+        </Grid>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,65 @@
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\Bin\Debug\ApplicationIcon.png
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\Bin\Debug\Background.png
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\Bin\Debug\HTTPRequests.dll
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\Bin\Debug\HTTPRequests.pdb
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\Bin\Debug\HTTPRequests.xap
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\HTTPRequests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\GetImagePage.g.cs
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\GetStringPage.g.cs
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\HTTPRequests.g.resources
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\HTTPRequests.dll
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\HTTPRequests.pdb
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\XapCacheFile.xml
+C:\Users\Administrator\Downloads\HTTPRequests\HTTPRequests\obj\Debug\Page1.g.cs
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\Bin\Debug\ApplicationIcon.png
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\Bin\Debug\Background.png
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\Bin\Debug\HTTPRequests.dll
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\Bin\Debug\HTTPRequests.pdb
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\Bin\Debug\AppManifest.xaml
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\Bin\Debug\HTTPRequests.xap
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\HTTPRequests.csprojResolveAssemblyReference.cache
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\App.g.cs
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\GetImagePage.g.cs
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\GetStringPage.g.cs
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\MainPage.g.cs
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\Page1.g.cs
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\HTTPRequests.g.resources
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\HTTPRequests.dll
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\HTTPRequests.pdb
+D:\Subbu\Subbu-WindowsPhonePractice\HTTPRequests with progressbar\HTTPRequests\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\Background.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\HTTPRequests.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\HTTPRequests.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\HTTPRequests.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\Bin\Debug\HTTPRequests_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\GetImagePage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\GetStringPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\Page1.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\HTTPRequests.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\HTTPRequests.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\HTTPRequests.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\HTTPRequests.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Download\C#\obj\Debug\XapCacheFile.xml

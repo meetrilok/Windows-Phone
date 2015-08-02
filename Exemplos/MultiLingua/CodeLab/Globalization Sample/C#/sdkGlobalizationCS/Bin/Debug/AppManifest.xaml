@@ -1,0 +1,26 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="sdkGlobalizationCS" EntryPointType="sdkGlobalizationCS.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="sdkGlobalizationCS" Source="sdkGlobalizationCS.dll" />
+    <AssemblyPart Source="cs-CZ/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="da-DK/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="de-DE/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="el-GR/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="en-GB/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="es-ES/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="fi-FI/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="fr-FR/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="hu-HU/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="it-IT/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="ja-JP/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="ko-KR/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="nb-NO/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="nl-NL/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="pl-PL/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="pt-BR/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="pt-PT/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="ru-RU/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="sv-SE/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="zh-CN/sdkGlobalizationCS.resources.dll" />
+    <AssemblyPart Source="zh-TW/sdkGlobalizationCS.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

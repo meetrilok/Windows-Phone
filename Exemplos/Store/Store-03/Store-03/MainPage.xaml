@@ -1,0 +1,189 @@
+﻿<Page
+    x:Class="Store_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Store_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <Border 
+            BorderBrush="Black" 
+            BorderThickness="1" 
+            HorizontalAlignment="Left" 
+            Height="94" 
+            Margin="65,228,0,0" 
+            VerticalAlignment="Top"
+            Width="277" 
+            Background="#FFBAC7EA"
+            Opacity="0.5"/>
+        
+        <Button 
+            x:Name="BtnGravaCidade"
+            Content="Grava" 
+            HorizontalAlignment="Left" 
+            Margin="90,250,0,0"
+            VerticalAlignment="Top" 
+            Click="btnGravaCidade_Click" />
+        
+        <Button
+            x:Name="BtnLeituraCidade" 
+            Content="Leitura" 
+            HorizontalAlignment="Left" 
+            Margin="204,250,0,0"
+            VerticalAlignment="Top" 
+            Click="btnLeituraCidade_Click"/>
+        
+        <TextBlock 
+            HorizontalAlignment="Left"
+            Margin="65,210,0,0" 
+            TextWrapping="Wrap" 
+            Text="Define a Cidade"
+            VerticalAlignment="Top"/>
+        
+        <Border 
+            BorderBrush="Black" 
+            BorderThickness="1" 
+            HorizontalAlignment="Left" 
+            Height="67" 
+            Margin="65,511,0,0" 
+            VerticalAlignment="Top" 
+            Width="277"
+            Background="#FFBAC7EA" 
+            Opacity="0.5">
+            
+            <TextBlock 
+                TextWrapping="Wrap" 
+                LineHeight="16" 
+                Margin="-0.833,-9.833,0.833,45.833"/>
+            
+        </Border>
+        
+        <TextBlock 
+            HorizontalAlignment="Left"
+            Margin="65,493,0,0" 
+            TextWrapping="Wrap" 
+            Text="Mensagens de Log" 
+            VerticalAlignment="Top"/>
+        
+        <TextBlock 
+            x:Name="txtMensagem"
+            Margin="65,531,58,0" 
+            TextWrapping="Wrap" 
+            Text="Sem Mensagem"
+            VerticalAlignment="Top" 
+            FontFamily="Arial Rounded MT Bold" 
+            FontSize="18.667"
+            Width="277" 
+            FontWeight="Bold" 
+            TextAlignment="Center"/>
+        
+        <Button 
+            Content="Limpa"
+            HorizontalAlignment="Left" 
+            Margin="65,573,0,0" 
+            VerticalAlignment="Top" 
+            Click="btnLimpa_Click"/>
+        
+        <Border 
+            BorderBrush="Black"
+            BorderThickness="1" 
+            HorizontalAlignment="Left"
+            Height="52" 
+            Margin="65,29,0,0" 
+            VerticalAlignment="Top" 
+            Width="277" 
+            Background="#FFBAC7EA" 
+            Opacity="0.5"/>
+        
+        <TextBlock 
+            HorizontalAlignment="Left" 
+            Margin="65,13,0,0" 
+            TextWrapping="Wrap"
+            Text="Resultados Cidade"
+            VerticalAlignment="Top"/>
+        
+        <TextBlock 
+            x:Name="txtResultadoCidade" 
+            Margin="65,44,58,0" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top" 
+            FontFamily="Arial Rounded MT Bold" 
+            FontSize="18.667" 
+            Width="277" 
+            FontWeight="Bold" 
+            TextAlignment="Center">
+        	<Run Text="Sem "/>
+        	<Run Text="Resultados"/>
+        </TextBlock>
+        
+        <Border 
+            BorderBrush="Black" 
+            BorderThickness="1"
+            HorizontalAlignment="Left" 
+            Height="94" 
+            Margin="65,345,0,0" 
+            VerticalAlignment="Top" 
+            Width="277" 
+            Background="#FFBAC7EA" 
+            Opacity="0.5"/>
+        
+        <Button 
+            x:Name="BtnGravaPais" 
+            Content="Grava" 
+            HorizontalAlignment="Left" 
+            Margin="90,367,0,0" 
+            VerticalAlignment="Top" 
+            Click="btnGravaPais_Click" />
+        
+        <Button 
+            x:Name="BtnLeituraPais" 
+            Content="Leitura" 
+            HorizontalAlignment="Left" 
+            Margin="204,367,0,0"
+            VerticalAlignment="Top" 
+            Click="btnLeituraPais_Click"/>
+        
+        <TextBlock 
+            HorizontalAlignment="Left"
+            Margin="65,327,0,0" 
+            TextWrapping="Wrap"
+            Text="Define o Pais" 
+            VerticalAlignment="Top"/>
+        
+        <Border 
+            BorderBrush="Black" 
+            BorderThickness="1" 
+            HorizontalAlignment="Left"
+            Height="52"
+            Margin="65,109,0,0"
+            VerticalAlignment="Top" 
+            Width="277" 
+            Background="#FFBAC7EA"
+            Opacity="0.5"/>
+        
+        <TextBlock 
+            HorizontalAlignment="Left"
+            Margin="65,93,0,0" 
+            TextWrapping="Wrap" 
+            Text="Resultados Pais"
+            VerticalAlignment="Top"/>
+        
+        <TextBlock 
+            x:Name="txtResultadoPais"
+            Margin="65,124,58,0" 
+            TextWrapping="Wrap" 
+            VerticalAlignment="Top" 
+            FontFamily="Arial Rounded MT Bold" 
+            FontSize="18.667" 
+            Width="277" 
+            FontWeight="Bold" 
+            TextAlignment="Center">
+        	<Run Text="Sem "/>
+        	<Run Text="Resultados"/>
+        </TextBlock>
+    </Grid>
+
+</Page>

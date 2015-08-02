@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\WindowsPhone\CompassCS.WindowsPhone.csproj;neutral

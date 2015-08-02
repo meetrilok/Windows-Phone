@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\ImageMergingwp8.csproj;neutral

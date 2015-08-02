@@ -1,0 +1,80 @@
+﻿<Page
+    x:Class="TextBlock_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TextBlock_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <StackPanel>
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="BaseTextBlockStyle" Style="{StaticResource BaseTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="BodyTextBlockStyle" Style="{StaticResource BodyTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ComboBoxPlaceholderTextBlockStyle" Style="{StaticResource ComboBoxPlaceholderTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ControlContextualInfoTextBlockStyle" Style="{StaticResource ControlContextualInfoTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ControlHeaderTextBlockStyle" Style="{StaticResource ControlHeaderTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="FlyoutPickerTitleTextBlockStyle" Style="{StaticResource FlyoutPickerTitleTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="GroupHeaderTextBlockStyle" Style="{StaticResource GroupHeaderTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="HeaderTextBlockStyle" Style="{StaticResource HeaderTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ListViewEmptyStaticTextBlockStyle" Style="{StaticResource ListViewEmptyStaticTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ListViewItemContentTextBlockStyle" Style="{StaticResource ListViewItemContentTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ListViewItemSubheaderTextBlockStyle" Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="ListViewItemTextBlockStyle" Style="{StaticResource ListViewItemTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="MessageDialogContentStyle" Style="{StaticResource MessageDialogContentStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="MessageDialogTitleStyle" Style="{StaticResource MessageDialogTitleStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="SubheaderTextBlockStyle" Style="{StaticResource SubheaderTextBlockStyle}"/>
+            </Border>
+            
+            <Border BorderBrush="Gray" BorderThickness="1">
+                <TextBlock Text="TitleTextBlockStyle" Style="{StaticResource TitleTextBlockStyle}"/>
+            </Border>
+        </StackPanel>
+    </Grid>
+
+</Page>
+

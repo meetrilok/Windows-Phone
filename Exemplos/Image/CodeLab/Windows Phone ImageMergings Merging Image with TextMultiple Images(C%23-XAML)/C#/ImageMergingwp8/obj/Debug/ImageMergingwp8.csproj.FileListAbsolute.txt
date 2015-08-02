@@ -1,0 +1,47 @@
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\Bin\Debug\ApplicationIcon.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\Bin\Debug\Background.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\Bin\Debug\ImageMergingwp8.dll
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\Bin\Debug\ImageMergingwp8.pdb
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\ImageMergingwp8.csprojResolveAssemblyReference.cache
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\App.g.cs
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\MainPage.g.cs
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\MergeImages.g.cs
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\MergeImageVsText.g.cs
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\ImageMergingwp8.g.resources
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\ImageMergingwp8.dll
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\ImageMergingwp8.pdb
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\Bin\Debug\AppManifest.xaml
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\Bin\Debug\ImageMergingwp8.xap
+D:\Subbu\MyAtrilce's-WindowsPhone\ImageMergingwp8\ImageMergingwp8\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\Background.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\ImageMergingwp8.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\ImageMergingwp8.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\ImageMergingwp8.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\Bin\Debug\ImageMergingwp8_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\MergeImages.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\MergeImageVsText.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\ImageMergingwp8.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\ImageMergingwp8.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\ImageMergingwp8.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\ImageMergingwp8.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Image\CodeLab\Windows Phone ImageMergings Merging Image with TextMultiple Images(C%23-XAML)\C#\ImageMergingwp8\obj\Debug\XapCacheFile.xml

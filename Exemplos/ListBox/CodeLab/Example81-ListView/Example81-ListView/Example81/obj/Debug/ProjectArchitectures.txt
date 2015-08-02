@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\Example81-ListView\Example81-ListView\Example81\Example81.csproj;neutral

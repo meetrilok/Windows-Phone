@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="FlyOut_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FlyOut_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        
+    <Button 
+        Content="Ativa Flyout" 
+        x:Name="ShowButton" 
+        Margin="139,293,0,290">
+        
+            <Button.Flyout>
+                <Flyout>
+                    <StackPanel 
+                        Width="401" 
+                        Background="#FBC02D" >
+                    
+                        <TextBlock 
+                            Text="Alerta" 
+                            FontSize="24" 
+                            Margin="0,0,0,20"
+                            Foreground="DarkBlue"/>
+                    
+                        <TextBlock 
+                            Text="Tellus cumque porttitor, a quo similique dolorum temporibus accusantium leo phasellus molestie, litora nihil. Diamlorem, nostrum, eget hac! Praesent enim." 
+                            TextWrapping="Wrap" 
+                            FontSize="16"/>
+                    
+                        <Button x:ConnectionId='1' 
+                            Content="Aceito" 
+                            HorizontalAlignment="Right" 
+                            Margin="0,20,0,0" 
+                                                 />
+                        
+                    </StackPanel>
+                </Flyout>
+            </Button.Flyout>
+        
+        </Button>
+    </Grid>
+</Page>
+

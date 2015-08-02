@@ -1,0 +1,64 @@
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\App.g.i.cs
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\App.g.cs
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.g.i.cs
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.g.cs
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\XamlTypeInfo.g.cs
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\App.xaml
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\App.xbf
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\XamlSaveStateFile.xml
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.xaml
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.xbf
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\App.xbf
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\MainPage.xbf
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.xr.xml
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.exe
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.pdb
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\resources.pri
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\AppxManifest.xml
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.build.appxrecipe
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\Video-01.exe
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\Video-01.pdb
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\priconfig.xml
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\priconfig.xml.intermediate
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\layout.resfiles
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\layout.resfiles.intermediate
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\resources.resfiles
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\resources.resfiles.intermediate
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\pri.resfiles
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\pri.resfiles.intermediate
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\qualifiers.txt
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\qualifiers.txt.intermediate
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Windows Phone\Exemplos\Video\Video-01\Video-01\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\bin\Debug\Video-01.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\Video-01.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\Video-01.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\Video-01\Video-01\obj\Debug\ProjectArchitectures.txt

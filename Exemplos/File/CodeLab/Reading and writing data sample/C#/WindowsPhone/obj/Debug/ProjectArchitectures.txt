@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\File\CodeLab\Reading and writing data sample\C#\WindowsPhone\DataReaderWriter.WindowsPhone.csproj;neutral

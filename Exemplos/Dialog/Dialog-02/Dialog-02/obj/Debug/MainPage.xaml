@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Dialog_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dialog_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+
+        <Button x:ConnectionId='1'
+		    x:Name="btnExecuta"
+		    Content="Executa"
+		    HorizontalAlignment="Left"
+		    Margin="144,312,0,0"
+		    VerticalAlignment="Top"
+		                             />
+
+        <TextBlock
+        	x:Name="lblNumero"
+        	HorizontalAlignment="Left"
+        	Margin="71,245,0,0"
+        	TextWrapping="Wrap"
+        	Text="Enviar Dados ao Servidor"
+        	FontSize="24"
+        	VerticalAlignment="Top" />
+    </Grid>
+</Page>
+

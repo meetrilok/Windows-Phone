@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="ListBox_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ListBox_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            x:Name="lblResultado" 
+            HorizontalAlignment="Left" 
+            Margin="88,61,0,0" 
+            TextWrapping="Wrap" 
+            Text="Resultado da Seleção" 
+            FontSize="24" 
+            VerticalAlignment="Top" />
+        
+        <TextBlock 
+            x:Name="TxtResultado" 
+            HorizontalAlignment="Left"
+            Margin="44,138,0,0" 
+            TextWrapping="Wrap" 
+            Text="" 
+            FontSize="24" 
+            VerticalAlignment="Top" 
+            Width="315" />
+        
+        <Grid 
+            x:Name="ContentPanel"
+            Grid.Row="1" 
+            Margin="12,0,12,0">
+            
+            <ListBox 
+                Margin="-4,255,4,192" 
+                Name="lstCountries" 
+                SelectionChanged="lstCountries_SelectionChanged">
+                <ListBox.Items>
+                    <ListBoxItem Content="Brazil"/>
+                    <ListBoxItem Content="China"/>
+                    <ListBoxItem Content="India"/>
+                    <ListBoxItem Content="Switzerland"/>
+                    <ListBoxItem Content="Austria"/>
+                </ListBox.Items>
+            </ListBox>
+        </Grid>
+    </Grid>
+</Page>

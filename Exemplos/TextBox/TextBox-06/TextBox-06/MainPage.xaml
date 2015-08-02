@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="TextBox_06.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TextBox_06"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            HorizontalAlignment="Center" 
+            Margin="10,194,10,0"
+            TextWrapping="Wrap" 
+            TextAlignment="Center" 
+            Text="Digite uma Senha"
+            FontSize="24" 
+            VerticalAlignment="Top"
+            Width="380" />
+
+        <PasswordBox 
+            MaxLength="3" 
+            x:Name="MinhaSenha1" 
+            Margin="103,244,0,0" 
+            Height="25" 
+            Width="200" 
+            HorizontalAlignment="Left"/>
+
+        <PasswordBox 
+            MaxLength="5" 
+            x:Name="MinhaSenha2" 
+            Margin="103,296,0,0" 
+            Height="25" 
+            Width="200" 
+            PasswordChar="#" 
+            HorizontalAlignment="Left"/>
+    </Grid>
+
+</Page>

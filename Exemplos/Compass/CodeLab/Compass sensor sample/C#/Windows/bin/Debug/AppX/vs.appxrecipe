@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.Compass.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>900EFE12876B369F363827FAC76AA3C32F5B703C87557CC9C3B6DF6390E3B77C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.Compass.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.Compass.CS_8wekyb3d8bbwe!CompassCS.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.Compass.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-29T23:32:56.247</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\CompassCS.Windows.exe">
+      <PackagePath>CompassCS.Windows.exe</PackagePath>
+      <Modified>2015-06-29T23:32:55.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius.png">
+      <PackagePath>Assets\mobius.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius480.png">
+      <PackagePath>Assets\mobius480.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius540.png">
+      <PackagePath>Assets\mobius540.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius720.png">
+      <PackagePath>Assets\mobius720.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius768.png">
+      <PackagePath>Assets\mobius768.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius1080.png">
+      <PackagePath>Assets\mobius1080.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mobius1440.png">
+      <PackagePath>Assets\mobius1440.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T18:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\Scenario1_DataEvents.xbf">
+      <PackagePath>Scenario1_DataEvents.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\Scenario2_Polling.xbf">
+      <PackagePath>Scenario2_Polling.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\Scenario3_Calibration.xbf">
+      <PackagePath>Scenario3_Calibration.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\CalibrationBar.xbf">
+      <PackagePath>CalibrationBar.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\styles\Styles.xbf">
+      <PackagePath>styles\Styles.xbf</PackagePath>
+      <Modified>2015-06-29T23:32:55.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\CompassCS.Windows.xr.xml">
+      <PackagePath>CompassCS.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-29T23:32:55.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Compass\CodeLab\Compass sensor sample\C#\Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-29T23:32:56.153</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

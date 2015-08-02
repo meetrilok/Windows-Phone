@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="DataTemplate_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DataTemplate_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <StackPanel 
+            Name="StackPanelRaiz" 
+            Margin="0,33,0,123">
+            
+            <StackPanel.Resources>
+                <DataTemplate x:Key="NumeroImpar">
+                    <Grid>
+                        <Rectangle 
+                            Stroke="Purple" 
+                            StrokeThickness="4" />
+
+                        <TextBlock 
+                            HorizontalAlignment="Center" 
+                            VerticalAlignment="Center" 
+                            FontSize="24" 
+                            Foreground="Blue" 
+                            FontWeight="Bold"/>
+                    </Grid>
+                </DataTemplate>
+
+                <DataTemplate x:Key="NumeroPar">
+                    <Grid>
+                        <Ellipse 
+                            Stroke="Green" 
+                            StrokeThickness="4"/>
+
+                        <TextBlock 
+                           HorizontalAlignment="Center" 
+                           VerticalAlignment="Center" 
+                           FontSize="24" 
+                           Foreground="Red" 
+                           FontWeight="Bold"  />
+                    </Grid>
+                </DataTemplate>
+            </StackPanel.Resources>
+
+            <Border 
+                Name="MostraItemSelecionado"
+                Width="50" 
+                Height="50" 
+                RenderTransformOrigin="0.467,-0.533"/>
+            
+            <ListBox x:ConnectionId='1' 
+            	x:Name="ListadeNumeros" 
+            	                                   
+                Margin="23,0,26,0">            
+                    <ListBoxItem Content="1" Width="326"/>
+                    <ListBoxItem Content="2" Width="326"/>
+                    <ListBoxItem Content="3" Width="326"/>
+                    <ListBoxItem Content="4" Width="326"/>
+                    <ListBoxItem Content="5" Width="326"/>
+                    <ListBoxItem Content="6" Width="326"/>
+                    <ListBoxItem Content="7" Width="326"/>
+                    <ListBoxItem Content="8" Width="326"/>
+                    <ListBoxItem Content="9" Width="326"/>
+                    <ListBoxItem Content="10" Width="326"/>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Page>
+

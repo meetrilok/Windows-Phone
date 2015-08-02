@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\FlyOut\Codelab\XAML Flyout and MenuFlyout sample\C#\Flyouts.csproj;neutral

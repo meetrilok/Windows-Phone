@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="GPS_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GPS_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+
+        <TextBlock 
+            x:Name="lblResultado" 
+            HorizontalAlignment="Center" 
+            Margin="147,119,155,466" 
+            TextWrapping="Wrap" 
+            Text="GPS" 
+            FontWeight="Bold"
+            FontSize="48" 
+            Height="55" 
+            Width="98" />
+
+        <TextBlock
+        	x:Name="lblLocalizacao"
+            TextAlignment="Center"
+        	HorizontalAlignment="Center"
+        	Margin="10,213,10,0"
+        	TextWrapping="Wrap"
+        	Text="Sem Registro da Localização"
+        	FontSize="24"
+        	VerticalAlignment="Top" 
+            Width="380" />
+
+        <Button 
+            Content="Pega Localização" 
+            Click="Button_Click" 
+            Margin="112,302,0,281"/>
+
+    </Grid>
+
+</Page>

@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="ProgressControl_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProgressControl_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            x:Name="lblResultado" 
+            Text="Controles de Progresso"             
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"             
+            TextWrapping="Wrap" 
+            FontSize="24" 
+            TextAlignment="Center"
+            Width="390" Margin="10,187,0,424" />
+
+        <ProgressRing 
+            x:Name="prgBarra03" 
+            IsActive="True"/>
+
+    </Grid>
+
+</Page>
+
+

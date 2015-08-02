@@ -1,0 +1,2 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\MediaStreamSource streaming sample\C# and C++\DXSurfaceGenerator\WindowsPhone\DXSurfaceGenerator.WindowsPhone.vcxproj;arm
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\MediaStreamSource streaming sample\C# and C++\WindowsPhone\MediaStreamSource.WindowsPhone.csproj;arm
