@@ -1,0 +1,67 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Scenario1_Toast.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Scenario2_NoPopup.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Scenario4_Remove.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Scenario5_Replace.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Scenario3_Queue.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\ScenarioList.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Styles\Styles.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Action Center Quickstart.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Action Center Quickstart.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Action Center Quickstart.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\bin\Debug\Action Center Quickstart.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario1_Toast.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario1_Toast.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario2_NoPopup.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario2_NoPopup.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario4_Remove.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario4_Remove.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario5_Replace.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario5_Replace.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario3_Queue.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario3_Queue.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\ScenarioList.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\ScenarioList.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Styles\Styles.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Styles\Styles.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario1_Toast.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario2_NoPopup.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario4_Remove.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario5_Replace.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario3_Queue.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\ScenarioList.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Styles\Styles.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario1_Toast.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario2_NoPopup.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario4_Remove.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario5_Replace.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Scenario3_Queue.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\ScenarioList.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Styles\Styles.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Action Center Quickstart.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\Action Center Quickstart.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center Quickstart Sample\C#\obj\Debug\ProjectArchitectures.txt

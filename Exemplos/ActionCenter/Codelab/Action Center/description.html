@@ -1,0 +1,605 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head><link rel="stylesheet" type="text/css" href="https://i-msdn.sec.s-msft.com/Combined.css?resources=0:header.2,0:ImageSprite,1:LinkList;/Areas/Epx/Themes/WindowsApps/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;v=C0D63CDD48A5CCA2E114E231ACC539C7" xmlns="http://www.w3.org/1999/xhtml" />
+<link rel="stylesheet" type="text/css" href="https://i-msdn.sec.s-msft.com/Combined.css?resources=0:sprite,0:Footer,1:ImageSprite,2:LinkList,2:SelectLocaleFromPopUp,1:OverridesWindowsFooter;/Areas/Epx/Themes/Windows/Content:0,/Areas/Epx/Themes/WindowsApps/Content:1,/Areas/Epx/Themes/Base/Content:2&amp;amp;v=EDFFA911171614E579543E053F3B97A3" xmlns="http://www.w3.org/1999/xhtml" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>WindowsPhone 8.1: Action Center Sample,Beginners level (C#-Xaml).</title>
+        <link href="description/Galleries.css" type="text/css" rel="Stylesheet" /><link href="description/Layout.css" type="text/css" rel="Stylesheet" /><link href="description/Brand.css" type="text/css" rel="Stylesheet" /><link href="description/8ca98cfb-4c33-4cdd-bd48-7271d45cbda4Brand.css" type="text/css" rel="Stylesheet" />
+        <link href="https://i1.code.msdn.s-msft.com/windowsapps/content/common/iframedescription.css" rel="Stylesheet" type="text/css" />
+        <script src="https://i1.code.msdn.s-msft.com/windowsapps/content/common/offline.js" type="text/javascript"></script>
+        <style type="text/css">
+            #projectInfo {
+                overflow: auto;
+            }
+            #longDesc {
+                clear:both;
+                margin: 25px 0 10px 0;
+            }
+
+            #SampleIndexList{
+                margin-left: 15px;
+            }
+        </style>
+    </head>
+<body>
+    <div id="offlineDescription">
+        <h1>WindowsPhone 8.1: Action Center Sample,Beginners level (C#-Xaml).</h1>
+        <br/>
+        <div id="projectInfo">
+            <div class="section">
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Technologies">Technologies</label>
+                        <div id="Technologies">
+                            Windows Phone, Windows Phone 8.1, Windows Phone Store
+                        </div>
+                    </div>
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Topics">Topics</label>
+                        <div id="Topics">
+                            Action Center sample in wp8.1 c#, Notification center in windowsphone 8.1 c#
+                        </div>
+                    </div>
+                <div class="itemBarLong">
+                    <label for="Platforms">Platforms</label>
+                    <div id="Platforms">
+                        Phone
+                    </div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="Requirements">Requirements</label>
+                    <div id="Requirements">
+                        
+                    </div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Primary language</label>
+                    <div id="LastUpdated">en-US</div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Updated</label>
+                    <div id="LastUpdated">12/4/2014</div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="License">License</label>
+                    <div id="License">
+                        <a href="license.rtf">MIT</a></div>
+                </div>
+                <div class="itemBar">
+                    <div class="viewonlinecont">
+                        <a data-link="online" href="https://code.msdn.microsoft.com/windowsapps/WindowsPhone-81-Action-4fef1501">View this sample online</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                   
+<script type="text/javascript">
+    function initializePage() {
+        var otherTabClass = 'otherTab';
+        var hiddenPreClass = 'hidden';
+
+        var htmlDecode = function(encodedData) {
+            var decodedData = "";
+            if (encodedData) {
+                var div = document.createElement('div');
+                div.innerHTML = encodedData;
+                decodedData = div.firstChild.nodeValue.replace( /\\r\\n/ig , '\r\n');
+            }
+            return decodedData;
+        };
+                
+        Galleries.iterateElem(Galleries.findElem(null, 'div', 'scriptcode'), function (index, scriptBlock) {
+            var titleElem = Galleries.findElem(scriptBlock, 'div', 'title')[0];
+            var labelElems = Galleries.findElem(titleElem, 'span');
+            if (labelElems.length == 0) {
+                labelElems = titleElem;
+            }
+            var languageSpans = Galleries.findElem(scriptBlock, 'span', 'hidden');
+            var pres = Galleries.findElem(scriptBlock, 'pre');
+            if (languageSpans.length > 0 && pres.length > 1) {
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    var languageSpan = languageSpans[index];
+                            
+                    elem.code = codePre.innerHTML.replace( /(\r(\n)?)|((\r)?\n)/ig , '\\r\\n');
+                            
+                    codePre.className = codePre.className.replace(hiddenPreClass, '');
+                            
+                    languageSpan.parentNode.removeChild(languageSpan);
+                });
+
+                pres = Galleries.findElem(scriptBlock, 'pre');
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    if (index == 0) {
+                        scriptBlock.activeTab = 0;
+                    }
+                    else {
+                        labelSpan.className += otherTabClass;
+                        codePre.className += hiddenPreClass;
+                    }
+                    Galleries.attachEventHandler(labelSpan, 'click', function(e) {
+                        var activeTab = scriptBlock.activeTab;
+                        labelElems[activeTab].className += otherTabClass;
+                        pres[activeTab].className += hiddenPreClass;
+
+                        codePre.className = codePre.className.replace(hiddenPreClass, '');
+                        labelSpan.className = labelSpan.className.replace(otherTabClass, '');
+                        scriptBlock.activeTab = index;
+                    });
+                });
+
+                var preview = Galleries.findElem(scriptBlock, 'div', 'preview');
+                if (preview.length == 0) {
+                    preview.push(pres[pres.length - 1]);
+                }
+                Galleries.iterateElem(preview, function(index, elem) {
+                    elem.parentNode.removeChild(elem);
+                });
+
+                if (window.clipboardData && clipboardData.setData) {
+                    var copyLink = document.createElement('a');
+                    copyLink.href = 'javascript:void(0);';
+                    copyLink.className = 'copyCode';
+                    copyLink.innerHTML = 'Copy code';
+                    Galleries.attachEventHandler(copyLink, 'click', function (e) {
+                        clipboardData.setData("Text", htmlDecode(labelElems[scriptBlock.activeTab].code));
+                        return false;
+                    });
+                    scriptBlock.insertBefore(copyLink, scriptBlock.childNodes[0]);
+                }
+            }
+        });
+    }
+
+    Galleries.onWindowLoad(function(){
+        initializePage();
+    });
+
+</script>
+<div id="longDesc">
+    
+<h2><span style="font-family:Verdana,sans-serif; font-size:small">Introduction:</span></h2>
+<p><span style="font-size:small"><span style="font-family:Verdana,sans-serif">A highly requested Notification Center feature is now available in&nbsp;<a href="http://bsubramanyamraju.blogspot.com/2014/04/windowsphone-81-sdk-blue-emulator-is.html" >WindowsPhone
+ 8.1</a>, Action Center will allow you to quickly access the settings pages like Airplane mode, Wi-Fi Settings, Bluetooth settings etc.&nbsp;</span>This will also report you about alerts, non-toast notifications, update histories etc. Action Center is available
+ via a swipe down from the top of your device, even from the lock screen.However&nbsp;I am proud to say this is the first longest article in&nbsp;<a href="http://bsubramanyamraju.blogspot.com/" >my blog</a>&nbsp;:)&nbsp;.</span></p>
+<p><span style="font-family:Verdana,sans-serif; font-size:small">Fortunately a developer can access 'Action Center' like following variety of ways.&nbsp;</span></p>
+<ul>
+<li><span style="font-size:small">Sending a local toast notification to action center with popup .</span>
+</li><li><span style="font-size:small">Sending a toast notification directly to action center, without showing a popup.</span>
+</li><li><span style="font-family:Verdana,sans-serif; font-size:small">Remove a notification from the Action Center.</span>
+</li><li><span style="font-family:Verdana,sans-serif; font-size:small">Update a notification from the Action Center.
+</span></li></ul>
+<h2><span style="font-family:Verdana,sans-serif; font-size:small">Requirements:</span></h2>
+<div>
+<ul>
+<li><span style="font-family:Verdana,sans-serif; font-size:small">Make sure you&rsquo;ve downloaded and installed the Windows Phone 8.1 SDK. For more information, see&nbsp;<a href="https://code.msdn.microsoft.com/windowsapps/WindowsPhone-81-Action-4fef1501/https://dev.windowsphone.com/en-us/downloadsdk">Get the SDK</a>.</span>
+</li><li><span style="font-family:Verdana,sans-serif; font-size:small">I assumes that you&rsquo;re going to test your app on the Windows Phone emulator. If you want to test your app on a phone, you have to take some additional steps. For more info, see&nbsp;<a href="http://msdn.microsoft.com/en-us/library/windowsphone/develop/dn614128.aspx">Register
+ your Windows Phone device for development</a>.</span> </li><li><span style="font-family:Verdana,sans-serif; font-size:small">This post assumes&nbsp;you&rsquo;re using&nbsp;<strong>Microsoft Visual Studio Express&nbsp;2013 for Windows.</strong></span>
+</li></ul>
+<h2><span style="font-family:Verdana,sans-serif; font-size:small">Description:</span></h2>
+</div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small">Previously in windowsphone 8.0,there was no action center on phone.One of the biggest changes in Windows Phone 8.1 was the introduction of the Windows Phone Action Center. So Action Center will
+ allow you to quickly access the settings pages like Airplane mode, Wi-Fi Settings, Bluetooth settings etc.Ok its time to start development with following steps.</span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small"><strong>Step 1:</strong></span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small">
+<div>1)Open Microsoft Visual Studio Express 2013 for Windows.</div>
+<div>2)Create new project using the &quot;Blank App&quot; template available under Visual C# -&gt; Store Apps -&gt; Windows Phone Apps. (for example project name :ActionCenterSample)</div>
+<p class="separator"><a href="http://2.bp.blogspot.com/-wqwqV6FD3fs/VIAwBvweK0I/AAAAAAAABYg/AILDXTgVDxI/s1600/VSNewProject.PNG"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-wqwqV6FD3fs%2FVIAwBvweK0I%2FAAAAAAAABYg%2FAILDXTgVDxI%2Fs1600%2FVSNewProject.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="640" height="388"></a></p>
+<div><strong>Step 2:</strong></div>
+</span></div>
+<div>
+<p><span style="font-size:small">Add following xaml code in&nbsp;<span style="font-family:Verdana,sans-serif">MainPage.xaml page and run the app.</span></span></p>
+<p><span style="font-size:small"><span style="font-family:Verdana,sans-serif">&nbsp;</span></span></p>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>XAML</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">xaml</span>
+<pre class="hidden">&lt;Grid Background=&quot;White&quot;&gt;
+        &lt;ScrollViewer ZoomMode=&quot;Enabled&quot;&gt;
+        &lt;StackPanel Margin=&quot;5&quot; Orientation=&quot;Vertical&quot;&gt;
+            &lt;!--Title of tutorial--&gt;
+            &lt;TextBlock Margin=&quot;5&quot; TextLineBounds=&quot;Full&quot; FontSize=&quot;28&quot; Text=&quot;WP8.1 ActionCenter Tutorials&quot; Foreground=&quot;#FF1BC982&quot; /&gt;
+            &lt;Rectangle Fill=&quot;Blue&quot; Height=&quot;0.5&quot;/&gt;
+            
+            &lt;!--Iteracting with Action Center--&gt;
+            &lt;Button Name=&quot;BtnSendToast&quot; HorizontalAlignment=&quot;Stretch&quot; Content=&quot;Send notification with toast popup&quot; Background=&quot;#FF3FD483&quot; Click=&quot;BtnSendToast_Click&quot;/&gt;
+            &lt;Button Name=&quot;BtnSendToastNoPopup&quot; HorizontalAlignment=&quot;Stretch&quot; Content=&quot;Send notification without toast popup&quot; Background=&quot;#FF3FD483&quot; Click=&quot;BtnSendToastNoPopup_Click&quot;/&gt;
+            &lt;Button Name=&quot;BtnRemoveToast&quot; HorizontalAlignment=&quot;Stretch&quot; Content=&quot;Remove notifications from app&quot; Background=&quot;#FF3FD483&quot;/&gt;
+            &lt;Button Name=&quot;BtnUpdateToast&quot; HorizontalAlignment=&quot;Stretch&quot; Content=&quot;Update notifications from app&quot; Background=&quot;#FF3FD483&quot; Click=&quot;BtnUpdateToast_Click&quot;/&gt;
+            
+            &lt;!--About ActionCenter--&gt;
+            &lt;TextBox VerticalAlignment=&quot;Bottom&quot; Header=&quot;About ActionCenter:&quot; TextWrapping=&quot;Wrap&quot; BorderBrush=&quot;#FF23E0D8&quot; Foreground=&quot;#FF736B74&quot; IsHitTestVisible=&quot;False&quot; IsColorFontEnabled=&quot;true&quot;&gt;
+                &lt;TextBox.HeaderTemplate&gt;
+                    &lt;DataTemplate&gt;
+                        &lt;TextBlock Text=&quot;{Binding}&quot; FontSize=&quot;23&quot; Foreground=&quot;#FFD318E6&quot;/&gt;
+                    &lt;/DataTemplate&gt;
+                &lt;/TextBox.HeaderTemplate&gt;
+                &lt;TextBox.Text &gt;
+                    A highly requested Notification Center feature included in Windows Phone 8.1,Action Center will allow you to quickly access the settings pages like Airplane mode, Wi-Fi Settings, Bluetooth settings etc.
+                    from a native app. This will also report you about alerts, non-toast notifications, update histories etc.Action Center is available via a swipe down from the top of your device, even from the lock screen.
+                &lt;/TextBox.Text&gt;
+            &lt;/TextBox&gt;
+        &lt;/StackPanel&gt;
+        &lt;/ScrollViewer&gt;
+    &lt;/Grid&gt;</pre>
+<div class="preview">
+<pre class="xaml"><span class="xaml__tag_start">&lt;Grid</span>&nbsp;<span class="xaml__attr_name">Background</span>=<span class="xaml__attr_value">&quot;White&quot;</span><span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;ScrollViewer</span>&nbsp;<span class="xaml__attr_name">ZoomMode</span>=<span class="xaml__attr_value">&quot;Enabled&quot;</span><span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;StackPanel</span>&nbsp;<span class="xaml__attr_name">Margin</span>=<span class="xaml__attr_value">&quot;5&quot;</span>&nbsp;<span class="xaml__attr_name">Orientation</span>=<span class="xaml__attr_value">&quot;Vertical&quot;</span><span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__comment">&lt;!--Title&nbsp;of&nbsp;tutorial--&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;TextBlock</span>&nbsp;<span class="xaml__attr_name">Margin</span>=<span class="xaml__attr_value">&quot;5&quot;</span>&nbsp;<span class="xaml__attr_name">TextLineBounds</span>=<span class="xaml__attr_value">&quot;Full&quot;</span>&nbsp;<span class="xaml__attr_name">FontSize</span>=<span class="xaml__attr_value">&quot;28&quot;</span>&nbsp;<span class="xaml__attr_name">Text</span>=<span class="xaml__attr_value">&quot;WP8.1&nbsp;ActionCenter&nbsp;Tutorials&quot;</span>&nbsp;<span class="xaml__attr_name">Foreground</span>=<span class="xaml__attr_value">&quot;#FF1BC982&quot;</span>&nbsp;<span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;Rectangle</span>&nbsp;<span class="xaml__attr_name">Fill</span>=<span class="xaml__attr_value">&quot;Blue&quot;</span>&nbsp;<span class="xaml__attr_name">Height</span>=<span class="xaml__attr_value">&quot;0.5&quot;</span><span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__comment">&lt;!--Iteracting&nbsp;with&nbsp;Action&nbsp;Center--&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;Button</span>&nbsp;<span class="xaml__attr_name">Name</span>=<span class="xaml__attr_value">&quot;BtnSendToast&quot;</span>&nbsp;<span class="xaml__attr_name">HorizontalAlignment</span>=<span class="xaml__attr_value">&quot;Stretch&quot;</span>&nbsp;<span class="xaml__attr_name">Content</span>=<span class="xaml__attr_value">&quot;Send&nbsp;notification&nbsp;with&nbsp;toast&nbsp;popup&quot;</span>&nbsp;<span class="xaml__attr_name">Background</span>=<span class="xaml__attr_value">&quot;#FF3FD483&quot;</span>&nbsp;<span class="xaml__attr_name">Click</span>=<span class="xaml__attr_value">&quot;BtnSendToast_Click&quot;</span><span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;Button</span>&nbsp;<span class="xaml__attr_name">Name</span>=<span class="xaml__attr_value">&quot;BtnSendToastNoPopup&quot;</span>&nbsp;<span class="xaml__attr_name">HorizontalAlignment</span>=<span class="xaml__attr_value">&quot;Stretch&quot;</span>&nbsp;<span class="xaml__attr_name">Content</span>=<span class="xaml__attr_value">&quot;Send&nbsp;notification&nbsp;without&nbsp;toast&nbsp;popup&quot;</span>&nbsp;<span class="xaml__attr_name">Background</span>=<span class="xaml__attr_value">&quot;#FF3FD483&quot;</span>&nbsp;<span class="xaml__attr_name">Click</span>=<span class="xaml__attr_value">&quot;BtnSendToastNoPopup_Click&quot;</span><span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;Button</span>&nbsp;<span class="xaml__attr_name">Name</span>=<span class="xaml__attr_value">&quot;BtnRemoveToast&quot;</span>&nbsp;<span class="xaml__attr_name">HorizontalAlignment</span>=<span class="xaml__attr_value">&quot;Stretch&quot;</span>&nbsp;<span class="xaml__attr_name">Content</span>=<span class="xaml__attr_value">&quot;Remove&nbsp;notifications&nbsp;from&nbsp;app&quot;</span>&nbsp;<span class="xaml__attr_name">Background</span>=<span class="xaml__attr_value">&quot;#FF3FD483&quot;</span><span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;Button</span>&nbsp;<span class="xaml__attr_name">Name</span>=<span class="xaml__attr_value">&quot;BtnUpdateToast&quot;</span>&nbsp;<span class="xaml__attr_name">HorizontalAlignment</span>=<span class="xaml__attr_value">&quot;Stretch&quot;</span>&nbsp;<span class="xaml__attr_name">Content</span>=<span class="xaml__attr_value">&quot;Update&nbsp;notifications&nbsp;from&nbsp;app&quot;</span>&nbsp;<span class="xaml__attr_name">Background</span>=<span class="xaml__attr_value">&quot;#FF3FD483&quot;</span>&nbsp;<span class="xaml__attr_name">Click</span>=<span class="xaml__attr_value">&quot;BtnUpdateToast_Click&quot;</span><span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__comment">&lt;!--About&nbsp;ActionCenter--&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;TextBox</span>&nbsp;<span class="xaml__attr_name">VerticalAlignment</span>=<span class="xaml__attr_value">&quot;Bottom&quot;</span>&nbsp;<span class="xaml__attr_name">Header</span>=<span class="xaml__attr_value">&quot;About&nbsp;ActionCenter:&quot;</span>&nbsp;<span class="xaml__attr_name">TextWrapping</span>=<span class="xaml__attr_value">&quot;Wrap&quot;</span>&nbsp;<span class="xaml__attr_name">BorderBrush</span>=<span class="xaml__attr_value">&quot;#FF23E0D8&quot;</span>&nbsp;<span class="xaml__attr_name">Foreground</span>=<span class="xaml__attr_value">&quot;#FF736B74&quot;</span>&nbsp;<span class="xaml__attr_name">IsHitTestVisible</span>=<span class="xaml__attr_value">&quot;False&quot;</span>&nbsp;<span class="xaml__attr_name">IsColorFontEnabled</span>=<span class="xaml__attr_value">&quot;true&quot;</span><span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;TextBox</span>.HeaderTemplate<span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;DataTemplate</span><span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;TextBlock</span>&nbsp;<span class="xaml__attr_name">Text</span>=<span class="xaml__attr_value">&quot;{Binding}&quot;</span>&nbsp;<span class="xaml__attr_name">FontSize</span>=<span class="xaml__attr_value">&quot;23&quot;</span>&nbsp;<span class="xaml__attr_name">Foreground</span>=<span class="xaml__attr_value">&quot;#FFD318E6&quot;</span><span class="xaml__tag_start">/&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_end">&lt;/DataTemplate&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/TextBox.HeaderTemplate&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_start">&lt;TextBox</span>.Text&nbsp;<span class="xaml__tag_start">&gt;&nbsp;
+</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;highly&nbsp;requested&nbsp;Notification&nbsp;Center&nbsp;feature&nbsp;included&nbsp;in&nbsp;Windows&nbsp;Phone&nbsp;8.1,Action&nbsp;Center&nbsp;will&nbsp;allow&nbsp;you&nbsp;to&nbsp;quickly&nbsp;access&nbsp;the&nbsp;settings&nbsp;pages&nbsp;like&nbsp;Airplane&nbsp;mode,&nbsp;Wi-Fi&nbsp;Settings,&nbsp;Bluetooth&nbsp;settings&nbsp;etc.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from&nbsp;a&nbsp;native&nbsp;app.&nbsp;This&nbsp;will&nbsp;also&nbsp;report&nbsp;you&nbsp;about&nbsp;alerts,&nbsp;non-toast&nbsp;notifications,&nbsp;update&nbsp;histories&nbsp;etc.Action&nbsp;Center&nbsp;is&nbsp;available&nbsp;via&nbsp;a&nbsp;swipe&nbsp;down&nbsp;from&nbsp;the&nbsp;top&nbsp;of&nbsp;your&nbsp;device,&nbsp;even&nbsp;from&nbsp;the&nbsp;lock&nbsp;screen.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/TextBox.Text&gt;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_end">&lt;/TextBox&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_end">&lt;/StackPanel&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_end">&lt;/ScrollViewer&gt;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="xaml__tag_end">&lt;/Grid&gt;</span></pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;When run the above xaml code,your screen will be appeared as</div>
+<p>&nbsp;</p>
+</div>
+<p class="separator"><span style="font-size:small"><a href="http://2.bp.blogspot.com/-zjWw4tFvu-g/VIAybSsTdJI/AAAAAAAABYs/NeynYNL9m68/s1600/StartPage.PNG"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-zjWw4tFvu-g%2FVIAybSsTdJI%2FAAAAAAAABYs%2FNeynYNL9m68%2Fs1600%2FStartPage.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="223" height="400"></a></span></p>
+<div><span style="font-family:Verdana,sans-serif; font-size:small"><strong>Note:</strong>&nbsp;To interact with the Windows Phone Notification Center, developer must be set&nbsp;<strong>Toast Capable</strong>&nbsp;option to 'Yes' from 'Application Tab' of&nbsp;<a href="http://bsubramanyamraju.blogspot.com/2014/07/wp80-vs-wp81-all-about.html" >Package.appxmanifest</a>&nbsp;file.
+<p class="separator"><a href="http://1.bp.blogspot.com/-hFbrwx9K9RA/VIA309gl7VI/AAAAAAAABZM/cqtc6-EXqwY/s1600/Manifest.PNG"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F1.bp.blogspot.com%2F-hFbrwx9K9RA%2FVIA309gl7VI%2FAAAAAAAABZM%2Fcqtc6-EXqwY%2Fs1600%2FManifest.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="640" height="276"></a></p>
+<p class="separator">&nbsp;</p>
+Otherwise when you click on send notification button from MainPage, you will be warning like this&nbsp;
+<p class="separator"><a href="http://4.bp.blogspot.com/-JF9LKVG_rRY/VIA1RXwXDzI/AAAAAAAABY4/9vs1dnGOvf4/s1600/ManifestError.PNG"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-JF9LKVG_rRY%2FVIA1RXwXDzI%2FAAAAAAAABY4%2F9vs1dnGOvf4%2Fs1600%2FManifestError.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="223" height="400"></a></p>
+</span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small"><br>
+</span></div>
+<div><span style="font-size:small"><strong>Step 3:</strong></span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small">Before start to send notifications from app.we need to check following phone NotificationSettings&nbsp;with help of '<a href="http://msdn.microsoft.com/en-us/library/windows/apps/xaml/windows.ui.notifications.toastnotificationmanager.aspx" >ToastNotificationManager</a>'
+ class.
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden"> public bool CanSendToasts()
+        {
+            bool canSend = true;
+            var NotifierStatus = ToastNotificationManager.CreateToastNotifier();
+            //Check Notification settings status 
+            if (NotifierStatus.Setting != NotificationSetting.Enabled)
+            {
+                string ReasonMessage = &quot;unknown error&quot;;
+                switch (NotifierStatus.Setting)
+                {
+                    case NotificationSetting.DisabledByGroupPolicy:
+                        ReasonMessage = &quot;An administrator has disabled all notifications on this computer through group policy. The group policy setting overrides the user's setting.&quot;;
+                        break;
+                    case NotificationSetting.DisabledByManifest:
+                        ReasonMessage = &quot;To send a toast from app,developer must be set Toast Capable option to 'Yes' from 'Application Tab' of Package.appxmanifest file.&quot;;
+                        break;
+                    case NotificationSetting.DisabledForApplication:
+                        ReasonMessage = &quot;The user has disabled notifications for this app.&quot;;
+                        break;
+                    case NotificationSetting.DisabledForUser:
+                        ReasonMessage = &quot;The user or administrator has disabled all notifications for this user on this computer.&quot;;
+                        break;
+                }
+                string errroMessage = String.Format(&quot;Can't send a toast.\n{0}&quot;, ReasonMessage);
+                DisplayMessage(errroMessage);
+                canSend = false;
+            }
+            return canSend;
+        }</pre>
+<div class="preview">
+<pre class="csharp">&nbsp;<span class="cs__keyword">public</span>&nbsp;<span class="cs__keyword">bool</span>&nbsp;CanSendToasts()&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">bool</span>&nbsp;canSend&nbsp;=&nbsp;<span class="cs__keyword">true</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;NotifierStatus&nbsp;=&nbsp;ToastNotificationManager.CreateToastNotifier();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//Check&nbsp;Notification&nbsp;settings&nbsp;status&nbsp;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">if</span>&nbsp;(NotifierStatus.Setting&nbsp;!=&nbsp;NotificationSetting.Enabled)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">string</span>&nbsp;ReasonMessage&nbsp;=&nbsp;<span class="cs__string">&quot;unknown&nbsp;error&quot;</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">switch</span>&nbsp;(NotifierStatus.Setting)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">case</span>&nbsp;NotificationSetting.DisabledByGroupPolicy:&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ReasonMessage&nbsp;=&nbsp;<span class="cs__string">&quot;An&nbsp;administrator&nbsp;has&nbsp;disabled&nbsp;all&nbsp;notifications&nbsp;on&nbsp;this&nbsp;computer&nbsp;through&nbsp;group&nbsp;policy.&nbsp;The&nbsp;group&nbsp;policy&nbsp;setting&nbsp;overrides&nbsp;the&nbsp;user's&nbsp;setting.&quot;</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">break</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">case</span>&nbsp;NotificationSetting.DisabledByManifest:&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ReasonMessage&nbsp;=&nbsp;<span class="cs__string">&quot;To&nbsp;send&nbsp;a&nbsp;toast&nbsp;from&nbsp;app,developer&nbsp;must&nbsp;be&nbsp;set&nbsp;Toast&nbsp;Capable&nbsp;option&nbsp;to&nbsp;'Yes'&nbsp;from&nbsp;'Application&nbsp;Tab'&nbsp;of&nbsp;Package.appxmanifest&nbsp;file.&quot;</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">break</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">case</span>&nbsp;NotificationSetting.DisabledForApplication:&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ReasonMessage&nbsp;=&nbsp;<span class="cs__string">&quot;The&nbsp;user&nbsp;has&nbsp;disabled&nbsp;notifications&nbsp;for&nbsp;this&nbsp;app.&quot;</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">break</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">case</span>&nbsp;NotificationSetting.DisabledForUser:&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ReasonMessage&nbsp;=&nbsp;<span class="cs__string">&quot;The&nbsp;user&nbsp;or&nbsp;administrator&nbsp;has&nbsp;disabled&nbsp;all&nbsp;notifications&nbsp;for&nbsp;this&nbsp;user&nbsp;on&nbsp;this&nbsp;computer.&quot;</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">break</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">string</span>&nbsp;errroMessage&nbsp;=&nbsp;String.Format(<span class="cs__string">&quot;Can't&nbsp;send&nbsp;a&nbsp;toast.\n{0}&quot;</span>,&nbsp;ReasonMessage);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DisplayMessage(errroMessage);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;canSend&nbsp;=&nbsp;<span class="cs__keyword">false</span>;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">return</span>&nbsp;canSend;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;I hope you already know ,from 8.1 OS version in phone settings there is an option for turn off /on notifications from a specific app /all apps.So in this case we can't send toast and need to check the notification settings
+ to displaying related error message.See in above code i wrote a method called&nbsp;<strong>CanSendToasts()</strong>,if it is return 'true' then it means you can able to send toast,otherwise you can't send toast from app.</div>
+</span></div>
+<div><span style="font-size:small"><strong><br>
+</strong></span></div>
+<div><span style="font-size:small"><strong>Step 4:</strong></span></div>
+<div>
+<div><span style="font-size:small"><span style="font-family:Verdana,sans-serif">Lets assume we pass all 'NotificationSettings'.And now we are ready to send local toast notifications to action center.For simplicity i made a common method to send local toast
+ notifications .So helper method name is&nbsp;<strong>MakingToastNotification()&nbsp;</strong></span><span style="font-family:Verdana,sans-serif">which is having parameters (</span>ToastTitle ,ToastBody ,Tag,Group,&nbsp;IsToastPopUpRequired).
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden"> public void MakingToastNotification(string ToastTitle, string ToastBody, string strTag, string strGroup, bool IsToastPopUpRequired)
+        {
+            // Using the ToastText02 toast template.This template contains a maximum of two text elements. The first text element is treated as a header text and is always bold.
+            ToastTemplateType toastTemplate = ToastTemplateType.ToastText02;
+
+            // Retrieve the content part of the toast so we can change the text.
+            XmlDocument toastXml = ToastNotificationManager.GetTemplateContent(toastTemplate);
+
+            //Find the text component of the content
+            XmlNodeList toastTextElements = toastXml.GetElementsByTagName(&quot;text&quot;);
+
+            // Set the text on the toast. 
+            // The first line of text in the ToastText02 template is treated as header text, and will be bold.
+            toastTextElements[0].AppendChild(toastXml.CreateTextNode(ToastTitle));//Toast notification title
+            toastTextElements[1].AppendChild(toastXml.CreateTextNode(ToastBody &#43; &quot; (Tag:&quot; &#43; strTag &#43; &quot;, Group:&quot; &#43; strGroup &#43; &quot;)&quot;));//Toast notification body
+
+            // Set the duration on the toast
+            IXmlNode toastNode = toastXml.SelectSingleNode(&quot;/toast&quot;);
+            ((XmlElement)toastNode).SetAttribute(&quot;duration&quot;, &quot;long&quot;);
+            ToastNotification toast = new ToastNotification(toastXml);
+            toast.ExpirationTime = DateTimeOffset.UtcNow.AddSeconds(10);
+
+            //Check Toast popup required to display
+            if(!IsToastPopUpRequired)
+            {
+                toast.SuppressPopup = true;//to send notification directly to action center without displaying a popup on phone.
+            }
+
+            //Note: Tag &amp; Group properties are optional,but these are userful for delete/update particular notification from app
+            toast.Tag = strTag;
+            toast.Group = strGroup;
+
+            ToastNotificationManager.CreateToastNotifier().Show(toast);
+        }
+        public async void DisplayMessage(string Message)
+        {
+            MessageDialog messageDialog = new MessageDialog(Message);
+            await messageDialog.ShowAsync();
+        }</pre>
+<div class="preview">
+<pre class="csharp">&nbsp;<span class="cs__keyword">public</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;MakingToastNotification(<span class="cs__keyword">string</span>&nbsp;ToastTitle,&nbsp;<span class="cs__keyword">string</span>&nbsp;ToastBody,&nbsp;<span class="cs__keyword">string</span>&nbsp;strTag,&nbsp;<span class="cs__keyword">string</span>&nbsp;strGroup,&nbsp;<span class="cs__keyword">bool</span>&nbsp;IsToastPopUpRequired)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Using&nbsp;the&nbsp;ToastText02&nbsp;toast&nbsp;template.This&nbsp;template&nbsp;contains&nbsp;a&nbsp;maximum&nbsp;of&nbsp;two&nbsp;text&nbsp;elements.&nbsp;The&nbsp;first&nbsp;text&nbsp;element&nbsp;is&nbsp;treated&nbsp;as&nbsp;a&nbsp;header&nbsp;text&nbsp;and&nbsp;is&nbsp;always&nbsp;bold.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ToastTemplateType&nbsp;toastTemplate&nbsp;=&nbsp;ToastTemplateType.ToastText02;&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Retrieve&nbsp;the&nbsp;content&nbsp;part&nbsp;of&nbsp;the&nbsp;toast&nbsp;so&nbsp;we&nbsp;can&nbsp;change&nbsp;the&nbsp;text.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlDocument&nbsp;toastXml&nbsp;=&nbsp;ToastNotificationManager.GetTemplateContent(toastTemplate);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//Find&nbsp;the&nbsp;text&nbsp;component&nbsp;of&nbsp;the&nbsp;content</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XmlNodeList&nbsp;toastTextElements&nbsp;=&nbsp;toastXml.GetElementsByTagName(<span class="cs__string">&quot;text&quot;</span>);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Set&nbsp;the&nbsp;text&nbsp;on&nbsp;the&nbsp;toast.&nbsp;</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;The&nbsp;first&nbsp;line&nbsp;of&nbsp;text&nbsp;in&nbsp;the&nbsp;ToastText02&nbsp;template&nbsp;is&nbsp;treated&nbsp;as&nbsp;header&nbsp;text,&nbsp;and&nbsp;will&nbsp;be&nbsp;bold.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toastTextElements[<span class="cs__number">0</span>].AppendChild(toastXml.CreateTextNode(ToastTitle));<span class="cs__com">//Toast&nbsp;notification&nbsp;title</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toastTextElements[<span class="cs__number">1</span>].AppendChild(toastXml.CreateTextNode(ToastBody&nbsp;&#43;&nbsp;<span class="cs__string">&quot;&nbsp;(Tag:&quot;</span>&nbsp;&#43;&nbsp;strTag&nbsp;&#43;&nbsp;<span class="cs__string">&quot;,&nbsp;Group:&quot;</span>&nbsp;&#43;&nbsp;strGroup&nbsp;&#43;&nbsp;<span class="cs__string">&quot;)&quot;</span>));<span class="cs__com">//Toast&nbsp;notification&nbsp;body</span>&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;Set&nbsp;the&nbsp;duration&nbsp;on&nbsp;the&nbsp;toast</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IXmlNode&nbsp;toastNode&nbsp;=&nbsp;toastXml.SelectSingleNode(<span class="cs__string">&quot;/toast&quot;</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;((XmlElement)toastNode).SetAttribute(<span class="cs__string">&quot;duration&quot;</span>,&nbsp;<span class="cs__string">&quot;long&quot;</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ToastNotification&nbsp;toast&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;ToastNotification(toastXml);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toast.ExpirationTime&nbsp;=&nbsp;DateTimeOffset.UtcNow.AddSeconds(<span class="cs__number">10</span>);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//Check&nbsp;Toast&nbsp;popup&nbsp;required&nbsp;to&nbsp;display</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">if</span>(!IsToastPopUpRequired)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toast.SuppressPopup&nbsp;=&nbsp;<span class="cs__keyword">true</span>;<span class="cs__com">//to&nbsp;send&nbsp;notification&nbsp;directly&nbsp;to&nbsp;action&nbsp;center&nbsp;without&nbsp;displaying&nbsp;a&nbsp;popup&nbsp;on&nbsp;phone.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//Note:&nbsp;Tag&nbsp;&amp;&nbsp;Group&nbsp;properties&nbsp;are&nbsp;optional,but&nbsp;these&nbsp;are&nbsp;userful&nbsp;for&nbsp;delete/update&nbsp;particular&nbsp;notification&nbsp;from&nbsp;app</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toast.Tag&nbsp;=&nbsp;strTag;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;toast.Group&nbsp;=&nbsp;strGroup;&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ToastNotificationManager.CreateToastNotifier().Show(toast);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">public</span>&nbsp;async&nbsp;<span class="cs__keyword">void</span>&nbsp;DisplayMessage(<span class="cs__keyword">string</span>&nbsp;Message)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MessageDialog&nbsp;messageDialog&nbsp;=&nbsp;<span class="cs__keyword">new</span>&nbsp;MessageDialog(Message);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;await&nbsp;messageDialog.ShowAsync();&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;<strong style="font-family:Verdana,sans-serif">Note:</strong><span style="font-family:Verdana,sans-serif">See the highlighted color in above code,When we want to send a local toast notification directly to action center without
+ showing toast popup, we need to set</span><strong style="font-family:Verdana,sans-serif">&nbsp;&quot;toast.SuppressPopup = true;&quot;&nbsp;</strong></div>
+</span></div>
+</div>
+<div><span style="font-size:small"><br>
+</span></div>
+<div><span style="font-size:small"><strong>Step 5:</strong></span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small">Now we made all neccessary &nbsp;methods for interacting with notification center.&nbsp;OK&nbsp;let's play with following action center interactions from app.</span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small"><strong>1)Sending a local notification to action center</strong></span></div>
+<div><span style="font-size:small">Initially&nbsp;action center will shows you with 'no notifications' message.
+</span>
+<p class="separator"><span style="font-size:small"><a href="http://3.bp.blogspot.com/-9Ax1X6trpLk/VIBMk1oLfaI/AAAAAAAABZc/jjR3I2F63QQ/s1600/NoNotifications.PNG"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-9Ax1X6trpLk%2FVIBMk1oLfaI%2FAAAAAAAABZc%2FjjR3I2F63QQ%2Fs1600%2FNoNotifications.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="223" height="400"></a></span></p>
+<p class="separator"><span style="font-family:Verdana,sans-serif; font-size:small">In below code i am trying send local toast notification to action center with toast popup,so i set fifth parameter of helper method (i.e IsToastPopUpRequired) is 'true'</span></p>
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">//Sending local toast notifications to action scenter with popup  .
+        private void BtnSendToast_Click(object sender, RoutedEventArgs e)
+        {
+            //Check notificationsettings status from user device
+            if (CanSendToasts())
+            {
+                MakingToastNotification(&quot;Toast_with_Popup: &quot;, &quot;Notitification &quot; &#43; ToastCount&#43;&#43;, &quot;T&quot; &#43; ToastCount.ToString(), &quot;G1&quot;, true);
+            }
+        }</pre>
+<div class="preview">
+<pre class="csharp"><span class="cs__com">//Sending&nbsp;local&nbsp;toast&nbsp;notifications&nbsp;to&nbsp;action&nbsp;scenter&nbsp;with&nbsp;popup&nbsp;&nbsp;.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;BtnSendToast_Click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//Check&nbsp;notificationsettings&nbsp;status&nbsp;from&nbsp;user&nbsp;device</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">if</span>&nbsp;(CanSendToasts())&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MakingToastNotification(<span class="cs__string">&quot;Toast_with_Popup:&nbsp;&quot;</span>,&nbsp;<span class="cs__string">&quot;Notitification&nbsp;&quot;</span>&nbsp;&#43;&nbsp;ToastCount&#43;&#43;,&nbsp;<span class="cs__string">&quot;T&quot;</span>&nbsp;&#43;&nbsp;ToastCount.ToString(),&nbsp;<span class="cs__string">&quot;G1&quot;</span>,&nbsp;<span class="cs__keyword">true</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;<a href="http://4.bp.blogspot.com/-DYrCzwRTJj0/VIBOgs9n1CI/AAAAAAAABZo/7AJgSvf14qs/s1600/ToastWithPopup.PNG" style="font-size:small"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-DYrCzwRTJj0%2FVIBOgs9n1CI%2FAAAAAAAABZo%2F7AJgSvf14qs%2Fs1600%2FToastWithPopup.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="640" height="530"></a></div>
+</div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small">After sending some local notifications , our app notifications will be shown in action center like this
+<p class="separator"><a href="http://1.bp.blogspot.com/--4xTpVOexCI/VIBPlaAbKNI/AAAAAAAABZ0/-VnHpY4BmwU/s1600/ActionCenter.PNG"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F1.bp.blogspot.com%2F--4xTpVOexCI%2FVIBPlaAbKNI%2FAAAAAAAABZ0%2F-VnHpY4BmwU%2Fs1600%2FActionCenter.PNG&container=blogger&gadget=a&rewriteMime=image%2F*" border="0" alt="" width="640" height="474"></a></p>
+</span></div>
+<div><span style="font-size:small"><strong>2)Sending a local notification to action center without toast popup:</strong></span></div>
+<div><span style="font-size:small">In below code i am trying send local toast notification to action center without showing toast popup,so i set fifth parameter of helper method (i.e IsToastPopUpRequired) is 'false'
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">//Sending local toast notifications to action scenter without popup  .
+        private void BtnSendToastNoPopup_Click(object sender, RoutedEventArgs e)
+        {
+            //Check notification settings status from user device
+            if (CanSendToasts())
+            {
+                MakingToastNotification(&quot;Toast_without_Popup: &quot;, &quot;Notitification &quot; &#43; ToastCount&#43;&#43;, &quot;T&quot;&#43;ToastCount.ToString(), &quot;G2&quot;, false);
+            }
+        }</pre>
+<div class="preview">
+<pre class="csharp"><span class="cs__com">//Sending&nbsp;local&nbsp;toast&nbsp;notifications&nbsp;to&nbsp;action&nbsp;scenter&nbsp;without&nbsp;popup&nbsp;&nbsp;.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;BtnSendToastNoPopup_Click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//Check&nbsp;notification&nbsp;settings&nbsp;status&nbsp;from&nbsp;user&nbsp;device</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">if</span>&nbsp;(CanSendToasts())&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MakingToastNotification(<span class="cs__string">&quot;Toast_without_Popup:&nbsp;&quot;</span>,&nbsp;<span class="cs__string">&quot;Notitification&nbsp;&quot;</span>&nbsp;&#43;&nbsp;ToastCount&#43;&#43;,&nbsp;<span class="cs__string">&quot;T&quot;</span>&#43;ToastCount.ToString(),&nbsp;<span class="cs__string">&quot;G2&quot;</span>,&nbsp;<span class="cs__keyword">false</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;<strong><span style="font-family:Verdana,sans-serif">3)Remove specific notification from the Action Center:</span></strong></div>
+</span></div>
+<div><span style="font-family:Verdana,sans-serif; font-size:small">We can remove a specific notification based on its Tag &amp; Group property values . Here i am trying to remove notification which is having Tag property value is 'T1' ,However i am also explained
+ different ways for removing notification in comment lines.
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">//Remove notifications from code .
+        private void BtnRemoveToast_Click(object sender, RoutedEventArgs e)
+        {
+            //To Remove all notifications with the given Tag id
+            ToastNotificationManager.History.Remove(&quot;T1&quot;);
+
+            //To Remove all notifications with the given Tag id and Group id
+            //ToastNotificationManager.History.RemoveGroup(&quot;T1&quot;,&quot;G1&quot;);
+
+            //To Remove all notifications with the given Group id
+           // ToastNotificationManager.History.RemoveGroup(&quot;G1&quot;);
+
+            //To Remove all notifications
+            //ToastNotificationManager.History.Clear();
+
+            DisplayMessage(&quot;Notifications with Tag 'T1' have been removed.\n Open action center to verify.&quot;);
+        }</pre>
+<div class="preview">
+<pre class="csharp"><span class="cs__com">//Remove&nbsp;notifications&nbsp;from&nbsp;code&nbsp;.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;BtnRemoveToast_Click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//To&nbsp;Remove&nbsp;all&nbsp;notifications&nbsp;with&nbsp;the&nbsp;given&nbsp;Tag&nbsp;id</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ToastNotificationManager.History.Remove(<span class="cs__string">&quot;T1&quot;</span>);&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//To&nbsp;Remove&nbsp;all&nbsp;notifications&nbsp;with&nbsp;the&nbsp;given&nbsp;Tag&nbsp;id&nbsp;and&nbsp;Group&nbsp;id</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//ToastNotificationManager.History.RemoveGroup(&quot;T1&quot;,&quot;G1&quot;);</span>&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//To&nbsp;Remove&nbsp;all&nbsp;notifications&nbsp;with&nbsp;the&nbsp;given&nbsp;Group&nbsp;id</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//&nbsp;ToastNotificationManager.History.RemoveGroup(&quot;G1&quot;);</span>&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//To&nbsp;Remove&nbsp;all&nbsp;notifications</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__com">//ToastNotificationManager.History.Clear();</span>&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DisplayMessage(<span class="cs__string">&quot;Notifications&nbsp;with&nbsp;Tag&nbsp;'T1'&nbsp;have&nbsp;been&nbsp;removed.\n&nbsp;Open&nbsp;action&nbsp;center&nbsp;to&nbsp;verify.&quot;</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;<strong style="font-family:Verdana,Arial,Helvetica,sans-serif"><span style="font-family:Verdana,sans-serif">4)Update specific notification from the Action Center:</span></strong></div>
+</span></div>
+<div><span style="font-size:small">We can update a specific notification based on its Tag &amp; Group property values . Here i am trying to update notification which is having Tag property value is 'T1' and Group property value is 'G1'.
+<div class="scriptcode">
+<div class="pluginEditHolder" pluginCommand="mceScriptCode">
+<div class="title"><span>C#</span></div>
+<div class="pluginLinkHolder"><span class="pluginEditHolderLink">Edit</span>|<span class="pluginRemoveHolderLink">Remove</span></div>
+<span class="hidden">csharp</span>
+<pre class="hidden">//Update notifications from code .
+        private void BtnUpdateToast_Click(object sender, RoutedEventArgs e)
+        {
+            MakingToastNotification(&quot;Toast_without_Popup: &quot;, &quot;Notitification 1 is updated &quot;,&quot;T1&quot;, &quot;G1&quot;, false);//Update the notifcation which is having Tag 1 ,Group G1
+            DisplayMessage(&quot;Notifications has been updated with new content.&quot;);
+        }</pre>
+<div class="preview">
+<pre class="csharp"><span class="cs__com">//Update&nbsp;notifications&nbsp;from&nbsp;code&nbsp;.</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cs__keyword">private</span>&nbsp;<span class="cs__keyword">void</span>&nbsp;BtnUpdateToast_Click(<span class="cs__keyword">object</span>&nbsp;sender,&nbsp;RoutedEventArgs&nbsp;e)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MakingToastNotification(<span class="cs__string">&quot;Toast_without_Popup:&nbsp;&quot;</span>,&nbsp;<span class="cs__string">&quot;Notitification&nbsp;1&nbsp;is&nbsp;updated&nbsp;&quot;</span>,<span class="cs__string">&quot;T1&quot;</span>,&nbsp;<span class="cs__string">&quot;G1&quot;</span>,&nbsp;<span class="cs__keyword">false</span>);<span class="cs__com">//Update&nbsp;the&nbsp;notifcation&nbsp;which&nbsp;is&nbsp;having&nbsp;Tag&nbsp;1&nbsp;,Group&nbsp;G1</span>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DisplayMessage(<span class="cs__string">&quot;Notifications&nbsp;has&nbsp;been&nbsp;updated&nbsp;with&nbsp;new&nbsp;content.&quot;</span>);&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</pre>
+</div>
+</div>
+</div>
+<div class="endscriptcode">&nbsp;<strong style="font-family:Verdana,sans-serif">Summary:</strong></div>
+</span></div>
+<div>
+<h2>
+<div>
+<p><span style="font-size:small"><span style="font-family:Verdana,sans-serif">From this article we have learned &quot;Integrate Notification Center in windowsphone 8.1 application&quot;.&nbsp;</span>I hope i wrote this post with my best level,<span style="font-family:Verdana,sans-serif">When
+ writing this article, i had taken lot of hard works and making nice&nbsp;presentation&nbsp;to understand the article at&nbsp;beginners level.</span></span></p>
+<pre class="csharp"><p class="endscriptcode"><span style="font-size:small"><strong>You may read more about this at&nbsp;<a title="MyBlog Reference" href="http://bsubramanyamraju.blogspot.com/2014/12/windowsphone-81-action-center.html" >MyBlog</a></strong></span></p><p><span style="font-size:small"><strong>Help me with feedback:</strong></span></p><p><span style="font-size:small">Thank you for reading my article. Drop all your questions/comments in QA tab give me your feedback with&nbsp;<img id="67168" src="description/Ratings.png" alt="" width="74" height="15">&nbsp;star rating (1 Star - Very Poor, 5&nbsp;Star -&nbsp;Very Nice). &nbsp;</span></p></pre>
+<p>&nbsp;</p>
+<p><span style="font-size:small"><span style="font-family:Verdana,sans-serif"><br>
+</span></span></p>
+</div>
+</h2>
+</div>
+
+</div>
+
+
+    </div>
+</body>
+</html>

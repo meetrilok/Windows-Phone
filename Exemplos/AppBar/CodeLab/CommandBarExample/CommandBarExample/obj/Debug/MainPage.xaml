@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="CommandBarExample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CommandBarExample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="appbarbutton"/>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton Label="appbarbutton">
+                <AppBarButton.Icon>
+                    <FontIcon Glyph="B"/>
+                </AppBarButton.Icon>
+            </AppBarButton>
+            <AppBarButton x:ConnectionId='1' Icon="Cancel" Label="appbarbutton"                           />
+            <AppBarToggleButton Icon="Accept" Label="appbartogglebutton"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+
+    </Grid>
+</Page>
+

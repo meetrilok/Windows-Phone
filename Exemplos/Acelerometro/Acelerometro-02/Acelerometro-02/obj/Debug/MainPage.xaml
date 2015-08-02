@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="Acelerometro_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Acelerometro_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+
+        <TextBlock 
+            HorizontalAlignment="Center" 
+            Margin="39,41,40,570" 
+            TextWrapping="Wrap" 
+            Text="Inclinação" 
+            TextAlignment="Center"
+            FontSize="24" 
+            VerticalAlignment="Center" 
+            Width="321" />
+
+        <TextBlock 
+            x:Name="lblIncX" 
+            HorizontalAlignment="Center" 
+            Margin="39,89,40,522" 
+            TextWrapping="Wrap" 
+            Text="X = " 
+            FontSize="24" 
+            VerticalAlignment="Center" 
+            Width="321" />
+
+        <TextBlock 
+            x:Name="lblIncY" 
+            HorizontalAlignment="Center" 
+            Margin="39,123,40,488" 
+            TextWrapping="Wrap" 
+            Text="Y = " 
+            FontSize="24" 
+            VerticalAlignment="Center" 
+            Width="321" />
+
+        <TextBlock 
+            x:Name="lblIncZ" 
+            HorizontalAlignment="Center" 
+            Margin="39,152,40,459" 
+            TextWrapping="Wrap" 
+            Text="Z = " 
+            FontSize="24" 
+            VerticalAlignment="Center" 
+            Width="321" />
+    </Grid>
+
+</Page>
+

@@ -1,0 +1,73 @@
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Assets\ApplicationIcon.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Example.dll
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Example.pdb
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\AppManifest.xaml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Properties\WMAppManifest.xml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\Bin\Debug\Example_Debug_AnyCPU.xap
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\App.g.cs
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\MainPage.g.cs
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\Example.g.resources
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\Example.Resources.AppResources.resources
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\Example.csproj.GenerateResource.Cache
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\Example.dll
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\Example.pdb
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Example\Example\obj\Debug\XapCacheFile.xml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Assets\ApplicationIcon.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Example.dll
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Example.pdb
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\AppManifest.xaml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Properties\WMAppManifest.xml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\Bin\Debug\Example_Debug_AnyCPU.xap
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\App.g.cs
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\MainPage.g.cs
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\Example.g.resources
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\Example.Resources.AppResources.resources
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\Example.csproj.GenerateResource.Cache
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\Example.dll
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\Example.pdb
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Animation\Example\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Example.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Example.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Example.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\Bin\Debug\Example_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\Example.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\Example.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\Example.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\Example.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\Example.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Animation\CodeLab\Animation\Animation\Example\obj\Debug\XapCacheFile.xml

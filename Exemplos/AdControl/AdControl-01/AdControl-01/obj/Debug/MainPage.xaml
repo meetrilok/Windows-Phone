@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="AdControl_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AdControl_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.Mobile.UI"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <UI:AdControl 
+          AutoRefreshIntervalInSeconds="60" 
+          ApplicationId="test_client" 
+          AdUnitId="Image320_50" 
+          HorizontalAlignment="Left" 
+          Height="50" 
+          IsAutoRefreshEnabled="True" 
+          Margin="45,590,0,0" 
+          VerticalAlignment="Top" 
+          Width="320"/>
+    </Grid>
+</Page>
+

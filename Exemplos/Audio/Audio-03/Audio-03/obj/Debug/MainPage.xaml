@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="Audio_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Audio_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <StackPanel>
+            <MediaElement 
+                x:Name="myMediaElement"
+                Height="10"
+                Width="10" />
+        </StackPanel>
+
+        <Button x:ConnectionId='1' 
+            x:Name="playSoundButton"
+            Height="80"
+            Width="200"
+            Content="Toca a Música"
+                                          
+            Margin="95,121,0,439" />
+
+        <Button x:ConnectionId='2' 
+            x:Name="stopSoundButton"
+            Height="80"
+            Width="200"
+            Content="Pára a Música"
+                                          
+            Margin="95,357,0,203" />
+
+        <Button x:ConnectionId='3' 
+            x:Name="pauseSoundButton"
+            Height="80"
+            Width="200"
+            Content="Pausa a Música"
+                                           
+            Margin="95,234,0,326" />
+
+    </Grid>
+
+</Page>
+

@@ -1,0 +1,64 @@
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\App.xbf
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\ActionCenterSample.xr.xml
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\ActionCenterSample.exe
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\ActionCenterSample.pdb
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\resources.pri
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\AppxManifest.xml
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\ActionCenterSample.build.appxrecipe
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\App.g.i.cs
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\App.g.cs
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\XamlTypeInfo.g.cs
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\App.xaml
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\App.xbf
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\XamlSaveStateFile.xml
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\ActionCenterSample.exe
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\ActionCenterSample.pdb
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\priconfig.xml
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\priconfig.xml.intermediate
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\layout.resfiles
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\layout.resfiles.intermediate
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\resources.resfiles
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\resources.resfiles.intermediate
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\pri.resfiles
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\pri.resfiles.intermediate
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\qualifiers.txt
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\qualifiers.txt.intermediate
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\ProjectArchitectures.txt
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\bin\Debug\MainPage.xbf
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\MainPage.g.i.cs
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\MainPage.g.cs
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\MainPage.xaml
+D:\Subbu\Subbu_Wp8.1\ActionCenterSample\ActionCenterSample\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\ActionCenterSample.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\ActionCenterSample.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\ActionCenterSample.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\bin\Debug\ActionCenterSample.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\ActionCenterSample.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\ActionCenterSample.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ActionCenter\Codelab\Action Center\C#\ActionCenterSample\obj\Debug\ProjectArchitectures.txt

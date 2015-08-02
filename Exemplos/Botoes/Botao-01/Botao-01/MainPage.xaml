@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="Botao_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Botao_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <!--
+    Olhar esta URL para todas as opçoes do Inscope
+    http://msdn.microsoft.com/en-us/library/windows/apps/hh393998(v=vs.105).aspx
+    -->
+
+    <Grid Background="#64B5F6">
+        <TextBlock
+		    x:Name="lblResultado"
+            HorizontalAlignment="Center"
+		    Margin="10,194,10,0"
+		    TextWrapping="Wrap"
+            TextAlignment="Center"
+		    Text="Voce Ainda Não Digitou Nada"
+		    FontSize="24"
+		    VerticalAlignment="Top" Width="380" />
+
+        <TextBox
+            x:Name="txtDigita"
+            HorizontalAlignment="Left"
+            Margin="93,118,0,0"
+            TextWrapping="NoWrap"
+            Text=""
+            InputScope="Number"
+            VerticalAlignment="Top"
+            Width="199" />
+
+        <Button
+		    x:Name="btnExecuta"
+		    Content="Executa"
+		    HorizontalAlignment="Left"
+		    Margin="144,312,0,0"
+		    VerticalAlignment="Top"
+		    Click="btnExecuta_Click" />
+
+        <TextBlock
+        	x:Name="lblNumero"
+        	HorizontalAlignment="Left"
+        	Margin="95,65,0,0"
+        	TextWrapping="Wrap"
+        	Text="Digite um Número"
+        	FontSize="24"
+        	VerticalAlignment="Top" />
+    </Grid>
+</Page>

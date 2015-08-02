@@ -1,0 +1,76 @@
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\App.g.cs
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\MainPage.g.cs
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Page1.g.cs
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Page2.g.cs
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\passPage.g.cs
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Experiments.g.resources
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Experiments.Resources.AppResources.resources
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Experiments.csproj.GenerateResource.Cache
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Assets\ApplicationIcon.png
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Experiments.dll
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Experiments.pdb
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\AppManifest.xaml
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Properties\WMAppManifest.xml
+D:\Praca\Programowanie\Experiments\Experiments\Bin\Debug\Experiments_Debug_AnyCPU.xap
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Experiments.dll
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\Experiments.pdb
+D:\Praca\Programowanie\Experiments\Experiments\obj\Debug\XapCacheFile.xml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Assets\ApplicationIcon.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Experiments.dll
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Experiments.pdb
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\AppManifest.xaml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Properties\WMAppManifest.xml
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\Bin\Debug\Experiments_Debug_AnyCPU.xap
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\App.g.cs
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\MainPage.g.cs
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\Experiments.g.resources
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\Experiments.Resources.AppResources.resources
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\Experiments.csproj.GenerateResource.Cache
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\Experiments.dll
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\Experiments.pdb
+T:\Programowanie\StackOverflow\WindowsPhone\Experiments\Accelerometer\Experiments\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Experiments.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Experiments.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Experiments.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\Bin\Debug\Experiments_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\Experiments.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\Experiments.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\Experiments.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\Experiments.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\Experiments.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Acelerometro\CodeLab\Accelerometer\Accelerometer\Experiments\obj\Debug\XapCacheFile.xml

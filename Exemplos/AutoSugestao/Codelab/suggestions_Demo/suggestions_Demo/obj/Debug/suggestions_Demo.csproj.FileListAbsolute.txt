@@ -1,0 +1,64 @@
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\App.xbf
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\MainPage.xbf
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.xr.xml
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.exe
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.pdb
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\resources.pri
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\AppxManifest.xml
+E:\Unity\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.build.appxrecipe
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\App.g.i.cs
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\App.g.cs
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.g.i.cs
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.g.cs
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\XamlTypeInfo.g.cs
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\App.xaml
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\App.xbf
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\XamlSaveStateFile.xml
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.xaml
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.xbf
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\suggestions_Demo.exe
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\suggestions_Demo.pdb
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\priconfig.xml
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\priconfig.xml.intermediate
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\layout.resfiles
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\layout.resfiles.intermediate
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\resources.resfiles
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\resources.resfiles.intermediate
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\pri.resfiles
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\pri.resfiles.intermediate
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\qualifiers.txt
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\qualifiers.txt.intermediate
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Unity\suggestions_Demo\suggestions_Demo\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\bin\Debug\suggestions_Demo.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\suggestions_Demo.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\suggestions_Demo.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ComboBox\Codelab\suggestions_Demo\suggestions_Demo\obj\Debug\ProjectArchitectures.txt
