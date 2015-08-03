@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="SensorLuz_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SensorLuz_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <TextBlock
+		    x:Name="lblResultado"
+            HorizontalAlignment="Center"
+		    Margin="10,133,10,0"
+		    TextWrapping="Wrap"
+            TextAlignment="Center"
+		    Text="Sensor Não Foi Ativado"
+		    FontSize="24"
+		    VerticalAlignment="Top" Width="380" />
+
+        <Button
+		    x:Name="btnExecuta"
+		    Content="Executa"
+		    HorizontalAlignment="Left"
+		    Margin="145,220,0,0"
+		    VerticalAlignment="Top"
+		    Click="btnExecuta_Click" />
+
+        <TextBlock
+        	x:Name="lblNumero"
+        	HorizontalAlignment="Left"
+        	Margin="122,67,0,0"
+        	TextWrapping="Wrap"
+        	Text="Sensor de Luz"
+        	FontSize="24"
+        	VerticalAlignment="Top" />
+    </Grid>
+</Page>
+

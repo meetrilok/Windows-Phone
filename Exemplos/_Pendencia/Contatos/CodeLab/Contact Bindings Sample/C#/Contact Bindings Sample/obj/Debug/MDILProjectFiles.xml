@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>Contact Bindings Sample.dll</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\BadgeLogo.scale-240.png</File>
+    <File>Assets\Logo.scale-240.png</File>
+    <File>Assets\SplashScreen.scale-240.png</File>
+    <File>Assets\SquareTile150x150.scale-240.png</File>
+    <File>Assets\SquareTile71x71.scale-240.png</File>
+    <File>Assets\StoreLogo.scale-240.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Assets\WideLogo.scale-240.png</File>
+    <File>ConnectTileImages\ConnectTile_2001_2.png</File>
+    <File>ConnectTileImages\ConnectTile_2001_3.png</File>
+    <File>ConnectTileImages\ConnectTile_2001_1.png</File>
+    <File>ConnectTileImages\ConnectTile_2002_1.png</File>
+    <File>ConnectTileImages\ConnectTile_2003_2.png</File>
+    <File>ConnectTileImages\ConnectTile_2003_1.png</File>
+    <File>RemoteContactStore.xml</File>
+    <File>RemoteContactTileData_2003.xml</File>
+    <File>RemoteContactTileData_2002.xml</File>
+    <File>RemoteContactTileData_2001.xml</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Shared Library.dll</File>
+    <File>Special Agent.dll</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

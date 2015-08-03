@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="SoundAndVideo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SoundAndVideo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <MediaElement x:Name="myMediaElement" 
+                      Height="400" 
+                      Width="240" 
+                      Margin="0,40,0,40"
+                      MediaEnded="myMediaElement_MediaEnded"
+                      />
+
+        <Button x:Name="playSoundButton" 
+                Height="80" 
+                Width="200" 
+                Content="Play Sound" 
+                Click="playSoundButton_Click" />
+
+        <Button x:Name="playVideoButton"
+                Height="80"
+                Width="200"
+                Content="Play Video"
+                Click="playVideoButton_Click"/>
+
+
+    </StackPanel>
+</Page>

@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Contact Bindings Sample" EntryPointType="Contact_Bindings_Sample.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Contact Bindings Sample" Source="Contact Bindings Sample.dll" />
+    <AssemblyPart x:Name="Shared Library" Source="Shared Library.dll" />
+    <AssemblyPart x:Name="Special Agent" Source="Special Agent.dll" />
+  </Deployment.Parts>
+</Deployment>

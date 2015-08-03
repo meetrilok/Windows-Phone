@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Video_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Video_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <MediaElement 
+                x:Name="myMediaElement"
+                Height="400"
+                Width="400"
+                Source="/Assets/video.mp4" 
+                AutoPlay="False"/>
+        </StackPanel>
+
+        <Button 
+            x:Name="playSoundButton"
+            Height="80"
+            Width="173"
+            Content="Toca o Vídeo"
+            Click="playVideoButton_Click" 
+            Margin="121,417,0,143" />
+
+        <Button 
+            x:Name="stopSoundButton"
+            Height="80"
+            Width="173"
+            Content="Pára o Vídeo"
+            Click="stopVideoButton_Click" 
+            Margin="217,505,0,55" />
+
+        <Button 
+            x:Name="pauseSoundButton"
+            Height="80"
+            Width="173"
+            Content="Pausa o Vídeo"
+            Click="pauseVideoButton_Click" 
+            Margin="16,505,0,55" />
+
+    </Grid>
+
+</Page>

@@ -1,0 +1,27 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="Rotate_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Rotate_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+                                     
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <TextBox Header="WindowsPhone Store Orientations" Margin="10"  Name="txtOrientation" VerticalAlignment="Top" TextWrapping="Wrap" Foreground="#FF1CB8D1">
+                <TextBox.HeaderTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" FontSize="25" Foreground="Yellow"/>
+                    </DataTemplate>
+                </TextBox.HeaderTemplate>
+            </TextBox>
+            <Button x:ConnectionId='2' Name="OrientationBtn"  Content="Tap here to set your orientation" HorizontalAlignment="Center"                             />
+            <TextBlock Name="StatusTxtBlck" Margin="10" FontSize="20"/>
+        </StackPanel>
+    </Grid>
+
+</Page>
+

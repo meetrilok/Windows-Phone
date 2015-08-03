@@ -1,0 +1,7 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\Bin\Debug\Special Agent.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\Bin\Debug\Special Agent.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\Bin\Debug\Shared Library.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\Bin\Debug\Shared Library.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\obj\Debug\Special Agent.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\obj\Debug\Special Agent.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\obj\Debug\Special Agent.pdb

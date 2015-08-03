@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>CameraSampleCS.dll</File>
+    <File>Assets\BadgeLogo.scale-240.png</File>
+    <File>Assets\Icons\appbar.mode.variable.png</File>
+    <File>Assets\Icons\appbar.mode.lowlag.png</File>
+    <File>Assets\Icons\appbar.flash.auto.rest.png</File>
+    <File>Assets\Icons\appbar.flash.off.rest.png</File>
+    <File>Assets\Icons\appbar.flash.on.rest.png</File>
+    <File>Assets\Icons\appbar.ffc.dark.down.png</File>
+    <File>Assets\Icons\appbar.ffc.dark.rest.png</File>
+    <File>Assets\Icons\basecircle.dark.rest.png</File>
+    <File>Assets\Icons\camvid.arrow.rest.png</File>
+    <File>Assets\Icons\focusbracket.png</File>
+    <File>Assets\Logo.scale-240.png</File>
+    <File>Assets\SplashScreen.scale-240.png</File>
+    <File>Assets\SquareTile150x150.scale-240.png</File>
+    <File>Assets\SquareTile71x71.scale-240.png</File>
+    <File>Assets\StoreLogo.scale-240.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Assets\WideLogo.scale-240.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>MediaViewer.dll</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

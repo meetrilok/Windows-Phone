@@ -1,0 +1,53 @@
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Photochooser.dll
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Photochooser.pdb
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\AppManifest.xaml
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\Bin\Debug\Photochooser_Debug_AnyCPU.xap
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\App.g.cs
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\MainPage.g.cs
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\Photochooser.g.resources
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\Photochooser.Resources.AppResources.resources
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\Photochooser.csproj.GenerateResource.Cache
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\Photochooser.dll
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\Photochooser.pdb
+C:\Users\chetan\Documents\Visual Studio 2012\tutorials\Photochooser\Photochooser\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Photochooser.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Photochooser.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Photochooser.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\Bin\Debug\Photochooser_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\Photochooser.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\Photochooser.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\Photochooser.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\Photochooser.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\Photochooser.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Media\CodeLab\Photochooser\Photochooser\Photochooser\obj\Debug\XapCacheFile.xml

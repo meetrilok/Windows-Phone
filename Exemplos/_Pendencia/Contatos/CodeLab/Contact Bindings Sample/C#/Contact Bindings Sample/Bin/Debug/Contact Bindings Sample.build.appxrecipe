@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>63b18aa6-09d7-4dff-bd2e-36f14bcc23d6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Contact Bindings Sample.dll">
+      <PackagePath>Contact Bindings Sample.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\Bin\Debug\Shared Library.dll">
+      <PackagePath>Shared Library.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\Bin\Debug\Special Agent.dll">
+      <PackagePath>Special Agent.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\SquareTile150x150.scale-240.png">
+      <PackagePath>Assets\SquareTile150x150.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\SquareTile71x71.scale-240.png">
+      <PackagePath>Assets\SquareTile71x71.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\ConnectTileImages\ConnectTile_2001_2.png">
+      <PackagePath>ConnectTileImages\ConnectTile_2001_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\ConnectTileImages\ConnectTile_2001_3.png">
+      <PackagePath>ConnectTileImages\ConnectTile_2001_3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\ConnectTileImages\ConnectTile_2001_1.png">
+      <PackagePath>ConnectTileImages\ConnectTile_2001_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\ConnectTileImages\ConnectTile_2002_1.png">
+      <PackagePath>ConnectTileImages\ConnectTile_2002_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\ConnectTileImages\ConnectTile_2003_2.png">
+      <PackagePath>ConnectTileImages\ConnectTile_2003_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\ConnectTileImages\ConnectTile_2003_1.png">
+      <PackagePath>ConnectTileImages\ConnectTile_2003_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\RemoteContactStore.xml">
+      <PackagePath>RemoteContactStore.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\RemoteContactTileData_2003.xml">
+      <PackagePath>RemoteContactTileData_2003.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\RemoteContactTileData_2002.xml">
+      <PackagePath>RemoteContactTileData_2002.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\RemoteContactTileData_2001.xml">
+      <PackagePath>RemoteContactTileData_2001.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

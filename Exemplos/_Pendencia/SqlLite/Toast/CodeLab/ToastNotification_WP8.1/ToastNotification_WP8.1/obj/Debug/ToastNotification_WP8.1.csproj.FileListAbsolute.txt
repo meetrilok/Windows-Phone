@@ -1,0 +1,70 @@
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8.1.dll
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8.1.pdb
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\resources.pri
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\AppxManifest.xml
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8.1.build.appxrecipe
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\AppManifest.xaml
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8._1_Debug_AnyCPU.xap
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\App.g.cs
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\MainPage.g.cs
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.g.resources
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8._1.Resources.AppResources.resources
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.csproj.GenerateResource.Cache
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.dll
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.pdb
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\priconfig.xml
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\priconfig.xml.intermediate
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\layout.resfiles
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\layout.resfiles.intermediate
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\resources.resfiles
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\resources.resfiles.intermediate
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\pri.resfiles
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\pri.resfiles.intermediate
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\qualifiers.txt
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\qualifiers.txt.intermediate
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ProjectArchitectures.txt
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\MDILProjectFiles.xml
+c:\users\gr33n\documents\visual studio 2013\Projects\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8.1.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8.1.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8.1.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\Bin\Debug\ToastNotification_WP8._1_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8._1.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ToastNotification_WP8.1.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\obj\Debug\XapCacheFile.xml

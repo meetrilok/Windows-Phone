@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b6288ffb-9a2f-417f-92f5-3969f1c14890</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\MapControlSamples.exe">
+      <PackagePath>MapControlSamples.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\PinkPushPin.png">
+      <PackagePath>Assets\PinkPushPin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\Read Me.txt">
+      <PackagePath>Read Me.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\ControlsPage.xbf">
+      <PackagePath>ControlsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\WalkingRoutesPage.xbf">
+      <PackagePath>WalkingRoutesPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\DrivingRoutesPage.xbf">
+      <PackagePath>DrivingRoutesPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\GeopointToAddressPage.xbf">
+      <PackagePath>GeopointToAddressPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\AddressToGeopointPage.xbf">
+      <PackagePath>AddressToGeopointPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\CustomImagePage.xbf">
+      <PackagePath>CustomImagePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\DefaultImagePage.xbf">
+      <PackagePath>DefaultImagePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\BasicMapPage.xbf">
+      <PackagePath>BasicMapPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\MenuPage.xbf">
+      <PackagePath>MenuPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\MapControlSamples.xr.xml">
+      <PackagePath>MapControlSamples.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Maps\CodeLab\Code_Pijanowski.Mapping.1114\MapControlSamples\MapControlSamples\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

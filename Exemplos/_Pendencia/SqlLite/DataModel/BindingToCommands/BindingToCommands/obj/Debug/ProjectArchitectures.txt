@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson24_Code\BindingToCommands\BindingToCommands\BindingToCommands.csproj;neutral

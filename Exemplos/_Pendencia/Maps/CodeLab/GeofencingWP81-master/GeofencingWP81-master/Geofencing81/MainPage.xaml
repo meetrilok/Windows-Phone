@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="Geofencing81.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Geofencing81"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel VerticalAlignment="Center" >
+        <TextBlock TextWrapping="Wrap" Text="Name:" Margin="24,12,24,0"/>
+        <TextBox x:Name="NameText" Margin="24,12" TextWrapping="Wrap" Text="JaywayOffice" VerticalAlignment="Stretch"/>
+        <TextBlock TextWrapping="Wrap" Text="Latitude:" Margin="24,12,24,0"/>
+        <TextBox x:Name="LatitudeText" Margin="24,12" TextWrapping="Wrap" Text="55.6127809826285" VerticalAlignment="Stretch"/>
+        <TextBlock TextWrapping="Wrap" Text="Longitude:" Margin="24,12,24,0"/>
+        <TextBox x:Name="LongitudeText" Margin="24,12" TextWrapping="Wrap" Text="13.0031764693558" VerticalAlignment="Stretch"/>
+        <TextBlock TextWrapping="Wrap" Text="Radius:" Margin="24,12,24,0"/>
+        <TextBox x:Name="RadiusText" Margin="24,12" TextWrapping="Wrap" Text="1000" VerticalAlignment="Stretch"/>
+        <Button Content="Add coordinate for Geofencing" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="24,6,24,12" Click="AddCoordinate_Click"/>
+        <Button Content="Start Foreground Geofencing" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="24,12,24,0" Click="StartInForeground_Click"/>
+        <Button Content="Start Background Geofencing" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="24,0,24,12" Click="StartInBackground_Click"/>
+    </StackPanel>
+</Page>

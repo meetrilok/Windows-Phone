@@ -1,0 +1,4 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\Bin\Debug\Shared Library.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\Bin\Debug\Shared Library.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\obj\Debug\Shared Library.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\obj\Debug\Shared Library.pdb

@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\Comic.csproj;neutral

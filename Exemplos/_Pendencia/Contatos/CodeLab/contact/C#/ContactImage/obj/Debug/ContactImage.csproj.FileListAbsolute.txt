@@ -1,0 +1,37 @@
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\Assets\ApplicationIcon.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\ContactImage.dll
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\ContactImage.pdb
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\AppManifest.xaml
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\Bin\Debug\ContactImage_Debug_AnyCPU.xap
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\App.g.cs
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\MainPage.g.cs
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\ContactImage.g.resources
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\ContactImage.Resources.AppResources.resources
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\ContactImage.csproj.GenerateResource.Cache
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\ContactImage.dll
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\ContactImage.pdb
+D:\Subbu\MyAtrilce's-WindowsPhone\ContactImage\ContactImage\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\ContactImage.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\ContactImage.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\Bin\Debug\ContactImage_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\ContactImage.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\ContactImage.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\ContactImage.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\ContactImage.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\ContactImage.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\contact\C#\ContactImage\obj\Debug\XapCacheFile.xml

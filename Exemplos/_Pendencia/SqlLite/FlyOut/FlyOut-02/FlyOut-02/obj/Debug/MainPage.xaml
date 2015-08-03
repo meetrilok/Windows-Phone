@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="FlyOut_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FlyOut_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF6C7476">
+        <Button Content="Press me!" Margin="137,292,0,291">
+            <Button.Flyout>
+                <Flyout Placement="Bottom">
+                    <TextBox Header="Enter the name" />
+                </Flyout>
+            </Button.Flyout>
+        </Button>
+
+        <HubSection MinWidth="1000" Header="Sunset in Peschici (Apulia)">
+            <DataTemplate>
+                <StackPanel>
+                    <Image Source="http://distilleryimage8.ak.instagram.com/f0a5619826b411e39cc222000a9f38cc_7.jpg" Margin="0,20,0,0" />
+                    <StackPanel>
+                        <TextBlock Style="{ThemeResource BodyTextBlockStyle}"><Run Text="Taken:" FontWeight="Bold" /><Run Text="August, 12 2012" /></TextBlock>
+                        <TextBlock Style="{ThemeResource BodyTextBlockStyle}"><Run Text="Camera:" FontWeight="Bold" /><Run Text="Leica V-Lux 2" /></TextBlock>
+                        <TextBlock Style="{ThemeResource BodyTextBlockStyle}"><Run Text="Place:" FontWeight="Bold" /><Run Text="Peschici, Apulia (Italy)" /></TextBlock>
+                    </StackPanel>
+                </StackPanel>
+            </DataTemplate>
+        </HubSection>
+
+
+
+    </Grid>
+
+</Page>
+

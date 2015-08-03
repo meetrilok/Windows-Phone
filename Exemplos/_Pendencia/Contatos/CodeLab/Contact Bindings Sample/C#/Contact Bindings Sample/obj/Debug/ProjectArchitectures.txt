@@ -1,0 +1,4 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Contact Bindings Sample.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\Shared Library.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Shared Library\Shared Library.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Special Agent\Special Agent.csproj;neutral

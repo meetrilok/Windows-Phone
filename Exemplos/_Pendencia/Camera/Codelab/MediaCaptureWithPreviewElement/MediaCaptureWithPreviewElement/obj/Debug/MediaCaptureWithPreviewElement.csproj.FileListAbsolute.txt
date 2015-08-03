@@ -1,0 +1,64 @@
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\App.xbf
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MainPage.xbf
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.xr.xml
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.exe
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.pdb
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\resources.pri
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\AppxManifest.xml
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.build.appxrecipe
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.g.i.cs
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.g.cs
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.g.i.cs
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.g.cs
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.xaml
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.xbf
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.xaml
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.xbf
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MediaCaptureWithPreviewElement.exe
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MediaCaptureWithPreviewElement.pdb
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\priconfig.xml
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\priconfig.xml.intermediate
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\layout.resfiles
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\layout.resfiles.intermediate
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\resources.resfiles
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\resources.resfiles.intermediate
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\pri.resfiles
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\pri.resfiles.intermediate
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\qualifiers.txt
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marco\Documents\Dev\Samples\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\bin\Debug\MediaCaptureWithPreviewElement.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MediaCaptureWithPreviewElement.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MediaCaptureWithPreviewElement.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\MediaCaptureWithPreviewElement\MediaCaptureWithPreviewElement\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,5 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\MediaViewer\Bin\Debug\MediaViewer.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\MediaViewer\Bin\Debug\MediaViewer.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\MediaViewer\obj\Debug\MediaViewer.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\MediaViewer\obj\Debug\MediaViewer.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\MediaViewer\obj\Debug\MediaViewer.pdb

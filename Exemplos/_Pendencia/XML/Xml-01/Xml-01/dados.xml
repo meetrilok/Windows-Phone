@@ -1,0 +1,26 @@
+﻿<pessoa>
+  <individuo>
+    <nome>Claudia</nome>
+    <sobrenome>Silva</sobrenome>
+    <imagem>/Images/usuario1.jpg</imagem>
+  </individuo>
+
+  <individuo>
+    <nome>Alexandre</nome>
+    <sobrenome>Soares</sobrenome>
+    <imagem>/Images/usuario2.jpg</imagem>
+  </individuo>
+
+  <individuo>
+    <nome>Maria</nome>
+    <sobrenome>Silva</sobrenome>
+    <imagem>/Images/usuario3.png</imagem>
+  </individuo>
+
+  <individuo>
+    <nome>Fernanda</nome>
+    <sobrenome>Monteiro</sobrenome>
+    <imagem>/Images/usuario4.png</imagem>
+  </individuo>
+  
+</pessoa>

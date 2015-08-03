@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="ProgressIndicatorSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:local="using:ProgressBehaviorSample"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <i:Interaction.Behaviors>
+        <local:ProgressBehavior IsVisible="{Binding Loading}" 
+                                Value="{Binding LoadingValue}"
+                                Text="Loading"/>
+    </i:Interaction.Behaviors>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,12,0,17">
+            <TextBlock Text="Samples" Style="{ThemeResource BodyTextBlockStyle}" Margin="12,0"/>
+            <TextBlock Text="progress indicator" Margin="9,-7,0,0" Style="{StaticResource BodyTextBlockStyle}" 
+                       FontSize="46"/>
+        </StackPanel>
+        <StackPanel Margin="24,0" Grid.Row="1">
+            <ToggleSwitch Header="ProgressIndicator"
+                          IsOn="{Binding Loading, Mode=TwoWay}"/>
+            <CheckBox x:Name="DeterminateCheckbox" Content="Determinate progress"
+                      IsThreeState="False" IsChecked="{Binding Determinate, Mode=TwoWay}"/>
+            <Slider Minimum="0" Maximum="1" StepFrequency=".05" Header="Progress value"
+                    IsEnabled="{Binding IsChecked, ElementName=DeterminateCheckbox}"
+                    Value="{Binding LoadingValue, Mode=TwoWay}"/>
+        </StackPanel>
+    </Grid>
+</Page>
+

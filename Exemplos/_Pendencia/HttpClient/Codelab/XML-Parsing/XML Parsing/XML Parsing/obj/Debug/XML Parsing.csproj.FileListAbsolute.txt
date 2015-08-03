@@ -1,0 +1,38 @@
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\XML Parsing.dll
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\XML Parsing.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\AppManifest.xaml
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\Bin\Debug\XML_Parsing_Debug_AnyCPU.xap
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\App.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\MainPage.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\XML Parsing.g.resources
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\XML_Parsing.Resources.AppResources.resources
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\XML Parsing.csproj.GenerateResource.Cache
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\XML Parsing.dll
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\XML Parsing.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\XML Parsing\XML Parsing\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\XML Parsing.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\XML Parsing.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\Bin\Debug\XML_Parsing_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\XML Parsing.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\XML_Parsing.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\XML Parsing.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\XML Parsing.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\XML Parsing.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\HttpClient\Codelab\XML-Parsing\XML Parsing\XML Parsing\obj\Debug\XapCacheFile.xml

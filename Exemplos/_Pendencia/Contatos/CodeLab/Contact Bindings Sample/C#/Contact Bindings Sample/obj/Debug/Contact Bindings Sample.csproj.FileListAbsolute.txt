@@ -1,0 +1,42 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Contact Bindings Sample.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Contact Bindings Sample.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Contact Bindings Sample.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Contact Bindings Sample_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Shared Library.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Special Agent.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Shared Library.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\Bin\Debug\Special Agent.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\Contact Bindings Sample.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\ManualConnect.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\ShowContact.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\Contact Bindings Sample.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\Contact_Bindings_Sample.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\Contact Bindings Sample.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\Contact Bindings Sample.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\Contact Bindings Sample.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\Contact Bindings Sample\C#\Contact Bindings Sample\obj\Debug\XapCacheFile.xml

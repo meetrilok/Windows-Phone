@@ -1,0 +1,74 @@
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\AddRitual.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\bin\Debug\DailyRituals.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\AddRitual.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\DailyRituals.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\DailyRituals.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson26_Code\DailyRituals\DailyRituals\obj\Debug\ProjectArchitectures.txt

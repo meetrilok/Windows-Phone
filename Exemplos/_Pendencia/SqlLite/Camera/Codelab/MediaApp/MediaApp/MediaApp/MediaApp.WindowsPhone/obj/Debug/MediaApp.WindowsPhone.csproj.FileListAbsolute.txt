@@ -1,0 +1,126 @@
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\App.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\LiveCamera.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\LoadPhoto.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.xr.xml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.exe
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.pdb
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\resources.pri
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.build.appxrecipe
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.g.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.g.i.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.g.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.g.i.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.g.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.xaml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.xaml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.xaml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MediaApp.WindowsPhone.exe
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MediaApp.WindowsPhone.pdb
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ivansa\documents\visual studio 2013\Projects\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\LiveCamera.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\LoadPhoto.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.xr.xml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.exe
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.pdb
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.build.appxrecipe
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.g.i.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.g.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.g.i.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.g.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.xaml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.xaml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MediaApp.WindowsPhone.exe
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MediaApp.WindowsPhone.pdb
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tomasz\Desktop\Temp\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\LiveCamera.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\LoadPhoto.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\bin\Debug\MediaApp.WindowsPhone.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LoadPhoto.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\LiveCamera.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MediaApp.WindowsPhone.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MediaApp.WindowsPhone.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Video\CodeLab\MediaApp\MediaApp\MediaApp\MediaApp.WindowsPhone\obj\Debug\ProjectArchitectures.txt

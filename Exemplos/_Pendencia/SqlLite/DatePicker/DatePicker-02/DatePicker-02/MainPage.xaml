@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="DatePicker_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DatePicker_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF6C7476">
+        <DatePicker Header="With padding zero" DayFormat="{}{day.integer(2)}" DayVisible="True" MonthFormat="{}{month.integer(2)}" MonthVisible="True"  YearFormat="{}{year.full(2)}" YearVisible="True" Margin="0,75,0,-75" />
+        <DatePicker Header="Custom format" DayFormat="{}{dayofweek.abbreviated} - {day.integer(2)}" DayVisible="True"  MonthFormat="{}{month.abbreviated(3)}" MonthVisible="True" YearFormat="{}{year.abbreviated}" YearVisible="True" Margin="0,168,0,-168" />
+        <DatePicker Header="Week day only" DayFormat="{}{dayofweek.full}" DayVisible="True" MonthVisible="False" YearVisible="False" />
+    </Grid>
+
+</Page>

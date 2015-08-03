@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="Comic.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Comic"
+    xmlns:common="using:Comic.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+    <Page.Background>
+        <ImageBrush ImageSource="/Assets/wood.jpg"></ImageBrush>
+    </Page.Background>
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <CommonNavigationTransitionInfo IsStaggeringEnabled="True"/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+    <Grid>
+        
+
+        <!--background banner-->
+    
+        <StackPanel Margin="0,-27,0,579">
+            <Grid>
+                <TextBlock x:Name="txttitle" Foreground="DeepPink" FontSize="80" FontWeight="Bold" FontFamily="Buxton Sketch" SelectionHighlightColor="#FFF3F3F5" Margin="14,39,10,-103">
+        		<Run Text="Than dong dat viet" FontFamily="Comic Sans MS" FontSize="40"/>
+                </TextBlock>
+            </Grid>
+            
+        </StackPanel>
+        <!--content-->
+        <StackPanel Margin="0,90,0,0">
+            <ListBox x:ConnectionId='1' x:Name="lstcomic" Height="549" Background="Transparent"                                             >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="340"/>
+                                <ColumnDefinition Width="20"/>
+
+                                <ColumnDefinition Width="300"/>
+                                <ColumnDefinition Width="100"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Orientation="Horizontal">
+                                <Image x:Name="imagescomic" Width="100" Height="100" HorizontalAlignment="Left" Source="{Binding urlimg}"/>
+                                <TextBlock x:Name="txtpart" Foreground="White" VerticalAlignment="Top" Text="{Binding part}" HorizontalAlignment="Left" FontSize="10"/>
+
+                                <TextBlock x:Name="txtname" Foreground="#FF1493" VerticalAlignment="Center" Text="{Binding name}" HorizontalAlignment="Left" FontSize="15" FontWeight="Bold"/>
+                               
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+
+    </Grid>
+</Page>
+

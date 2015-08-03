@@ -1,0 +1,74 @@
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\App.xbf
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\MainPage.xbf
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\Comic.xr.xml
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\Comic.exe
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\Comic.pdb
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\resources.pri
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\AppxManifest.xml
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\Comic.build.appxrecipe
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\App.g.i.cs
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\App.g.cs
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\MainPage.g.i.cs
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\MainPage.g.cs
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\XamlTypeInfo.g.cs
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\App.xaml
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\App.xbf
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\XamlSaveStateFile.xml
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\MainPage.xaml
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\MainPage.xbf
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\Comic.exe
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\Comic.pdb
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\priconfig.xml
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\priconfig.xml.intermediate
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\layout.resfiles
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\layout.resfiles.intermediate
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\resources.resfiles
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\resources.resfiles.intermediate
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\pri.resfiles
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\pri.resfiles.intermediate
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\qualifiers.txt
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\qualifiers.txt.intermediate
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\ProjectArchitectures.txt
+C:\Users\hoang\documents\visual studio 2013\Projects\Comic\Comic\bin\Debug\page2.xbf
+C:\Users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\page2.g.i.cs
+C:\Users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\page2.g.cs
+C:\Users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\page2.xaml
+C:\Users\hoang\documents\visual studio 2013\Projects\Comic\Comic\obj\Debug\page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\page2.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\page2.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\page2.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\Comic.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\Comic.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\Comic.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\Comic.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\Comic.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\bin\Debug\Comic.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\XML\Codelab\Load data from XML and reading  simple comic application on internet\C#\Comic\obj\Debug\ProjectArchitectures.txt

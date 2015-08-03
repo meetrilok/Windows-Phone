@@ -1,0 +1,84 @@
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page1.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page1.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page2.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page2.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page3.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page3.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\Page1.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\Page2.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\Page3.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\ManagingState.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\ManagingState.exe
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\ManagingState.pdb
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\bin\Debug\ManagingState.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page1.xaml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page2.xaml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page3.xaml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page1.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page2.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\Page3.xbf
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\ManagingState.exe
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\ManagingState.pdb
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\ManagingState\ManagingState\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\Page1.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\Page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\Page3.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\ManagingState.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\ManagingState.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\ManagingState.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\bin\Debug\ManagingState.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page1.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page1.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page2.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page2.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page3.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page3.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page1.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page2.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page3.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page1.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\Page3.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\ManagingState.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\ManagingState.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\obj\Debug\ProjectArchitectures.txt

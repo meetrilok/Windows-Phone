@@ -1,0 +1,17 @@
+Before using this sample application you will need to get a Map service ApplicationID and a Map service Authentication Token, which can both be retrieved from your developer dashboard in the Windows Phone Dev Center. 
+
+Step-by-step instructions for getting an ApplicationID and Authentication Token can be found at http://msdn.microsoft.com/en-us/library/dn741528.aspx.
+
+The Map Service Authentication Token is needed by the Map Control and the Mapping Services found in the Windows.Services.Maps namespace.  For this code sample to work properly you will need to place your Authentication Token into the MapServiceTokenString resource found in the App.xaml file.
+
+You will need to place the ApplicationID within your application’s Package.appxmanifest file.  To do this open the Package.appxmanifest file with an XML editor.  You will not be able to make these changes with the manifest designer.  In the mp:PhoneIdentity element, which is a child of the Package element, replace the GUID value of the PhoneProductID attribute with the Map service ApplicationID for your app.  Below is an example of this element within the Package.appxmanifest file.  Complete instructions for doing this are also at the link above.
+
+  <mp:PhoneIdentity PhoneProductId="{Place your application ID here.}" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+
+
+Enjoy.
+
+Keith Pijanowski
+keithpij@msn.com
+twitter.com/keithpij
+

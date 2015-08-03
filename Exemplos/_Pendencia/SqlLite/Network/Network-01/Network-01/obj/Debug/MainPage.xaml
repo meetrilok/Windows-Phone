@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Network_01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Network_01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF6C7476">
+        <TextBlock x:Name="lblResultado" HorizontalAlignment="Center" Margin="10,172,10,0" TextWrapping="Wrap" TextAlignment="Center" Text="Sem Resultado da Verificação" FontSize="24" VerticalAlignment="Top" Width="380" />
+        <Button x:ConnectionId='1' x:Name="btnOperadora" Content="Checa Operadora" HorizontalAlignment="Left" Margin="100,224,0,0" VerticalAlignment="Top"                              />
+    </Grid>
+    
+</Page>
+

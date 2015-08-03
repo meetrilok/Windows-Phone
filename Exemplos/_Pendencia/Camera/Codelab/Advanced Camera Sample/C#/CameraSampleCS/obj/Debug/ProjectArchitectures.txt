@@ -1,0 +1,2 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\CameraSampleCS\CameraSampleCS.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\Advanced Camera Sample\C#\MediaViewer\MediaViewer.csproj;neutral

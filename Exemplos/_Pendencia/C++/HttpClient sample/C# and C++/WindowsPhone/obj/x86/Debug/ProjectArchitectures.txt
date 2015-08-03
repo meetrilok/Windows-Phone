@@ -1,0 +1,2 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Exemplos\Windows Phone 8.1 samples\HttpClient sample\C# and C++\HttpFilters\WindowsPhone\HttpFilters.WindowsPhone.vcxproj;x86
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Exemplos\Windows Phone 8.1 samples\HttpClient sample\C# and C++\WindowsPhone\HttpClient.WindowsPhone.csproj;x86
