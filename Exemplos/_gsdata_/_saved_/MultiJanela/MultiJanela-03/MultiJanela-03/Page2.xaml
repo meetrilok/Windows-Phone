@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="MultiJanela_03.Page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MultiJanela_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <StackPanel Margin="15,30,15,0" >
+        <TextBlock Text="Page2.xaml" FontSize="24"/>
+        <TextBlock x:Name="lblResultado" Margin="78,100,88,0" FontSize="16" TextWrapping="NoWrap" Text="aaa" />
+        <TextBlock Text="2" FontSize="128" Margin="150,100,153,0" />
+        <Button 
+            Content="Primeira Janela" 
+            Click="Button_Click" Margin="110,0,0,0" />
+    </StackPanel>
+</Page>

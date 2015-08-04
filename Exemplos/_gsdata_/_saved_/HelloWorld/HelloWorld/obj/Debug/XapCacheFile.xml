@@ -1,0 +1,16 @@
+﻿<xapCache source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Bin\Debug\HelloWorld_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="21/10/2014 19:18:18">
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll" archivePath="HelloWorld.dll" lastWriteTime="21/10/2014 19:17:29" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="19/10/2014 19:12:36" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\FlipCycleTileLarge.png" archivePath="FlipCycleTileLarge.png" lastWriteTime="19/10/2014 15:00:20" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\FlipCycleTileSmall.png" archivePath="FlipCycleTileSmall.png" lastWriteTime="19/10/2014 14:58:41" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="19/10/2014 19:12:43" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="19/10/2014 14:30:02" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\FlipCycleTileMedium.png" archivePath="FlipCycleTileMedium.png" lastWriteTime="19/10/2014 14:59:26" />
+  <file source="C:\Windows Phone\Exemplos\HelloWorld\HelloWorld\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="19/10/2014 19:21:47" />
+</xapCache>

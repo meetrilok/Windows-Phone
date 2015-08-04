@@ -1,0 +1,38 @@
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\ApplicationIcon.png
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Layout-01.dll
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Layout-01.pdb
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\AppManifest.xaml
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Properties\WMAppManifest.xml
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Layout_01_Debug_AnyCPU.xap
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\App.g.cs
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\MainPage.g.cs
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.g.resources
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout_01.Resources.AppResources.resources
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.csproj.GenerateResource.Cache
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.dll
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.pdb
+C:\Windows Phone\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Layout-01.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Layout-01.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\Bin\Debug\Layout_01_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout_01.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\Layout-01.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Layout\Layout-01\Layout-01\obj\Debug\XapCacheFile.xml

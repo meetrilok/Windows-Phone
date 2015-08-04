@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="MultiJanela_03.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MultiJanela_03"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Margin="15,30,15,0" >
+        <TextBlock Text="MainPage.xaml" FontSize="24"/>
+        <TextBlock Text="1" FontSize="128" Margin="150,110,168,0" />
+        <Button x:ConnectionId='1' 
+            Content="Segunda Janela" 
+                                 Margin="110,150,0,0" />
+    </StackPanel>
+
+</Page>
+

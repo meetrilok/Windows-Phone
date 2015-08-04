@@ -16,13 +16,11 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-// The WebView Application template is documented at http://go.microsoft.com/fwlink/?LinkID=39164
 
 namespace WebView_01
 {
     public sealed partial class MainPage : Page
     {
-        // TODO: Replace with your URL here.
         private static readonly Uri HomeUri = new Uri("ms-appx-web:///Html/index.html", UriKind.Absolute);
 
         public MainPage()

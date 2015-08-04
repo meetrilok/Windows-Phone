@@ -1,0 +1,1 @@
+C:\Windows Phone\Exemplos\MessageDialog\MessageDialog-01\MessageDialog-01\MessageDialog-01.csproj;neutral

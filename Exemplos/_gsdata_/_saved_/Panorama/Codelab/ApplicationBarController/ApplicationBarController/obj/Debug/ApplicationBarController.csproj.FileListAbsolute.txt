@@ -1,0 +1,73 @@
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\App.g.i.cs
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\MainPage.g.i.cs
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\PivotPage1.g.i.cs
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.g.resources
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationIcon.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\Background.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.add.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.back.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.check.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.close.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.delete.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.download.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.edit.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.favs.addto.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.favs.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.folder.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.minus.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.next.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.questionmark.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.refresh.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.save.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.share.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.ff.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.pause.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.play.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.rew.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.upload.rest.png
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationBarController.dll
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationBarController.pdb
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\AppManifest.xaml
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationBarController.xap
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.dll
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.pdb
+c:\users\jayson\documents\visual studio 2010\Projects\ApplicationBarController\ApplicationBarController\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\Background.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.add.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.back.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.check.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.close.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.delete.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.download.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.edit.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.favs.addto.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.favs.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.folder.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.minus.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.next.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.questionmark.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.save.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.share.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.ff.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.pause.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.play.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.transport.rew.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\icons\appbar.upload.rest.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationBarController.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationBarController.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\ApplicationBarController_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\PivotPage1.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\ApplicationBarController.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Panorama\Codelab\ApplicationBarController\ApplicationBarController\obj\Debug\XapCacheFile.xml

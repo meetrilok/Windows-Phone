@@ -1,0 +1,51 @@
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Assets\ApplicationIcon.png
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\ListingContacts.dll
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\ListingContacts.pdb
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\AppManifest.xaml
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\ListingContacts_Debug_AnyCPU.xap
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\App.g.cs
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\MainPage.g.cs
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\ListingContacts.g.resources
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\ListingContacts.Resources.AppResources.resources
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\ListingContacts.csproj.GenerateResource.Cache
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\ListingContacts.dll
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\ListingContacts.pdb
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\XapCacheFile.xml
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.dll
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\GalaSoft.MvvmLight.WP8.dll
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\System.Windows.Interactivity.dll
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Programming\VS2012\WindowsPhone8\ListingContacts\ListingContacts\obj\Debug\ListingContacts.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\ListingContacts.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\ListingContacts.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\ListingContacts_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\System.Windows.Interactivity.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\GalaSoft.MvvmLight.Extras.WP8.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\GalaSoft.MvvmLight.WP8.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\ListingContacts.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\ListingContacts.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\ListingContacts.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\ListingContacts.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\ListingContacts.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\ListingContacts.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Contatos\CodeLab\ListingContacts\ListingContacts\obj\Debug\XapCacheFile.xml

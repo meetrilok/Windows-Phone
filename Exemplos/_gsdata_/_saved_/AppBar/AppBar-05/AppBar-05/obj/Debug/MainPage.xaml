@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="AppBar_05.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppBar_05"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar x:Name="bottomAppBar">
+            <AppBarButton Icon="Sort" Label="Sort" />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="#FF6C7476">
+        <TextBlock x:Name="lblResultado" HorizontalAlignment="Center" Margin="10,204,10,0" TextWrapping="Wrap" TextAlignment="Center" Text="Manipulação da AppBar" FontSize="24" VerticalAlignment="Top" Width="380" />
+        <Button x:ConnectionId='1' x:Name="btnAdiciona" Content="Adiciona" HorizontalAlignment="Left" Margin="77,265,0,0" VerticalAlignment="Top"                      />
+        <Button x:ConnectionId='2' x:Name="btnRemove" Content="Remove" HorizontalAlignment="Left" Margin="219,265,0,0" VerticalAlignment="Top"                         />
+    </Grid>
+
+</Page>
+

@@ -1,0 +1,41 @@
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\Bin\Debug\ApplicationIcon.png
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\Bin\Debug\Background.png
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5.dll
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5.pdb
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\Bin\Debug\AppManifest.xaml
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\App.g.cs
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\MainPage.g.cs
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\SplashPage.g.cs
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.g.resources
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.dll
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.pdb
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\obj\Debug\XapCacheFile.xml
+C:\Users\mandar\Documents\Visual Studio 2012\Projects\WindowsPhoneSample5\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5_Debug_AnyCPU.xap
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\ApplicationIcon.png
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\Background.png
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5.dll
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\App.g.cs
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\MainPage.g.cs
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\SplashPage.g.cs
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.g.resources
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.dll
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.pdb
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5.pdb
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\AppManifest.xaml
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\Properties\WMAppManifest.xml
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5_Debug_AnyCPU.xap
+C:\Windows Phone\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\Background.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\Bin\Debug\WindowsPhoneSample5_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\SplashPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\WindowsPhoneSample5.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Exemplos\SplashDemoWinPhone\SplashDemo\WindowsPhoneSample5\obj\Debug\XapCacheFile.xml

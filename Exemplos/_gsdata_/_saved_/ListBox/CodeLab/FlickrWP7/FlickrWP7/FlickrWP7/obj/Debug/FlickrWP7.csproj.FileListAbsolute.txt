@@ -1,0 +1,28 @@
+C:\WP7\workspace\FlickrWP7\FlickrWP7\Bin\Debug\ApplicationIcon.png
+C:\WP7\workspace\FlickrWP7\FlickrWP7\Bin\Debug\Background.png
+C:\WP7\workspace\FlickrWP7\FlickrWP7\Bin\Debug\FlickrWP7.dll
+C:\WP7\workspace\FlickrWP7\FlickrWP7\Bin\Debug\FlickrWP7.pdb
+C:\WP7\workspace\FlickrWP7\FlickrWP7\Bin\Debug\AppManifest.xaml
+C:\WP7\workspace\FlickrWP7\FlickrWP7\Bin\Debug\FlickrWP7.xap
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\ResolveAssemblyReference.cache
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\App.g.i.cs
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\MainPage.g.i.cs
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\FlickrWP7.g.resources
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\FlickrWP7.dll
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\FlickrWP7.pdb
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\XapCacheFile.xml
+C:\WP7\workspace\FlickrWP7\FlickrWP7\obj\Debug\FlickrDetail.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\Background.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\FlickrWP7.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\FlickrWP7.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\Bin\Debug\FlickrWP7_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\FlickrDetail.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\FlickrWP7.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\FlickrWP7.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\FlickrWP7.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ListBox\CodeLab\FlickrWP7\FlickrWP7\FlickrWP7\obj\Debug\XapCacheFile.xml

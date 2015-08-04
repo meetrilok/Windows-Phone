@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendar\CodeLab\Calendar details and math sample\C#\Windows\CalendarSample.Windows.csproj;neutral
