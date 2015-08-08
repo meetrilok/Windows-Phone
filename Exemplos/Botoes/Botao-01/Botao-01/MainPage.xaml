@@ -22,7 +22,8 @@
             TextAlignment="Center"
 		    Text="Voce Ainda Não Digitou Nada"
 		    FontSize="24"
-		    VerticalAlignment="Top" Width="380" />
+		    VerticalAlignment="Top" 
+            Width="380" />
 
         <TextBox
             x:Name="txtDigita"
