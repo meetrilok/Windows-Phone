@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>A1A3EF0C-E35B-435A-B5FD-AEBD755C31BB</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\ScrollViewerSample.WindowsPhone.exe">
+      <PackagePath>ScrollViewerSample.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\images\cliff.jpg">
+      <PackagePath>images\cliff.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\images\grapes.jpg">
+      <PackagePath>images\grapes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\images\rainier.jpg">
+      <PackagePath>images\rainier.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\images\sunset.jpg">
+      <PackagePath>images\sunset.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\images\valley.jpg">
+      <PackagePath>images\valley.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\Scenario1_BasicPanning.xbf">
+      <PackagePath>Scenario1_BasicPanning.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\Scenario2_SnapPoints.xbf">
+      <PackagePath>Scenario2_SnapPoints.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\Scenario3_Zooming.xbf">
+      <PackagePath>Scenario3_Zooming.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
+      <PackagePath>ScenarioList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\ScrollViewerSample.WindowsPhone.xr.xml">
+      <PackagePath>ScrollViewerSample.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ScrollViewer\Codelab\XAML scrollingPanningZoomingSample\C#\WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

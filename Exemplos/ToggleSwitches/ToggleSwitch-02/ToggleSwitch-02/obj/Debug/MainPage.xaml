@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="ToggleSwitch_02.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ToggleSwitch_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <StackPanel x:Name="MeuStackPanel">
+            
+         <ToggleSwitch x:ConnectionId='1' 
+            x:Name="ToggleSwitchBase" 
+            Header="Exemplo de Uso Toggle Switch" 
+            OnContent="On" 
+            OffContent="Off" 
+                                          />   
+            
+        </StackPanel>        
+    </Grid>
+
+</Page>
+
