@@ -1,0 +1,2 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\NotificationsExtensions\NotificationsExtensions.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\Tiles.WindowsPhone.csproj;neutral

@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="Store_05.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Store_05"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Isolated Storage" Margin="12,0"/>
+            <TextBlock Text="Save images" Margin="9,-7,0,0" />
+        </StackPanel>
+
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Image x:Name="imagecontrol" HorizontalAlignment="Left" Height="215" Margin="105,10,0,0" VerticalAlignment="Top" Width="215" Stretch="UniformToFill"/>
+            <Button Content="Save the existing image" HorizontalAlignment="Left" Margin="10,283,0,0" VerticalAlignment="Top" Width="436" Click="SalvaImagemExistente"/>
+            <Button Content="Read the existing image" HorizontalAlignment="Left" Margin="10,360,0,0" VerticalAlignment="Top" Width="436" Click="LeituraImagemExistente"/>
+            <Button Content="Save the capturedimage" HorizontalAlignment="Left" Margin="10,437,0,0" VerticalAlignment="Top" Width="436" Click="SalvaImagemCapturada"/>
+            <Button Content="Read the captured image" HorizontalAlignment="Left" Margin="10,509,0,0" VerticalAlignment="Top" Width="436" Click="LeituraImagemCapturada"/>
+        </Grid>
+
+    </Grid>
+
+</Page>

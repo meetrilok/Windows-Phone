@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BA566041-91EA-471E-912A-A3997B84675F</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Tiles.WindowsPhone.exe">
+      <PackagePath>Tiles.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\redWide310x150.scale-240.png">
+      <PackagePath>images\redWide310x150.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\blueWide310x150.scale-240.png">
+      <PackagePath>images\blueWide310x150.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\orangeIcon.scale-240.png">
+      <PackagePath>images\orangeIcon.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\purpleSquare310x310.scale-240.png">
+      <PackagePath>images\purpleSquare310x310.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\contrast-black\graySquare150x150.scale-240.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\contrast-standard\graySquare150x150.scale-240.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\contrast-white\graySquare150x150.scale-240.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150Block.png">
+      <PackagePath>images\tiles\TileSquare150x150Block.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150IconWithBadge.png">
+      <PackagePath>images\tiles\TileSquare150x150IconWithBadge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150Image.png">
+      <PackagePath>images\tiles\TileSquare150x150Image.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150PeekImageAndText01.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150PeekImageAndText02.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150PeekImageAndText03.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150PeekImageAndText04.png">
+      <PackagePath>images\tiles\TileSquare150x150PeekImageAndText04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150Text01.png">
+      <PackagePath>images\tiles\TileSquare150x150Text01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150Text02.png">
+      <PackagePath>images\tiles\TileSquare150x150Text02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150Text03.png">
+      <PackagePath>images\tiles\TileSquare150x150Text03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare150x150Text04.png">
+      <PackagePath>images\tiles\TileSquare150x150Text04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare71x71IconWithBadge.png">
+      <PackagePath>images\tiles\TileSquare71x71IconWithBadge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileSquare71x71Image.png">
+      <PackagePath>images\tiles\TileSquare71x71Image.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150BlockAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150BlockAndText01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150BlockAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150BlockAndText02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150IconWithBadgeAndText.png">
+      <PackagePath>images\tiles\TileWide310x150IconWithBadgeAndText.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150Image.png">
+      <PackagePath>images\tiles\TileWide310x150Image.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150ImageAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150ImageAndText01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150ImageAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150ImageAndText02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150ImageCollection.png">
+      <PackagePath>images\tiles\TileWide310x150ImageCollection.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImage01.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImage02.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImage03.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImage04.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImage05.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImage06.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImage06.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageAndText01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageAndText02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageCollection01.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageCollection02.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageCollection03.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageCollection04.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageCollection05.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150PeekImageCollection06.png">
+      <PackagePath>images\tiles\TileWide310x150PeekImageCollection06.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150SmallImageAndText01.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150SmallImageAndText02.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150SmallImageAndText03.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150SmallImageAndText04.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150SmallImageAndText05.png">
+      <PackagePath>images\tiles\TileWide310x150SmallImageAndText05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150Text01.png">
+      <PackagePath>images\tiles\TileWide310x150Text01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150Text03.png">
+      <PackagePath>images\tiles\TileWide310x150Text03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150Text04.png">
+      <PackagePath>images\tiles\TileWide310x150Text04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150Text05.png">
+      <PackagePath>images\tiles\TileWide310x150Text05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\images\tiles\TileWide310x150Text09.png">
+      <PackagePath>images\tiles\TileWide310x150Text09.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\redWide310x150.scale-100.png">
+      <PackagePath>images\redWide310x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\redWide310x150.scale-140.png">
+      <PackagePath>images\redWide310x150.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\redWide310x150.scale-180.png">
+      <PackagePath>images\redWide310x150.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\blueWide310x150.scale-100.png">
+      <PackagePath>images\blueWide310x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\blueWide310x150.scale-140.png">
+      <PackagePath>images\blueWide310x150.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\blueWide310x150.scale-180.png">
+      <PackagePath>images\blueWide310x150.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\orangeIcon.scale-100.png">
+      <PackagePath>images\orangeIcon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\orangeIcon.scale-140.png">
+      <PackagePath>images\orangeIcon.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\orangeIcon.scale-180.png">
+      <PackagePath>images\orangeIcon.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\purpleSquare310x310.scale-100.png">
+      <PackagePath>images\purpleSquare310x310.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\purpleSquare310x310.scale-140.png">
+      <PackagePath>images\purpleSquare310x310.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\purpleSquare310x310.scale-180.png">
+      <PackagePath>images\purpleSquare310x310.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-black\graySquare150x150.scale-100.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-black\graySquare150x150.scale-140.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-black\graySquare150x150.scale-180.png">
+      <PackagePath>images\contrast-black\graySquare150x150.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-standard\graySquare150x150.scale-100.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-standard\graySquare150x150.scale-140.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-standard\graySquare150x150.scale-180.png">
+      <PackagePath>images\contrast-standard\graySquare150x150.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-white\graySquare150x150.scale-100.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-white\graySquare150x150.scale-140.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\images\contrast-white\graySquare150x150.scale-180.png">
+      <PackagePath>images\contrast-white\graySquare150x150.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\largetile-Windows-sdk.png">
+      <PackagePath>Assets\largetile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\mediumtile-Windows-sdk.png">
+      <PackagePath>Assets\mediumtile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario1_SendTextTile.xbf">
+      <PackagePath>Scenario1_SendTextTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario2_SendLocalImageTile.xbf">
+      <PackagePath>Scenario2_SendLocalImageTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario3_SendWebImageTile.xbf">
+      <PackagePath>Scenario3_SendWebImageTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario4_SendBadge.xbf">
+      <PackagePath>Scenario4_SendBadge.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario5_UsePushNotifications.xbf">
+      <PackagePath>Scenario5_UsePushNotifications.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario6_PreviewAllTemplates.xbf">
+      <PackagePath>Scenario6_PreviewAllTemplates.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario7_EnableNotificationQueue.xbf">
+      <PackagePath>Scenario7_EnableNotificationQueue.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario8_NotificationExpiration.xbf">
+      <PackagePath>Scenario8_NotificationExpiration.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario9_ImageProtocols.xbf">
+      <PackagePath>Scenario9_ImageProtocols.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario10_Globalization.xbf">
+      <PackagePath>Scenario10_Globalization.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Scenario11_ContentDeduplication.xbf">
+      <PackagePath>Scenario11_ContentDeduplication.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\ScenarioList.xbf">
+      <PackagePath>ScenarioList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\Tiles.WindowsPhone.xr.xml">
+      <PackagePath>Tiles.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\NotificationsExtensions\bin\Debug\NotificationsExtensions.xml">
+      <PackagePath>NotificationsExtensions.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\Tiles-cs\WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

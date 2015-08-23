@@ -1,0 +1,74 @@
+﻿Build started 8/21/2015 12:42:31 PM.
+     1>Project "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\Tiles.WindowsPhone.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\\" /I"Generated Files\\" /IDebug\ /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\\" /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\\" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /D _UITHREADCTXT_SUPPORT=0 /D _UNICODE /D UNICODE /D _DEBUG /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Debug\Tiles.WindowsPhone.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.1\\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.1\\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\pch.cpp"
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\\" /I"Generated Files\\" /IDebug\ /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\\" /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\\" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /D _UITHREADCTXT_SUPPORT=0 /D _UNICODE /D UNICODE /D _DEBUG /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\Tiles.WindowsPhone.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.1\\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.1\\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\App.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\SampleConfiguration.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario1_SendTextTile.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario2_SendLocalImageTile.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario3_SendWebImageTile.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario4_SendBadge.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario5_UsePushNotifications.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario6_EnableNotificationQueue.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario7_NotificationExpiration.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario8_ImageProtocols.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario9_Globalization.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Scenario10_ContentDeduplication.xaml.cpp" "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\Common\SuspensionManager.cpp" MainPage.xaml.cpp ScenarioList.xaml.cpp ContinuationManager.cpp "Generated Files\XamlTypeInfo.Impl.g.cpp"
+         App.xaml.cpp
+         SampleConfiguration.cpp
+         Scenario1_SendTextTile.xaml.cpp
+         Scenario2_SendLocalImageTile.xaml.cpp
+         Scenario3_SendWebImageTile.xaml.cpp
+         Scenario4_SendBadge.xaml.cpp
+         Scenario5_UsePushNotifications.xaml.cpp
+         Scenario6_EnableNotificationQueue.xaml.cpp
+         Scenario7_NotificationExpiration.xaml.cpp
+         Scenario8_ImageProtocols.xaml.cpp
+         Scenario9_Globalization.xaml.cpp
+         Scenario10_ContentDeduplication.xaml.cpp
+         SuspensionManager.cpp
+         MainPage.xaml.cpp
+         ScenarioList.xaml.cpp
+         ContinuationManager.cpp
+         XamlTypeInfo.Impl.g.cpp
+       CreateWinMD:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.exe" /INCREMENTAL /NOLOGO WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:kernel32.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:ONLY /WINMDFILE:"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\SDKSample.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\pch.obj
+         Debug\App.xaml.obj
+         Debug\SampleConfiguration.obj
+         Debug\Scenario1_SendTextTile.xaml.obj
+         Debug\Scenario2_SendLocalImageTile.xaml.obj
+         Debug\Scenario3_SendWebImageTile.xaml.obj
+         Debug\Scenario4_SendBadge.xaml.obj
+         Debug\Scenario5_UsePushNotifications.xaml.obj
+         Debug\Scenario6_EnableNotificationQueue.xaml.obj
+         Debug\Scenario7_NotificationExpiration.xaml.obj
+         Debug\Scenario8_ImageProtocols.xaml.obj
+         Debug\Scenario9_Globalization.xaml.obj
+         Debug\Scenario10_ContentDeduplication.xaml.obj
+         Debug\SuspensionManager.obj
+         Debug\MainPage.xaml.obj
+         Debug\ScenarioList.xaml.obj
+         Debug\ContinuationManager.obj
+         Debug\XamlTypeInfo.Impl.g.obj
+       CompileXamlGeneratedFiles:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\\" /I"Generated Files\\" /IDebug\ /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\\" /I"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Shared\\" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /D _UITHREADCTXT_SUPPORT=0 /D _UNICODE /D UNICODE /D _DEBUG /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\Tiles.WindowsPhone.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.1\\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\NotificationsExtensions\bin\x86\Debug\NotificationsExtensions.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.1\\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "Generated Files\XamlTypeInfo.g.cpp"
+         XamlTypeInfo.g.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.exe" /INCREMENTAL /NOLOGO WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:kernel32.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\SDKSample.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\pch.obj
+         Debug\App.xaml.obj
+         Debug\SampleConfiguration.obj
+         Debug\Scenario1_SendTextTile.xaml.obj
+         Debug\Scenario2_SendLocalImageTile.xaml.obj
+         Debug\Scenario3_SendWebImageTile.xaml.obj
+         Debug\Scenario4_SendBadge.xaml.obj
+         Debug\Scenario5_UsePushNotifications.xaml.obj
+         Debug\Scenario6_EnableNotificationQueue.xaml.obj
+         Debug\Scenario7_NotificationExpiration.xaml.obj
+         Debug\Scenario8_ImageProtocols.xaml.obj
+         Debug\Scenario9_Globalization.xaml.obj
+         Debug\Scenario10_ContentDeduplication.xaml.obj
+         Debug\SuspensionManager.obj
+         Debug\MainPage.xaml.obj
+         Debug\ScenarioList.xaml.obj
+         Debug\ContinuationManager.obj
+         Debug\XamlTypeInfo.Impl.g.obj
+         Debug\XamlTypeInfo.g.obj
+            Creating library C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.lib and object C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.exp
+         Tiles.WindowsPhone.vcxproj -> C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\Tiles.WindowsPhone.exe
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.1\\bin\x86\MakePri.exe New -ProjectRoot "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\\" -ConfigXml Debug\priconfig.xml -OutputFile "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\Debug\Tiles.WindowsPhone\resources.pri" -ExtensionDll "C:\Program Files (x86)\Windows Phone Kits\8.1\\bin\x86\MrmEnvironmentExtDl.dll" -IndexName E8999082-47A5-431E-B13F-97EA7109B5F0 -Verbose -Overwrite  
+     1>Done Building Project "C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\Tiles.WindowsPhone.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:02.84

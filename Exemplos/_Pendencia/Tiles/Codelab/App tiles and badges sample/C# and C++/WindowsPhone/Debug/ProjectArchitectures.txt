@@ -1,0 +1,2 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\NotificationsExtensions\NotificationsExtensions.csproj;x86
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Tiles\Codelab\App tiles and badges sample\C# and C++\WindowsPhone\Tiles.WindowsPhone.vcxproj;x86
