@@ -1,0 +1,14 @@
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\TelerikWindowsPhoneApp1.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\TelerikWindowsPhoneApp1.pdb
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\Debug\TelerikWindowsPhoneApp1_Debug_AnyCPU.xap
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\Debug\TelerikWindowsPhoneApp1.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\Debug\TelerikWindowsPhoneApp1.pdb
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\Debug\XapCacheFile.xml

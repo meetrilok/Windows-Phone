@@ -1,0 +1,123 @@
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\ApplicationIcon.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1.pdb
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\AppManifest.xaml
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Properties\WMAppManifest.xml
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1_Debug_x86.xap
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\System.Windows.Interactivity.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.pdb
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.xml
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.pdb
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.xml
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.csprojResolveAssemblyReference.cache
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\App.g.cs
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\About.g.cs
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\MainPage.g.cs
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.g.resources
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.Resources.AppResources.resources
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.csproj.GenerateResource.Cache
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.dll
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.pdb
+c:\users\chayan.g\documents\visual studio 2013\Projects\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\XapCacheFile.xml
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1.pdb
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\AppManifest.xaml
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1_Debug_x86.xap
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.pdb
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.xml
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.csprojResolveAssemblyReference.cache
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\App.g.cs
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\About.g.cs
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\MainPage.g.cs
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.g.resources
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.Resources.AppResources.resources
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.csproj.GenerateResource.Cache
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.dll
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.pdb
+C:\Users\vivek\Downloads\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\TelerikWindowsPhoneApp1_Debug_x86.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\Telerik.Windows.Core.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\About.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\TelerikWindowsPhoneApp1.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\TabView\Codelab\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\TelerikWindowsPhoneApp1\obj\x86\Debug\XapCacheFile.xml

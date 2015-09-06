@@ -13,6 +13,10 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+// ====================================================================
+// Insercao Obrigatoria
+// ====================================================================
+
 using NotificationsExtensions.BadgeContent;
 using System.Collections.ObjectModel;
 using Windows.UI.Notifications;
@@ -24,7 +28,6 @@ namespace Tiles_01
         public MainPage()
         {
             this.InitializeComponent();
-
             this.NavigationCacheMode = NavigationCacheMode.Required;
         }
 
