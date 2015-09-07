@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Pivot_02.NovaPagina"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pivot_02"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            Text="Olá Mundo Cruel"
+            Margin="10,297,0,310" 
+            FontFamily="Arial"
+            FontSize="26"
+            TextAlignment="Center"
+            FontWeight="Bold"
+            Width="390" />
+    </Grid>
+
+</Page>
+
