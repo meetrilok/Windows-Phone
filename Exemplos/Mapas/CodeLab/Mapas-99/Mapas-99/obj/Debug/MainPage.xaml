@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="Mapas_99.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mapas_99"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Maps:MapControl x:ConnectionId='1' x:Name="map1"                     />
+
+        <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,12">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,-6">
+                <Button x:ConnectionId='12' Margin="4,0" Content="Malmö"    x:Name="button1"                             Background="#7FBA3434" MinWidth="30"/>
+                <Button x:ConnectionId='13' Margin="4,0" Content="London"   x:Name="buttonNY"                            Background="#7FBA3434" MinWidth="30"  />
+                <Button x:ConnectionId='14' Margin="4,0" Content="You"    x:Name="buttonYou"                         Background="#7FBA3434" MinWidth="30" />
+                <Button x:ConnectionId='15' Margin="4,0" Content="Jayway"    x:Name="buttonJayway"                            Background="#7FBA3434" MinWidth="30" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  Margin="0,-6">
+                <Button x:ConnectionId='8' Margin="4,0" Content="R" x:Name="buttonRoad"                          Background="#7FBA3434" MinWidth="30" />
+                <Button x:ConnectionId='9' Margin="4,0" Content="A" x:Name="buttonAerial"                            Background="#7FBA3434" MinWidth="30" />
+                <Button x:ConnectionId='10' Margin="4,0" Content="H"  x:Name="buttonHybrid"                             Background="#7FBA3434" MinWidth="30"/>
+                <Button x:ConnectionId='11' Margin="4,0" Content="T"  x:Name="buttonTerrain"                             Background="#7FBA3434" MinWidth="30" />
+            </StackPanel>
+
+            <Viewbox>
+                <StackPanel Orientation= "Vertical" Margin="10,0" Background="#7FBA3434" >
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0"    >
+                        <CheckBox x:ConnectionId='5' Margin="4,0" x:Name="Landmarks"                                                             Content="Landmarks"   />
+                        <CheckBox x:ConnectionId='6' Margin="4,0" x:Name="Pedestrian"                                                               Content="Pedestrian"/>
+                        <CheckBox x:ConnectionId='7' Margin="4,0" x:Name="TileSource"                                                               Content="Http Tile"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0"    >
+                        <CheckBox x:ConnectionId='2' Margin="4,0" x:Name="Dark"                                                   Content="Dark" />
+                        <CheckBox x:ConnectionId='3' Margin="4,0" x:Name="Traffic"                                                         Content="Traffic"/>
+                        <CheckBox x:ConnectionId='4' Margin="4,0" x:Name="CustTileSource"                                                                       Content="Custom Tile"/>
+                    </StackPanel>
+                </StackPanel>
+            </Viewbox>
+        </StackPanel>
+    </Grid>
+</Page>
+

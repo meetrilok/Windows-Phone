@@ -1,0 +1,79 @@
+﻿<Page
+    x:Class="Mapas_05.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mapas_05"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Maps:MapControl x:ConnectionId='1' 
+            x:Name="MapaSaoPaulo" 
+                                   />
+
+        <StackPanel 
+            VerticalAlignment="Bottom" 
+            HorizontalAlignment="Center" 
+            Margin="0,12">           
+            
+            <StackPanel 
+                Orientation="Horizontal" 
+                HorizontalAlignment="Center"  
+                Margin="0,-6"/>
+
+            <Viewbox>
+                <StackPanel 
+                    Orientation= "Vertical"
+                    Margin="10,0" 
+                    Background="#7FBA3434" >       
+                    
+                    <StackPanel 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center"
+                        Margin="0,0" >
+                        
+                        <CheckBox x:ConnectionId='4' 
+                            Margin="4,0" 
+                            x:Name="Landmarks" 
+                                                        
+                                                            
+                            Content="Landmarks"   />
+                        
+                        <CheckBox x:ConnectionId='5' 
+                            Margin="4,0" 
+                            x:Name="Pedestrian" 
+                                                      
+                                                          
+                            Content="Pedestrian"/>
+                    </StackPanel>
+                    
+                    <StackPanel 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" 
+                        Margin="0,0" >
+                        
+                        <CheckBox x:ConnectionId='2' 
+                            Margin="4,0" 
+                            x:Name="Dark" 
+                                                  
+                                                      
+                            Content="Dark" />
+                        
+                        <CheckBox x:ConnectionId='3' 
+                            Margin="4,0" 
+                            x:Name="Traffic" 
+                                                     
+                                                         
+                            Content="Traffic"/>
+                        
+                    </StackPanel>
+                </StackPanel>
+            </Viewbox>
+        </StackPanel>
+    </Grid>
+</Page>
+

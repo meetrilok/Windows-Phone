@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="Mapas_05.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mapas_05"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Maps:MapControl 
+            x:Name="MapaSaoPaulo" 
+            Loaded="CarregaMeuMapa"/>
+
+        <StackPanel 
+            VerticalAlignment="Bottom" 
+            HorizontalAlignment="Center" 
+            Margin="0,12">           
+            
+            <StackPanel 
+                Orientation="Horizontal" 
+                HorizontalAlignment="Center"  
+                Margin="0,-6"/>
+
+            <Viewbox>
+                <StackPanel 
+                    Orientation= "Vertical"
+                    Margin="10,0" 
+                    Background="#7FBA3434" >       
+                    
+                    <StackPanel 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center"
+                        Margin="0,0" >
+                        
+                        <CheckBox 
+                            Margin="4,0" 
+                            x:Name="Landmarks" 
+                            Checked="ReferenciaChecked" 
+                            Unchecked="ReferenciaUnchecked" 
+                            Content="Landmarks"   />
+                        
+                        <CheckBox 
+                            Margin="4,0" 
+                            x:Name="Pedestrian" 
+                            Checked="PedestreChecked" 
+                            Unchecked="PedestreUnchecked" 
+                            Content="Pedestrian"/>
+                    </StackPanel>
+                    
+                    <StackPanel 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" 
+                        Margin="0,0" >
+                        
+                        <CheckBox 
+                            Margin="4,0" 
+                            x:Name="Dark" 
+                            Checked="DarkChecked" 
+                            Unchecked="DarkUnchecked" 
+                            Content="Dark" />
+                        
+                        <CheckBox 
+                            Margin="4,0" 
+                            x:Name="Traffic" 
+                            Checked="TrafegoChecked" 
+                            Unchecked="TrafegoUnchecked" 
+                            Content="Traffic"/>
+                        
+                    </StackPanel>
+                </StackPanel>
+            </Viewbox>
+        </StackPanel>
+    </Grid>
+</Page>
