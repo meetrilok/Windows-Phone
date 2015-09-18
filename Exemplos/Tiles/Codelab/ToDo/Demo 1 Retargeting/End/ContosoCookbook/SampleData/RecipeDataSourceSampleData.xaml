@@ -1,0 +1,294 @@
+﻿<Data:RecipeDataSource xmlns:Data="clr-namespace:ContosoCookbook.Data">
+	<Data:RecipeDataSource.ItemGroups>
+		<Data:RecipeDataGroup BackgroundImage="/Images/Chinese/Chinese_group_detail.png" Description="Maecenas vestibulum adipiscing parturient" GroupImagePath="Aenean aliquam class curabitur mauris" LicensedRequired="False" RecipesCount="62" ShortTitle="Vestibulum malesuada risus" Title="Cras" UniqueId="Facilisi quisque adipiscing vivamus aliquam">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Dictumst lorem" Directions="Cras phasellus consequat duis vestibulum" PrepTime="70" ShortTitle="Nam parturient congue diam cursus" Title="Vestibulum morbi facilisis vestibulum fermentum" UniqueId="Aliquet eget">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Integer quisque aptent fusce" Description="Nullam praesent nunc accumsan bibendum" GroupImagePath="Curae donec etiam" LicensedRequired="True" RecipesCount="37" ShortTitle="Convallis amet dignissim" Title="Maecenas" UniqueId="Arcu auctor adipiscing"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Erat dis inceptos" Directions="Fringilla adipiscing eleifend facilisi dictum" PrepTime="19" ShortTitle="Eros ligula imperdiet" Title="Litora dolor interdum fames" UniqueId="Vestibulum malesuada vestibulum penatibus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Blandit vestibulum" Description="Lectus nulla libero" GroupImagePath="Sed habitasse elit parturient" LicensedRequired="False" RecipesCount="42" ShortTitle="Vestibulum enim faucibus hendrerit" Title="Duis" UniqueId="Habitant augue parturient"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Parturient pulvinar sagittis vestibulum egestas" Directions="Adipiscing conubia nibh" PrepTime="85" ShortTitle="Vestibulum lorem ultricies leo" Title="Mus pede magna nec" UniqueId="Mattis euismod">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Nunc odio" Description="Nisi nisl porttitor" GroupImagePath="Luctus cubilia magnis est hac" LicensedRequired="True" RecipesCount="37" ShortTitle="Tincidunt tristique lobortis dapibus felis" Title="Praesent" UniqueId="Lacus placerat"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Ultrices nostra" Directions="Mauris feugiat senectus" PrepTime="80" ShortTitle="Sem convallis vehicula" Title="Morbi ornare dignissim elementum quis" UniqueId="Posuere potenti urna">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Montes quam lacinia" Description="Gravida non massa sociosqu iaculis" GroupImagePath="Mollis adipiscing venenatis suscipit" LicensedRequired="False" RecipesCount="37" ShortTitle="Laoreet vulputate" Title="Class" UniqueId="Torquent consequat sed"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Vestibulum adipiscing accumsan viverra" Directions="Cras platea duis nunc amet" PrepTime="54" ShortTitle="Ante arcu parturient bibendum" Title="Dictumst vel hendrerit" UniqueId="Himenaeos imperdiet aliquam">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Sit sociis volutpat vestibulum" Description="Parturient facilisis neque vestibulum pretium" GroupImagePath="Primis rutrum netus sapien semper" LicensedRequired="True" RecipesCount="29" ShortTitle="Adipiscing rhoncus" Title="Nam" UniqueId="Sodales taciti habitasse praesent vestibulum"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="/Images/Chinese/Chinese_group_detail.png" Description="Tellus velit" GroupImagePath="Vitae class tempor diam faucibus" LicensedRequired="False" RecipesCount="90" ShortTitle="Tincidunt tortor purus eget" Title="Sed" UniqueId="Elit non enim">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Pharetra aenean egestas elit leo" Directions="Aliquet tempus blandit penatibus" PrepTime="88" ShortTitle="Vestibulum placerat mus pulvinar" Title="Adipiscing porttitor euismod" UniqueId="Mauris tincidunt parturient nulla">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Tortor cubilia" Description="Curae parturient commodo nam eget" GroupImagePath="Vestibulum habitant conubia sed dis" LicensedRequired="True" RecipesCount="75" ShortTitle="Inceptos turpis est donec" Title="Accumsan" UniqueId="Lobortis nascetur dapibus morbi varius"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Vestibulum vestibulum gravida adipiscing iaculis" Directions="Nullam aptent vestibulum" PrepTime="79" ShortTitle="Torquent nisi auctor" Title="Ultricies venenatis lacinia" UniqueId="Nisl congue nunc odio">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Erat feugiat" Description="Sagittis senectus vestibulum proin adipiscing" GroupImagePath="Augue enim" LicensedRequired="False" RecipesCount="64" ShortTitle="Nec sociosqu eros non" Title="Dis" UniqueId="Nibh dolor parturient"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Litora vestibulum" Directions="Laoreet natoque vulputate" PrepTime="65" ShortTitle="Rhoncus sem" Title="Sit luctus" UniqueId="Quis ipsum urna vel facilisis">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Convallis dignissim posuere potenti maecenas" Description="Curabitur per ultrices phasellus consequat" GroupImagePath="Vehicula orci parturient vestibulum volutpat" LicensedRequired="True" RecipesCount="48" ShortTitle="Cursus dictum pretium lectus elementum" Title="Nunc" UniqueId="Fames praesent felis accumsan"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Mauris mollis dis hendrerit lacus" Directions="Bibendum sodales dictumst" PrepTime="27" ShortTitle="Aliquam habitant duis inceptos integer" Title="Nunc montes est lorem" UniqueId="Nostra interdum amet ornare">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Fermentum facilisi" Description="Magnis eleifend nam justo" GroupImagePath="Adipiscing mattis parturient" LicensedRequired="False" RecipesCount="52" ShortTitle="Sed fringilla" Title="Aliquam" UniqueId="Habitasse cras"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Malesuada semper neque senectus" Directions="Platea lobortis himenaeos" PrepTime="93" ShortTitle="Penatibus leo adipiscing sociis netus" Title="Taciti sociosqu nulla diam" UniqueId="Mus tellus parturient tempor">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Rutrum massa" Description="Primis hac nascetur" GroupImagePath="Imperdiet pharetra placerat magna" LicensedRequired="True" RecipesCount="37" ShortTitle="Metus vestibulum sapien" Title="Aenean" UniqueId="Vestibulum morbi arcu"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="/Images/Chinese/Chinese_group_detail.png" Description="Parturient risus per turpis vestibulum" GroupImagePath="Ultricies venenatis" LicensedRequired="False" RecipesCount="39" ShortTitle="Tellus convallis dignissim" Title="Curae" UniqueId="Erat aliquam elementum">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Sem sit consequat nullam" Directions="Velit sed" PrepTime="36" ShortTitle="Commodo aptent eros vestibulum" Title="Nibh vel adipiscing parturient" UniqueId="Auctor nisi">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Curabitur torquent" Description="Vestibulum suscipit" GroupImagePath="Adipiscing vulputate vitae" LicensedRequired="True" RecipesCount="52" ShortTitle="Erat class parturient" Title="Integer" UniqueId="Vestibulum mauris blandit"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Odio maecenas hendrerit" Directions="Convallis conubia curae" PrepTime="76" ShortTitle="Orci vestibulum" Title="Himenaeos adipiscing imperdiet sed" UniqueId="Feugiat pede quam dis">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Dapibus etiam fusce" Description="Vestibulum ultrices donec congue" GroupImagePath="Vehicula nisl dignissim cubilia" LicensedRequired="False" RecipesCount="72" ShortTitle="Elementum egestas volutpat nunc nam" Title="Est" UniqueId="Morbi nulla fringilla habitasse"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Vestibulum laoreet per sed vestibulum" Directions="Proin parturient vestibulum vestibulum est" PrepTime="17" ShortTitle="Fames luctus" Title="Adipiscing magnis eleifend felis" UniqueId="Urna penatibus porttitor">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Mus nec malesuada" Description="Quis adipiscing hac gravida dictum" GroupImagePath="Praesent parturient leo lectus" LicensedRequired="True" RecipesCount="39" ShortTitle="Accumsan libero" Title="Hac" UniqueId="Augue dictumst litora dolor"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Nam nascetur" Directions="Natoque cras" PrepTime="43" ShortTitle="Amet ornare justo pharetra" Title="Parturient sed lacus vestibulum" UniqueId="Dis ultricies">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Faucibus mauris habitant" Description="Duis ipsum tincidunt mattis parturient" GroupImagePath="Tristique nunc vestibulum facilisi" LicensedRequired="False" RecipesCount="90" ShortTitle="Mollis vestibulum posuere" Title="Bibendum" UniqueId="Nostra interdum vel lobortis adipiscing"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Sociis curabitur diam" Directions="Est platea" PrepTime="26" ShortTitle="Parturient rhoncus taciti vestibulum sodales" Title="Viverra eget nec aliquam" UniqueId="Integer quisque elit">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Vestibulum venenatis" Description="Ante lorem hac" GroupImagePath="Magna massa" LicensedRequired="True" RecipesCount="54" ShortTitle="Primis pretium" Title="Donec" UniqueId="Sapien vulputate semper arcu mus"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="/Images/Chinese/Chinese_group_detail.png" Description="Neque eros" GroupImagePath="Pulvinar tempor tempus" LicensedRequired="False" RecipesCount="42" ShortTitle="Donec est" Title="Etiam" UniqueId="Adipiscing sagittis leo mus">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Class adipiscing sociosqu suscipit torquent" Directions="Facilisis sagittis aliquet blandit" PrepTime="88" ShortTitle="Parturient sit euismod himenaeos varius" Title="Ultrices feugiat gravida aenean" UniqueId="Vel curae vehicula">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Risus fringilla nisi habitasse" Description="Per netus commodo fermentum nulla" GroupImagePath="Porta nibh purus tortor conubia" LicensedRequired="True" RecipesCount="19" ShortTitle="Senectus cubilia sed" Title="Leo" UniqueId="Hendrerit vestibulum dapibus egestas"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Adipiscing congue" Directions="Iaculis nunc nam odio mauris" PrepTime="11" ShortTitle="Quam tristique" Title="Potenti cursus parturient ultricies venenatis" UniqueId="Nulla quis dictum vulputate">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Laoreet fusce volutpat est lorem" Description="Sed vestibulum donec nullam" GroupImagePath="Aptent orci etiam dis lacinia" LicensedRequired="False" RecipesCount="64" ShortTitle="Maecenas imperdiet vestibulum auctor malesuada" Title="Amet" UniqueId="Posuere porttitor tincidunt morbi"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Libero facilisis ligula" Directions="Proin praesent vestibulum urna" PrepTime="35" ShortTitle="Faucibus parturient vestibulum ipsum litora" Title="Justo habitant lacus vestibulum lorem" UniqueId="Sodales magna viverra aliquam adipiscing">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Consequat cras pretium dolor convallis" Description="Augue vestibulum" GroupImagePath="Lectus curabitur accumsan phasellus bibendum" LicensedRequired="True" RecipesCount="46" ShortTitle="Duis dignissim rhoncus dictumst adipiscing" Title="Dictumst" UniqueId="Facilisi nunc leo"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Porta purus nec amet" Directions="Massa fermentum inceptos" PrepTime="20" ShortTitle="Hendrerit himenaeos risus" Title="Mauris mollis montes" UniqueId="Ante imperdiet vestibulum">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Quisque metus vivamus nascetur" Description="Parturient interdum integer lobortis" GroupImagePath="Fringilla vestibulum vestibulum adipiscing" LicensedRequired="False" RecipesCount="81" ShortTitle="Morbi neque habitasse luctus" Title="Mauris" UniqueId="Aliquam magnis mattis aliquet"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Parturient malesuada penatibus sapien diam" Directions="Non per nostra" PrepTime="85" ShortTitle="Eget vestibulum porttitor" Title="Cubilia dapibus sed tincidunt curae" UniqueId="Vestibulum egestas tristique dis">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Adipiscing class blandit sed" Description="Ornare pharetra velit" GroupImagePath="Placerat vitae" LicensedRequired="True" RecipesCount="45" ShortTitle="Platea sem sit primis" Title="Quisque" UniqueId="Vel nam commodo conubia"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="/Images/Chinese/Chinese_group_detail.png" Description="Vulputate parturient euismod sociis" GroupImagePath="Taciti feugiat" LicensedRequired="False" RecipesCount="13" ShortTitle="Iaculis senectus elementum magnis" Title="Eleifend" UniqueId="Mattis nulla lacinia mus">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Natoque senectus vestibulum" Directions="Curabitur phasellus" PrepTime="50" ShortTitle="Proin erat elementum" Title="Posuere facilisis eros" UniqueId="Nibh fermentum">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Lorem consequat iaculis enim" Description="Tellus nec non" GroupImagePath="Tempor vestibulum gravida tempus" LicensedRequired="True" RecipesCount="51" ShortTitle="Lacinia per morbi" Title="Nullam" UniqueId="Laoreet tortor dignissim"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Habitasse parturient aliquam" Directions="Turpis adipiscing parturient nisi" PrepTime="68" ShortTitle="Felis hendrerit odio vel" Title="Vestibulum nam" UniqueId="Orci integer">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Pretium mauris rhoncus nullam" Description="Augue sed nisl sociosqu" GroupImagePath="Potenti varius vestibulum aenean" LicensedRequired="False" RecipesCount="76" ShortTitle="Vestibulum sodales sem" Title="Ante" UniqueId="Fringilla fames nunc viverra"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Congue vivamus massa" Directions="Himenaeos vestibulum suscipit sed imperdiet" PrepTime="26" ShortTitle="Metus vestibulum hac aliquam morbi" Title="Cras leo duis cursus aliquet" UniqueId="Adipiscing nunc parturient">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Quisque justo ultrices lacus" Description="Malesuada ipsum torquent pede" GroupImagePath="Aptent adipiscing" LicensedRequired="True" RecipesCount="16" ShortTitle="Quam parturient vestibulum auctor quis" Title="Facilisi" UniqueId="Est urna volutpat maecenas"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Venenatis amet inceptos sed ante" Directions="Neque netus praesent" PrepTime="69" ShortTitle="Interdum porta sem" Title="Vulputate dapibus" UniqueId="Arcu lobortis">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Per dictum dictumst eleifend" Description="Blandit mus nec" GroupImagePath="Vestibulum accumsan non porttitor bibendum" LicensedRequired="False" RecipesCount="19" ShortTitle="Commodo facilisi vestibulum tincidunt" Title="Aptent" UniqueId="Faucibus ultricies habitant"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Litora donec" Directions="Purus nascetur pharetra risus" PrepTime="14" ShortTitle="Pulvinar feugiat etiam" Title="Elit sagittis dignissim dis gravida" UniqueId="Enim luctus erat adipiscing parturient">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Euismod phasellus" Description="Sit velit" GroupImagePath="Egestas curabitur libero vitae" LicensedRequired="True" RecipesCount="89" ShortTitle="Placerat diam" Title="Auctor" UniqueId="Nam convallis eget curae sed"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="/Images/Chinese/Chinese_group_detail.png" Description="Laoreet nibh parturient proin" GroupImagePath="Facilisis nisi" LicensedRequired="False" RecipesCount="45" ShortTitle="Magnis fusce" Title="Fusce" UniqueId="Facilisis morbi nulla odio orci">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Pretium nunc" Directions="Sociosqu fermentum mauris" PrepTime="28" ShortTitle="Vehicula ornare rhoncus volutpat" Title="Adipiscing parturient platea vestibulum" UniqueId="Primis rutrum sem odio sodales">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Non per potenti habitasse" Description="Natoque augue mollis suscipit nisl" GroupImagePath="Montes nec posuere vestibulum fringilla" LicensedRequired="True" RecipesCount="46" ShortTitle="Nostra dolor" Title="Mus" UniqueId="Ultrices vestibulum"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Aliquet vestibulum praesent blandit commodo" Directions="Sit orci vel sapien vestibulum" PrepTime="46" ShortTitle="Accumsan adipiscing justo tellus parturient" Title="Himenaeos bibendum tempor est" UniqueId="Dictumst urna tempus eleifend lacus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Sociis taciti nam sed pede" Description="Semper viverra" GroupImagePath="Aliquam integer adipiscing parturient" LicensedRequired="False" RecipesCount="15" ShortTitle="Felis quam quisque vestibulum dis" Title="Vivamus" UniqueId="Quis aliquam"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Nunc parturient neque" Directions="Tortor vestibulum lorem facilisi hac" PrepTime="55" ShortTitle="Interdum tincidunt vestibulum nullam tristique" Title="Lobortis amet" UniqueId="Ante dapibus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Imperdiet adipiscing leo habitant" Description="Magna turpis cras varius" GroupImagePath="Duis vestibulum aenean faucibus" LicensedRequired="True" RecipesCount="61" ShortTitle="Malesuada massa metus" Title="Congue" UniqueId="Inceptos morbi mauris cubilia"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Elit enim per" Directions="Netus arcu" PrepTime="90" ShortTitle="Iaculis sed lacinia erat sem" Title="Purus venenatis dictum eros" UniqueId="Sit vel">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Vestibulum feugiat adipiscing" Description="Aptent egestas mus" GroupImagePath="Euismod auctor diam" LicensedRequired="False" RecipesCount="29" ShortTitle="Nec nulla non congue" Title="Arcu" UniqueId="Nascetur porta gravida ultricies"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Ligula dis nisi litora" Directions="Risus nam" PrepTime="99" ShortTitle="Luctus potenti convallis parturient" Title="Dignissim curae nisl pharetra" UniqueId="Est vestibulum donec">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Natoque vestibulum vitae" Description="Vulputate nibh vestibulum" GroupImagePath="Velit laoreet" LicensedRequired="True" RecipesCount="85" ShortTitle="Class curabitur" Title="Nec" UniqueId="Phasellus libero posuere consequat sed"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="Sagittis sodales cras" Description="Pede fermentum proin" GroupImagePath="Sodales quam placerat leo quis" LicensedRequired="False" RecipesCount="15" ShortTitle="Proin viverra duis" Title="Faucibus" UniqueId="Nam augue senectus sociosqu">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Sed parturient" Directions="Pulvinar mattis sagittis mus augue" PrepTime="79" ShortTitle="Felis ipsum vestibulum" Title="Nunc vestibulum adipiscing" UniqueId="Justo parturient">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Nec himenaeos non cras vestibulum" Description="Fringilla dolor habitasse viverra" GroupImagePath="Urna hendrerit" LicensedRequired="True" RecipesCount="46" ShortTitle="Mauris imperdiet fames mollis" Title="Aliquam" UniqueId="Senectus sociosqu suscipit integer malesuada"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Rutrum porttitor" Directions="Montes lacus nostra amet sem" PrepTime="25" ShortTitle="Vestibulum tincidunt diam" Title="Est hac" UniqueId="Vestibulum tristique eget">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Massa metus torquent morbi" Description="Ornare sit lorem" GroupImagePath="Vel quisque magna ante" LicensedRequired="False" RecipesCount="75" ShortTitle="Nam neque" Title="Diam" UniqueId="Penatibus dis aliquam arcu"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Mus purus tellus" Directions="Sapien semper adipiscing" PrepTime="28" ShortTitle="Risus tempor" Title="Velit nec tempus tortor" UniqueId="Cubilia curabitur accumsan vitae dapibus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Vestibulum ultrices leo" Description="Ultricies aliquet netus blandit" GroupImagePath="Parturient sociis" LicensedRequired="True" RecipesCount="47" ShortTitle="Vehicula volutpat elit" Title="Habitant" UniqueId="Porta conubia taciti praesent vulputate"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Eros parturient nibh" Directions="Vestibulum class turpis phasellus" PrepTime="46" ShortTitle="Potenti nisi" Title="Convallis aenean fusce vestibulum" UniqueId="Vestibulum sed dignissim eleifend">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Gravida iaculis curae" Description="Egestas euismod feugiat varius" GroupImagePath="Enim erat bibendum" LicensedRequired="False" RecipesCount="27" ShortTitle="Lacinia laoreet natoque" Title="Non" UniqueId="Consequat donec adipiscing etiam posuere"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Adipiscing aptent pede quam" Directions="Elementum sem lorem pretium" PrepTime="57" ShortTitle="Lobortis auctor rhoncus nascetur parturient" Title="Quis pharetra" UniqueId="Hendrerit urna sit placerat pulvinar">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Parturient fringilla" Description="Nisl nunc facilisi facilisis faucibus" GroupImagePath="Habitant fermentum adipiscing" LicensedRequired="True" RecipesCount="27" ShortTitle="Vestibulum odio habitasse inceptos morbi" Title="Aliquet" UniqueId="Interdum nullam vestibulum"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="Sed sem" Description="Congue cursus dictum" GroupImagePath="Himenaeos suscipit" LicensedRequired="False" RecipesCount="35" ShortTitle="Justo nunc" Title="Blandit" UniqueId="Parturient nullam vivamus aliquam sit">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Commodo est parturient hac conubia" Directions="Amet imperdiet" PrepTime="85" ShortTitle="Penatibus magna vestibulum" Title="Cubilia vestibulum adipiscing ante leo" UniqueId="Dapibus porttitor mus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Ipsum justo vivamus" Description="Lectus integer vestibulum" GroupImagePath="Dolor fames felis vestibulum quisque" LicensedRequired="True" RecipesCount="19" ShortTitle="Aliquam torquent aliquet" Title="Eget" UniqueId="Malesuada lorem ultrices dis"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Per euismod" Directions="Massa arcu ligula" PrepTime="99" ShortTitle="Curabitur nulla" Title="Montes nostra" UniqueId="Volutpat vestibulum sed feugiat phasellus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Parturient nec tristique luctus vestibulum" Description="Diam tincidunt" GroupImagePath="Litora vehicula" LicensedRequired="False" RecipesCount="32" ShortTitle="Ultricies metus magnis egestas" Title="Elit" UniqueId="Neque mollis vulputate non netus"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Dictumst semper" Directions="Ornare porta sem" PrepTime="11" ShortTitle="Nam nibh convallis nisi vestibulum" Title="Eleifend vitae nisl class" UniqueId="Dignissim sociis curae elementum taciti">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Risus elit enim gravida velit" Description="Platea adipiscing" GroupImagePath="Parturient maecenas purus" LicensedRequired="True" RecipesCount="70" ShortTitle="Primis praesent sit iaculis accumsan" Title="Enim" UniqueId="Sapien vel eros"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Lacinia fermentum fringilla proin nascetur" Directions="Facilisi nunc adipiscing sed tellus" PrepTime="33" ShortTitle="Adipiscing augue tempor" Title="Dolor laoreet mus" UniqueId="Habitasse hendrerit natoque himenaeos">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Etiam vestibulum habitant fusce" Description="Parturient facilisis donec" GroupImagePath="Dis odio est faucibus hac" LicensedRequired="False" RecipesCount="73" ShortTitle="Inceptos orci" Title="Commodo" UniqueId="Nulla vestibulum interdum lobortis leo"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Penatibus pulvinar porttitor sagittis" Directions="Quam posuere quis urna potenti" PrepTime="37" ShortTitle="Duis ipsum vestibulum" Title="Mauris senectus" UniqueId="Sodales adipiscing sociosqu tincidunt viverra">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Per rhoncus" Description="Nec cras pretium" GroupImagePath="Tempus pharetra non tortor" LicensedRequired="True" RecipesCount="85" ShortTitle="Imperdiet parturient" Title="Cursus" UniqueId="Felis vestibulum aenean"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="Vestibulum vestibulum" Description="Vestibulum magna massa" GroupImagePath="Tristique suscipit" LicensedRequired="False" RecipesCount="42" ShortTitle="Sapien phasellus" Title="Per" UniqueId="Semper sit convallis diam">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Volutpat curabitur cubilia cursus" Directions="Torquent aptent vestibulum metus aliquet" PrepTime="52" ShortTitle="Diam eget" Title="Adipiscing elit enim erat phasellus" UniqueId="Maecenas praesent sed consequat">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Ante vel adipiscing vehicula vulputate" Description="Auctor amet ultricies ultrices" GroupImagePath="Venenatis blandit commodo" LicensedRequired="True" RecipesCount="15" ShortTitle="Parturient morbi nam neque" Title="Erat" UniqueId="Vestibulum netus conubia"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Nunc elementum" Directions="Parturient accumsan bibendum nulla" PrepTime="95" ShortTitle="Facilisis egestas est" Title="Class euismod adipiscing feugiat parturient" UniqueId="Gravida fermentum iaculis hac vestibulum">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Dis convallis purus dignissim nisi" Description="Eros dapibus dictumst" GroupImagePath="Dictum nibh porta" LicensedRequired="False" RecipesCount="45" ShortTitle="Lectus risus velit vestibulum" Title="Sed" UniqueId="Ligula litora"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Mauris malesuada inceptos penatibus" Directions="Leo luctus magnis" PrepTime="73" ShortTitle="Interdum lobortis porttitor morbi adipiscing" Title="Mollis lacinia" UniqueId="Tincidunt nulla proin orci laoreet">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Mattis etiam fringilla" Description="Mus odio curae eleifend" GroupImagePath="Donec nec facilisi" LicensedRequired="True" RecipesCount="99" ShortTitle="Faucibus habitasse hendrerit fusce lorem" Title="Lorem" UniqueId="Per sed"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Sed vestibulum" Directions="Montes nascetur tristique pharetra parturient" PrepTime="90" ShortTitle="Quis urna adipiscing" Title="Dis est senectus platea cras" UniqueId="Duis hac primis leo venenatis">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Posuere fames" Description="Placerat augue ultricies pede quam" GroupImagePath="Natoque pulvinar sem dolor sit" LicensedRequired="False" RecipesCount="35" ShortTitle="Vel sagittis nostra vestibulum" Title="Eros" UniqueId="Nam pretium"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Ante per quisque parturient" Directions="Rhoncus parturient sociosqu sodales nunc" PrepTime="99" ShortTitle="Vivamus sed vestibulum aliquam vulputate" Title="Vestibulum curabitur" UniqueId="Adipiscing sem parturient">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Vestibulum rutrum ipsum aliquam suscipit" Description="Mus amet" GroupImagePath="Viverra felis" LicensedRequired="True" RecipesCount="55" ShortTitle="Integer vestibulum" Title="Nibh" UniqueId="Ultrices non vehicula"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+		<Data:RecipeDataGroup BackgroundImage="Elit porttitor dictumst commodo adipiscing" Description="Dignissim lorem sociis" GroupImagePath="Eget vel taciti elit" LicensedRequired="False" RecipesCount="56" ShortTitle="Eleifend platea" Title="Inceptos" UniqueId="Dolor non fames vestibulum felis">
+			<Data:RecipeDataGroup.Items>
+				<Data:RecipeDataItem BackgroundImage="Dis parturient dictumst" Directions="Tellus tempor volutpat enim" PrepTime="13" ShortTitle="Facilisis est metus mauris fermentum" Title="Fringilla nullam habitasse aptent" UniqueId="Auctor morbi">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Accumsan conubia" Description="Maecenas blandit tempus tortor" GroupImagePath="Commodo magna praesent" LicensedRequired="True" RecipesCount="15" ShortTitle="Nam turpis elementum" Title="Morbi" UniqueId="Aenean bibendum massa"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Nunc odio dictum" Directions="Neque eros" PrepTime="93" ShortTitle="Adipiscing orci" Title="Inceptos euismod leo feugiat pede" UniqueId="Parturient gravida interdum iaculis penatibus">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Nibh porta cursus" Description="Hendrerit dapibus himenaeos vestibulum congue" GroupImagePath="Eleifend netus nulla" LicensedRequired="False" RecipesCount="97" ShortTitle="Imperdiet hac facilisi purus malesuada" Title="Nulla" UniqueId="Nisl vestibulum habitant risus"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Laoreet natoque class vestibulum posuere" Directions="Porttitor lectus lacinia libero" PrepTime="78" ShortTitle="Duis sed" Title="Sagittis nunc vestibulum ligula sem" UniqueId="Senectus litora sit potenti">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Tristique quam quis" Description="Lobortis nascetur" GroupImagePath="Tincidunt pharetra" LicensedRequired="True" RecipesCount="91" ShortTitle="Mus ultricies velit venenatis nec" Title="Dictum" UniqueId="Placerat vulputate per pulvinar cras"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Parturient facilisis vestibulum vehicula" Directions="Curae luctus sociosqu curabitur" PrepTime="51" ShortTitle="Mauris fermentum vestibulum aliquam" Title="Etiam fusce" UniqueId="Lorem adipiscing">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Rhoncus magnis adipiscing" Description="Vel suscipit phasellus" GroupImagePath="Torquent consequat nam pretium" LicensedRequired="False" RecipesCount="91" ShortTitle="Sed convallis ultrices mattis dignissim" Title="Sem" UniqueId="Sodales hac viverra"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+				<Data:RecipeDataItem BackgroundImage="Himenaeos nec" Directions="Leo parturient fringilla" PrepTime="87" ShortTitle="Praesent accumsan blandit" Title="Imperdiet bibendum malesuada" UniqueId="Ornare penatibus proin vestibulum">
+					<Data:RecipeDataItem.Group>
+						<Data:RecipeDataGroup BackgroundImage="Arcu habitasse volutpat morbi" Description="Integer amet quisque vivamus" GroupImagePath="Mollis ante" LicensedRequired="True" RecipesCount="52" ShortTitle="Nulla aliquam mus diam aliquet" Title="Interdum" UniqueId="Maecenas nostra hendrerit vestibulum"/>
+					</Data:RecipeDataItem.Group>
+				</Data:RecipeDataItem>
+			</Data:RecipeDataGroup.Items>
+		</Data:RecipeDataGroup>
+	</Data:RecipeDataSource.ItemGroups>
+</Data:RecipeDataSource>

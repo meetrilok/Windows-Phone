@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e63a8783-9e7f-47d1-957e-269ac57493b5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.exe">
+      <PackagePath>S04_ListDemo.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image01.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image02.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image03.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image04.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image05.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image06.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image06.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image07.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image07.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image08.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image08.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image09.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image09.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image10.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\SampleData\ListDataSource\ListDataSource_Files\image11.png">
+      <PackagePath>SampleData\ListDataSource\ListDataSource_Files\image11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image01.png">
+      <PackagePath>SampleData\Images\image01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image02.png">
+      <PackagePath>SampleData\Images\image02.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image03.png">
+      <PackagePath>SampleData\Images\image03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image04.png">
+      <PackagePath>SampleData\Images\image04.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image05.png">
+      <PackagePath>SampleData\Images\image05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image06.png">
+      <PackagePath>SampleData\Images\image06.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image07.png">
+      <PackagePath>SampleData\Images\image07.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image08.png">
+      <PackagePath>SampleData\Images\image08.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image09.png">
+      <PackagePath>SampleData\Images\image09.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image10.png">
+      <PackagePath>SampleData\Images\image10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image11.png">
+      <PackagePath>SampleData\Images\image11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GridViewPage.xbf">
+      <PackagePath>GridViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedGridView.xbf">
+      <PackagePath>GroupedGridView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedListViewPage.xbf">
+      <PackagePath>GroupedListViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\ListViewPage.xbf">
+      <PackagePath>ListViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource.xbf">
+      <PackagePath>SampleData\ListDataSource\ListDataSource.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.xr.xml">
+      <PackagePath>S04_ListDemo.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

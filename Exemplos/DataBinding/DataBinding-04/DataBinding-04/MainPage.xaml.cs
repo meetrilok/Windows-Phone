@@ -34,7 +34,7 @@ namespace DataBinding_04
             this.InitializeComponent();
             this.NavigationCacheMode = NavigationCacheMode.Required;
 
-            obj.mytext = "One way data binding";
+            obj.mytext = "Meu Texto Exemplo";
             myblock.DataContext = obj;
 
         }

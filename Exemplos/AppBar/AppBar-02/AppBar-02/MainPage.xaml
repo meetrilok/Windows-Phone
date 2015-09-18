@@ -14,19 +14,19 @@
                 Label="Refresh" 
                 Icon="Refresh" 
                 Click="AppBarRefreshClick"/>
-            
+
             <AppBarButton 
                 Label="Help" 
                 Icon="Help" 
                 Click="AppBarHelpClick"/>
 
-            <CommandBar.SecondaryCommands>
+            <CommandBar.SecondaryCommands >
                 <AppBarButton 
                     Label="Remoção" 
                     Icon="Remove" 
                     Click="AppBarRemoveClick"/>
-                
-                <AppBarButton 
+
+                <AppBarButton Background="#64B5F6"
                     Label="Adição" 
                     Icon="Add" 
                     Click="AppBarAdicaoClick"/>

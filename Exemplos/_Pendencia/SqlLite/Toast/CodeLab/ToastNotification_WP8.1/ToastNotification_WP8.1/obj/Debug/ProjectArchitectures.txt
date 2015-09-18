@@ -1,1 +1,0 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Toast\CodeLab\ToastNotification_WP8.1\ToastNotification_WP8.1\ToastNotification_WP8.1.csproj;neutral

@@ -1,1 +1,0 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson12_Code\ManagingState\ManagingState\ManagingState.csproj;neutral

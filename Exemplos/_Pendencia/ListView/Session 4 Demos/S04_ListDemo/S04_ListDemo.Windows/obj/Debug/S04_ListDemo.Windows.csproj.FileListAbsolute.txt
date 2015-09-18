@@ -1,0 +1,113 @@
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\App.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GridViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GroupedGridView.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GroupedListView.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\ListViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\MainPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.exe
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.pdb
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\resources.pri
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\AppxManifest.xml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.build.appxrecipe
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\S04_ListDemo.Windows.exe
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\S04_ListDemo.Windows.pdb
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\priconfig.xml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\layout.resfiles
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\resources.resfiles
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\pri.resfiles
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\qualifiers.txt
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image01.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image02.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image03.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image04.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image05.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image01.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image02.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image03.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image04.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\SampleData\Images\image05.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GridViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GroupedGridView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GroupedListView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\ListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\MainPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.xr.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\resources.pri
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\AppxManifest.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.build.appxrecipe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GridViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedGridView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\GroupedListView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MainPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\S04_ListDemo.Windows.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\S04_ListDemo.Windows.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\priconfig.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\layout.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\resources.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\pri.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\qualifiers.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\ProjectArchitectures.txt

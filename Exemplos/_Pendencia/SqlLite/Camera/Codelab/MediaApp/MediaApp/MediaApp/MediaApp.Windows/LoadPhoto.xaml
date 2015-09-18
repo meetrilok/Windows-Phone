@@ -1,6 +1,0 @@
-﻿<Page x:Name="pageRoot" x:Class="MediaApp.LoadPhoto" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="using:MediaApp" xmlns:common="using:MediaApp.Common" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
-    <Grid>
-        <Button x:Name="BackButton" Margin="39,59,39,0" VerticalAlignment="Top" Canvas.ZIndex="1" Style="{StaticResource NavigationBackButtonNormalStyle}" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"/>
-        <Image x:Name="Image" Stretch="Uniform"/>
-    </Grid>
-</Page>

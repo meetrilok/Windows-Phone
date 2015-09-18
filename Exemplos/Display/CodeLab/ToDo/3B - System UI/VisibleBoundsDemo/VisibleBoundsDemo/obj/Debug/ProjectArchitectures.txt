@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Display\CodeLab\ToDo\3B - System UI\VisibleBoundsDemo\VisibleBoundsDemo\VisibleBoundsDemo.csproj;neutral

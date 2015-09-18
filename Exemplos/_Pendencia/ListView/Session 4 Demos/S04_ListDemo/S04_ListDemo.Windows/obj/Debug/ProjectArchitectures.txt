@@ -1,0 +1,1 @@
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\S04_ListDemo.Windows.csproj;neutral

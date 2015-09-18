@@ -32,7 +32,6 @@
             VerticalAlignment="Top" />
 
         <ComboBox x:ConnectionId='1'
-            MaxDropDownHeight="single"
                                                  
                                                   
             Header="Escolha uma Opção"            

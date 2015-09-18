@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="SqliteTutorial.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SqliteTutorial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="True" x:Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Icon="Add"  Label="Add" Click="AppBarButton_Click"/>
+            </CommandBar.PrimaryCommands>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Page.Resources>
+        <DataTemplate x:Key="StudentDataTemplate">
+            <StackPanel Orientation="Vertical" Margin="0,0,0,12">
+                <TextBlock Text="{Binding Id}"  />
+                <TextBlock Text="{Binding Name}"  />
+                <TextBlock Text="{Binding Cgpa}" />
+            </StackPanel>
+        </DataTemplate>
+
+
+    </Page.Resources>
+
+    <Grid>
+        <ListView 
+            x:Name="studentList"
+            ItemTemplate="{StaticResource StudentDataTemplate}"
+            IsItemClickEnabled="True"
+            ItemClick="studentList_ItemClick"
+         />
+
+    </Grid>
+</Page>

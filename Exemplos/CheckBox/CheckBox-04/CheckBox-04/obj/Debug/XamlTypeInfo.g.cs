@@ -532,3 +532,4 @@ namespace CheckBox_04.CheckBox_04_XamlTypeInfo
 
 
 
+

@@ -1,0 +1,334 @@
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image01.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image02.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image03.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image04.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image05.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GridViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedListViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\ListViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.build.appxrecipe
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedGridView.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.i.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.cs
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xaml
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image01.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image02.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image03.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image04.png
+C:\Users\mashapir.REDMOND\Documents\BlueProj\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image05.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.i.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xaml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image01.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image02.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image03.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image04.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image05.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image01.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image02.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image03.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image04.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image05.png
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\App.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GridViewPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedGridView.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedListViewPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\ListViewPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.xr.xml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\resources.pri
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.build.appxrecipe
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Blue\S04_ListDemo\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image01.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image02.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image03.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image04.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image05.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image01.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image02.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image03.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image04.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image05.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GridViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedGridView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\ListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.xr.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.build.appxrecipe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\Start\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image01.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image02.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image03.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image04.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image05.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image01.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image02.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image03.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image04.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image05.png
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GridViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedGridView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\ListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.xr.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\resources.pri
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.build.appxrecipe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.i.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xaml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image01.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image02.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image03.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image04.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource_Files\image05.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image01.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image02.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image03.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image04.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\Images\image05.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GridViewPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedGridView.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\GroupedListViewPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\ListViewPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\bin\Debug\S04_ListDemo.WindowsPhone.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GridViewPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedGridView.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\GroupedListViewPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ListViewPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\SampleData\ListDataSource\ListDataSource.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\S04_ListDemo.WindowsPhone.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\obj\Debug\ProjectArchitectures.txt

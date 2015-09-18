@@ -1,0 +1,84 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\Page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\Page3.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\CacheModeDemo.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\CacheModeDemo.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 3 Demos\Session 3 Demos\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\Page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\Page3.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\bin\Debug\CacheModeDemo.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page2.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\Page3.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\CacheModeDemo.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\CacheModeDemo.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\obj\Debug\ProjectArchitectures.txt

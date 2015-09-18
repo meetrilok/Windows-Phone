@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\MultiJanela\Codelab\ToDo\3 - CacheModeNavigationHelperDemo END\CacheModeDemo\CacheModeDemo\CacheModeDemo.csproj;neutral

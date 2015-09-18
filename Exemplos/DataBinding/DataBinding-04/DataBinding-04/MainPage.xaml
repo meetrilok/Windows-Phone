@@ -8,7 +8,7 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <Grid Background="#64B5F6">
         <StackPanel 
             x:Name="TitlePanel" 
             Grid.Row="0" 
@@ -28,6 +28,6 @@
                 Height="57"  
                 Width="330" 
                 FontSize="28"/>
-</StackPanel>
+        </StackPanel>
     </Grid>
 </Page>

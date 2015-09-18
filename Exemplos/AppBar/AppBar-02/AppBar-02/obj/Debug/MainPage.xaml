@@ -10,18 +10,42 @@
 
     <Page.BottomAppBar>
         <CommandBar>
-            <AppBarButton x:ConnectionId='1' Label="Refresh" Icon="Refresh"                           />
-            <AppBarButton x:ConnectionId='2' Label="Help" Icon="Help"                        />
+            <AppBarButton x:ConnectionId='1' 
+                Label="Refresh" 
+                Icon="Refresh" 
+                                          />
 
-            <CommandBar.SecondaryCommands>
-                <AppBarButton x:ConnectionId='3' Label="Remoção" Icon="Remove"                          />
-                <AppBarButton x:ConnectionId='4' Label="Adição" Icon="Add"                          />
+            <AppBarButton x:ConnectionId='2' 
+                Label="Help" 
+                Icon="Help" 
+                                       />
+
+            <CommandBar.SecondaryCommands >
+                <AppBarButton x:ConnectionId='3' 
+                    Label="Remoção" 
+                    Icon="Remove" 
+                                             />
+
+                <AppBarButton x:ConnectionId='4' Background="#64B5F6"
+                    Label="Adição" 
+                    Icon="Add" 
+                                             />
+                
             </CommandBar.SecondaryCommands>
         </CommandBar>
     </Page.BottomAppBar>
 
-    <Grid Background="#FF6C7476">
-        <TextBlock x:Name="lblResultado" TextAlignment="Center" Margin="0,309,10,242" Text="Resultado da Seleção" FontSize="24"  Width="390" HorizontalAlignment="Center" VerticalAlignment="Center" LineHeight="6" />
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            x:Name="lblResultado" 
+            TextAlignment="Center"
+            Margin="0,309,10,242" 
+            Text="Resultado da Seleção" 
+            FontSize="24"  
+            Width="390" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            LineHeight="6" />
     </Grid>
 </Page>
 

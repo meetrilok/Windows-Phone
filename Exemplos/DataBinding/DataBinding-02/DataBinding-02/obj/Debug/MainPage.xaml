@@ -10,12 +10,12 @@
 
     <Grid 
         Background="#64B5F6"
-        x:Name="ContentPanel" 
+        x:Name="MeuGrid" 
         Grid.Row="1" 
         Margin="12,0,12,0">
 
             <ListBox 
-                x:Name="ListBox1" 
+                x:Name="lstBox" 
                 ItemsSource="{Binding}"
                 Height="200" 
                 Width="400"/>

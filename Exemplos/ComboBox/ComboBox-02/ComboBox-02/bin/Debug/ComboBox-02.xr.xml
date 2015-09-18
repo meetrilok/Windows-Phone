@@ -22,7 +22,6 @@
       <RootProperty Name="Width" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
-      <RootProperty Name="MaxDropDownHeight" />
       <RootProperty Name="Header" />
       <RootProperty Name="SelectedIndex" />
       <RootProperty Name="HorizontalAlignment" />

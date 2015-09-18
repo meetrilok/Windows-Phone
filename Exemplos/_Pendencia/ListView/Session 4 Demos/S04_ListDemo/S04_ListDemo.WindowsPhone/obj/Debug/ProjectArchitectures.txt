@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 4 Demos\Session 4 Demos\S04_ListDemo\S04_ListDemo.WindowsPhone\S04_ListDemo.WindowsPhone.csproj;neutral

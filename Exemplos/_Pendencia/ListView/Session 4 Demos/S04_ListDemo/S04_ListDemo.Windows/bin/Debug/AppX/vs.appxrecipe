@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MASHAPIR</Machine>
+    <WindowsUser>mashapir</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bb3e621f-e83e-45bf-9056-7c600c2068a4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B8E4874CBCFD93F405AD3C83C12C948244CFD0A81DDEE546E1DFCBA0D82C1A4F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bb3e621f-e83e-45bf-9056-7c600c2068a4_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bb3e621f-e83e-45bf-9056-7c600c2068a4_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bb3e621f-e83e-45bf-9056-7c600c2068a4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-03T22:09:31.549</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.exe">
+      <PackagePath>S04_ListDemo.Windows.exe</PackagePath>
+      <Modified>2014-05-03T22:29:04.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-13T17:54:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-13T17:54:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-13T17:54:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-13T17:54:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image01.png">
+      <PackagePath>SampleData\Images\image01.png</PackagePath>
+      <Modified>2013-09-02T08:25:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image02.png">
+      <PackagePath>SampleData\Images\image02.png</PackagePath>
+      <Modified>2013-09-02T08:25:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image03.png">
+      <PackagePath>SampleData\Images\image03.png</PackagePath>
+      <Modified>2013-09-02T08:25:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image04.png">
+      <PackagePath>SampleData\Images\image04.png</PackagePath>
+      <Modified>2013-09-02T08:25:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image05.png">
+      <PackagePath>SampleData\Images\image05.png</PackagePath>
+      <Modified>2013-09-02T08:25:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image06.png">
+      <PackagePath>SampleData\Images\image06.png</PackagePath>
+      <Modified>2014-04-16T05:07:42.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image07.png">
+      <PackagePath>SampleData\Images\image07.png</PackagePath>
+      <Modified>2014-04-16T05:08:12.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image08.png">
+      <PackagePath>SampleData\Images\image08.png</PackagePath>
+      <Modified>2014-04-16T05:08:42.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image09.png">
+      <PackagePath>SampleData\Images\image09.png</PackagePath>
+      <Modified>2014-04-16T05:09:06.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image10.png">
+      <PackagePath>SampleData\Images\image10.png</PackagePath>
+      <Modified>2014-04-16T05:09:29.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Shared\SampleData\Images\image11.png">
+      <PackagePath>SampleData\Images\image11.png</PackagePath>
+      <Modified>2014-04-16T05:09:52.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-03-18T20:21:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GridViewPage.xbf">
+      <PackagePath>GridViewPage.xbf</PackagePath>
+      <Modified>2014-05-03T22:29:04.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GroupedGridView.xbf">
+      <PackagePath>GroupedGridView.xbf</PackagePath>
+      <Modified>2014-05-03T22:27:10.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\GroupedListView.xbf">
+      <PackagePath>GroupedListView.xbf</PackagePath>
+      <Modified>2014-05-03T22:27:10.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\ListViewPage.xbf">
+      <PackagePath>ListViewPage.xbf</PackagePath>
+      <Modified>2014-05-03T22:29:04.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-03-18T20:21:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\S04_ListDemo.Windows.xr.xml">
+      <PackagePath>S04_ListDemo.Windows.xr.xml</PackagePath>
+      <Modified>2014-05-03T22:29:03.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 4 Demos\End\S04_ListDemo\S04_ListDemo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-03T22:09:31.488</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

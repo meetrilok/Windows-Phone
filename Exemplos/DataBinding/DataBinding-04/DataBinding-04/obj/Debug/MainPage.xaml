@@ -8,13 +8,27 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+    <Grid Background="#64B5F6">
+        <StackPanel 
+            x:Name="TitlePanel" 
+            Grid.Row="0" 
+            Margin="12,17,0,28">
 
-            <TextBlock Text="Databinding"  Margin="12,0"/>
+            <TextBlock 
+                Text="Databinding" 
+                Margin="12,0"/>
 
-            <TextBlock x:Name="myblock" HorizontalAlignment="Left" Margin="63,80,0,0" TextWrapping="Wrap" Text="{Binding mytext}" VerticalAlignment="Top" Height="57"  Width="330" FontSize="28"/>
-</StackPanel>
+            <TextBlock 
+                x:Name="myblock" 
+                HorizontalAlignment="Left"
+                Margin="63,80,0,0" 
+                TextWrapping="Wrap" 
+                Text="{Binding mytext}" 
+                VerticalAlignment="Top" 
+                Height="57"  
+                Width="330" 
+                FontSize="28"/>
+        </StackPanel>
     </Grid>
 </Page>
 

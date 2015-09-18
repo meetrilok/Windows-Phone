@@ -13,8 +13,6 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-// https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn308514.aspx
-
 namespace DatePicker_03
 {
     public sealed partial class MainPage : Page
@@ -29,11 +27,11 @@ namespace DatePicker_03
         {
             if (VerifyDateIsFuture(arrivalDatePicker.Date) == true)
             {
-                Control1Output.Text = string.Format ( "Thank you. Your arrival is set for {0}.", arrivalDatePicker.Date.ToString("D"));             
+                Control1Output.Text = string.Format ( "Obrigado sua chegada está marcada para {0}.", arrivalDatePicker.Date.ToString("D"));             
             }
             else
             {
-                Control1Output.Text = "Arrival date must be later than today.";
+                Control1Output.Text = "Data de Chegada deve ser depois do dia de hoje.";
             }
         }
 

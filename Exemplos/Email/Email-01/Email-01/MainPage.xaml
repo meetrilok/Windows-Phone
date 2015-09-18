@@ -8,9 +8,24 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Background="#FF6C7476">
-        <TextBlock HorizontalAlignment="Center" Margin="10,204,10,0" TextWrapping="Wrap" TextAlignment="Center" Text="Pressione Para Enviar um Email" FontSize="24" VerticalAlignment="Top" Width="380" />
-        <Button x:Name="btnEnvia" Content="Envia" HorizontalAlignment="Left" Margin="138,259,0,0" VerticalAlignment="Top" Click="EnviaEmailClick" />
+    <Grid Background="#64B5F6">
+        <TextBlock 
+            HorizontalAlignment="Center" 
+            Margin="10,204,10,0" 
+            TextWrapping="Wrap" 
+            TextAlignment="Center" 
+            Text="Pressione Para Enviar um Email" 
+            FontSize="24" 
+            VerticalAlignment="Top" 
+            Width="380" />
+        
+        <Button 
+            x:Name="btnEnvia" 
+            Content="Envia" 
+            HorizontalAlignment="Left" 
+            Margin="138,259,0,0" 
+            VerticalAlignment="Top" 
+            Click="EnviaEmailClick" />
     </Grid>
     
 </Page>

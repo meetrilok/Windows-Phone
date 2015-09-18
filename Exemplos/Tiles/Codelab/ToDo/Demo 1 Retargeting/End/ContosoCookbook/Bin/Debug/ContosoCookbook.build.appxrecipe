@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOARESAL5</Machine>
+    <WindowsUser>soaresal</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fc35596b-fb00-4f13-b373-bb42b3c48262</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll">
+      <PackagePath>ContosoCookbook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\AppBar\feature.camera.png">
+      <PackagePath>Assets\AppBar\feature.camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Icons\like.png">
+      <PackagePath>Assets\Icons\like.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Icons\pin.png">
+      <PackagePath>Assets\Icons\pin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Icons\unlike.png">
+      <PackagePath>Assets\Icons\unlike.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Icons\unpin.png">
+      <PackagePath>Assets\Icons\unpin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\chinese_group.png">
+      <PackagePath>Images\chinese\chinese_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\chinese_group_detail.png">
+      <PackagePath>Images\chinese\chinese_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\chinese_group_header.png">
+      <PackagePath>Images\chinese\chinese_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\french_group.png">
+      <PackagePath>Images\french\french_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\french_group_detail.png">
+      <PackagePath>Images\french\french_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\french_group_header.png">
+      <PackagePath>Images\french\french_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\german_group.png">
+      <PackagePath>Images\german\german_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\german_group_detail.png">
+      <PackagePath>Images\german\german_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\german_group_header.png">
+      <PackagePath>Images\german\german_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\indian_group.png">
+      <PackagePath>Images\indian\indian_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\indian_group_detail.png">
+      <PackagePath>Images\indian\indian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\indian_group_header.png">
+      <PackagePath>Images\indian\indian_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\italian_group.png">
+      <PackagePath>Images\italian\italian_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\italian_group_detail.png">
+      <PackagePath>Images\italian\italian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\italian_group_header.png">
+      <PackagePath>Images\italian\italian_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\mexican_group.png">
+      <PackagePath>Images\mexican\mexican_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\mexican_group_detail.png">
+      <PackagePath>Images\mexican\mexican_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\mexican_group_header.png">
+      <PackagePath>Images\mexican\mexican_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Data\Recipes.txt">
+      <PackagePath>Data\Recipes.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\Chinese_1_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\Chinese_2_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\Chinese_3_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\Chinese_4_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\Chinese_5_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\chinese\Chinese_6_600_C.jpg">
+      <PackagePath>Images\chinese\Chinese_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\French_1_600_C.jpg">
+      <PackagePath>Images\french\French_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\French_2_600_C.jpg">
+      <PackagePath>Images\french\French_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\French_3_600_C.jpg">
+      <PackagePath>Images\french\French_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\French_4_600_C.jpg">
+      <PackagePath>Images\french\French_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\French_5_600_C.jpg">
+      <PackagePath>Images\french\French_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\french\French_6_600_C.jpg">
+      <PackagePath>Images\french\French_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\German_1_600_C.jpg">
+      <PackagePath>Images\german\German_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\German_2_600_C.jpg">
+      <PackagePath>Images\german\German_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\German_3_600_C.jpg">
+      <PackagePath>Images\german\German_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\German_4_600_C.jpg">
+      <PackagePath>Images\german\German_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\German_5_600_C.jpg">
+      <PackagePath>Images\german\German_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\german\German_6_600_C.jpg">
+      <PackagePath>Images\german\German_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\Indian_1_600_C.jpg">
+      <PackagePath>Images\indian\Indian_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\Indian_2_600_C.jpg">
+      <PackagePath>Images\indian\Indian_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\Indian_3_600_C.jpg">
+      <PackagePath>Images\indian\Indian_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\Indian_4_600_C.jpg">
+      <PackagePath>Images\indian\Indian_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\Indian_5_600_C.jpg">
+      <PackagePath>Images\indian\Indian_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\indian\Indian_6_600_C.jpg">
+      <PackagePath>Images\indian\Indian_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\Italian_1_600_C.jpg">
+      <PackagePath>Images\italian\Italian_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\Italian_2_600_C.jpg">
+      <PackagePath>Images\italian\Italian_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\Italian_3_600_C.jpg">
+      <PackagePath>Images\italian\Italian_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\Italian_4_600_C.jpg">
+      <PackagePath>Images\italian\Italian_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\Italian_5_600_C.jpg">
+      <PackagePath>Images\italian\Italian_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\italian\Italian_6_600_C.jpg">
+      <PackagePath>Images\italian\Italian_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\Mexican_1_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\Mexican_2_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\Mexican_3_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\Mexican_4_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\Mexican_5_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Images\mexican\Mexican_6_600_C.jpg">
+      <PackagePath>Images\mexican\Mexican_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

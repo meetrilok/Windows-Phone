@@ -8,13 +8,13 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <StackPanel Orientation="vertical" >
+    <StackPanel Orientation="vertical" Background="#64B5F6">
         <DatePicker 
             x:Name="arrivalDatePicker" 
-            Header="Arrival Date"/>
+            Header="Data de Chegada"/>
         
         <Button 
-            Content="Submit" 
+            Content="Envia" 
             Click="SubmitButton_Click" 
             Margin="5,0,0,-2"
             VerticalAlignment="Bottom"/>

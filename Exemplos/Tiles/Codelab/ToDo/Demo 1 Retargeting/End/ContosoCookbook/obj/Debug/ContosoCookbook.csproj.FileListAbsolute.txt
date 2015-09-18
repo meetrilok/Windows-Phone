@@ -1,0 +1,521 @@
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\Junk\ContosoCookbook\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\Begin\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\2 Styles\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\3 DesignTime Data\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\4 Data binding\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S2 Designing WP8 Applications\Demos\5 List Templates\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\Begin\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\1 Page Navigation\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\Begin\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\2 Application Bar\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\3 Orientation\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\4 Multiple Resolutions\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\5 Localization\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S3 Building WP8 Applications\Demos\6 TransitionsAndTiltEffect\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 1 - Application Tile\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Draft\S8 Tiles and Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\Andy\SkyDrive\WP8 JumpStart\Final\S8 Tiles and Lock Screen Notifications\Demos\Demo 2 Tile API - Create, Update, Delete\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\resources.pri
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppxManifest.xml
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.build.appxrecipe
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\qualifiers.txt
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MDILProjectFiles.xml
+C:\Users\anwigley\Documents\WP8.1\Work\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\JumpStart\Session 23 Demos\Session 23 Demos\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\ContosoCookbook_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\AboutPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\GroupDetailPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\RecipeDetailPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.Resources.AppResources.fr-FR.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\fr-FR\ContosoCookbook.resources.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ContosoCookbook.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\MDILProjectFiles.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Codelab\ToDo\Demo 1 Retargeting\End\ContosoCookbook\obj\Debug\XapCacheFile.xml
