@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Grid\Grid-05\Grid-05\Grid-05.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Grid\Grid-05\Grid-05\Grid-05.csproj;neutral

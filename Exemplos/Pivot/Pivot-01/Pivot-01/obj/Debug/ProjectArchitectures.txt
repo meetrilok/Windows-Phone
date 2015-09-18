@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Pivot\Pivot-01\Pivot-01\Pivot-01.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Pivot\Pivot-01\Pivot-01\Pivot-01.csproj;neutral

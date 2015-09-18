@@ -8,9 +8,15 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Background="#FF6C7476">
-        <TimePicker ClockIdentifier="24HourClock" Header="24 hour clock"/>
-        <TimePicker ClockIdentifier="12HourClock" Header="24 hour clock" Margin="1,70,-1,-70"/>
+    <Grid Background="#64B5F6">
+        <TimePicker 
+            ClockIdentifier="24HourClock" 
+            Header="24 hour clock"/>
+        
+        <TimePicker 
+            ClockIdentifier="12HourClock" 
+            Header="24 hour clock" 
+            Margin="1,70,-1,-70"/>
     </Grid>
 </Page>
 

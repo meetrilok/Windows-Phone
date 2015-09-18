@@ -8,8 +8,7 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid Background="#FF6C7476">
-
+    <Grid Background="#64B5F6">
         <TextBox
             x:Name="txtDigita"
             HorizontalAlignment="Left"

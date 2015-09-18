@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Lazy_Loading_ListView.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lazy_Loading_ListView"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Loaded="Grid_Loaded">
+        <ProgressRing Name="progressring" Height="90" Width="90" IsActive="False"/>
+        <ListView Grid.Row="0" x:Name="storylist" Width="400" Loaded="storylist_Loaded">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                     <TextBlock Text="{Binding name}" FontSize="24" FontWeight="Light" Margin="12,6"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

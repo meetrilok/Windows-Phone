@@ -1,0 +1,64 @@
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\App.xbf
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\MainPage.xbf
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\MediaGallery.xr.xml
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\MediaGallery.exe
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\MediaGallery.pdb
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\resources.pri
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\AppxManifest.xml
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\bin\Debug\MediaGallery.build.appxrecipe
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\App.g.i.cs
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\App.g.cs
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MainPage.g.i.cs
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MainPage.g.cs
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\App.xaml
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\App.xbf
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\XamlSaveStateFile.xml
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MainPage.xaml
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MainPage.xbf
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MediaGallery.exe
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MediaGallery.pdb
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\priconfig.xml
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\priconfig.xml.intermediate
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\layout.resfiles
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\layout.resfiles.intermediate
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\resources.resfiles
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\resources.resfiles.intermediate
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\pri.resfiles
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\pri.resfiles.intermediate
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\qualifiers.txt
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\qualifiers.txt.intermediate
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\vivekmaskara\documents\visual studio 2013\Projects\MediaGallery\MediaGallery\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\MediaGallery.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\MediaGallery.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\MediaGallery.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\bin\Debug\MediaGallery.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MediaGallery.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MediaGallery.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\MediaGallery\Codelab\MediaGallery\MediaGallery\MediaGallery\obj\Debug\ProjectArchitectures.txt

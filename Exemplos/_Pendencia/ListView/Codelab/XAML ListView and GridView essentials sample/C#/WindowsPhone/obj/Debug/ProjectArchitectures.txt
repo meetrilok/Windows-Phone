@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ListView\Codelab\XAML ListView and GridView essentials sample\C#\WindowsPhone\ListViewSimple.WindowsPhone.csproj;neutral

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIVEK</Machine>
+    <WindowsUser>vivek</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2e540a6a-3925-4191-ae1a-d094bbb69381</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>066E4CAF513318C07444A1DD852D58EA54E8624A153A004EFD09B3A739380E10</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2e540a6a-3925-4191-ae1a-d094bbb69381_1.0.0.0_neutral__nfc3k07256mtc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2e540a6a-3925-4191-ae1a-d094bbb69381_nfc3k07256mtc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2e540a6a-3925-4191-ae1a-d094bbb69381</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vivek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-30T20:42:53.611</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\bin\Debug\IP Address W8.exe">
+      <PackagePath>IP Address W8.exe</PackagePath>
+      <Modified>2014-08-31T14:13:06.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-30T20:42:51.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-08-31T14:13:06.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\bin\Debug\IP Address W8.xr.xml">
+      <PackagePath>IP Address W8.xr.xml</PackagePath>
+      <Modified>2014-08-31T14:13:05.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vivek\Documents\Visual Studio 2013\Projects\IP Address\IP Address W8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-30T20:42:52.793</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

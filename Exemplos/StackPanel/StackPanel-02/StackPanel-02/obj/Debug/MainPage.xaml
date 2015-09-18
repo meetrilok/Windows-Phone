@@ -9,9 +9,15 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
-        <Border BorderThickness="2" BorderBrush="Red" Width="150" Height="150" >
-            <StackPanel Width="150" Height="150">
-
+        <Border 
+            BorderThickness="2" 
+            BorderBrush="Red" 
+            Width="150" 
+            Height="150" >
+            
+            <StackPanel 
+                Width="150" 
+                Height="150">
             </StackPanel>
         </Border>
     </Grid>

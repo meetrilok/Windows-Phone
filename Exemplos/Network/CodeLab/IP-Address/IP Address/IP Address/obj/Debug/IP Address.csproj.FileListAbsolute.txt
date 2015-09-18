@@ -1,0 +1,38 @@
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\IP Address.dll
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\IP Address.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\AppManifest.xaml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\Bin\Debug\IP_Address_Debug_AnyCPU.xap
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\App.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\MainPage.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\IP Address.g.resources
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\IP_Address.Resources.AppResources.resources
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\IP Address.csproj.GenerateResource.Cache
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\IP Address.dll
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\IP Address.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address\obj\Debug\XapCacheFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\IP Address.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\IP Address.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\Bin\Debug\IP_Address_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\IP Address.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\IP_Address.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\IP Address.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\IP Address.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\IP Address.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Network\CodeLab\IP-Address\IP Address\IP Address\obj\Debug\XapCacheFile.xml

@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\StackPanel\StackPanel-01\StackPanel-01\StackPanel-01.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\StackPanel\StackPanel-01\StackPanel-01\StackPanel-01.csproj;neutral

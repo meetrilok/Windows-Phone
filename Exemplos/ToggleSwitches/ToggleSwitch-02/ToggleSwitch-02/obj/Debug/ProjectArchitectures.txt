@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\ToggleSwitches\ToggleSwitch-02\ToggleSwitch-02\ToggleSwitch-02.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\ToggleSwitches\ToggleSwitch-02\ToggleSwitch-02\ToggleSwitch-02.csproj;neutral

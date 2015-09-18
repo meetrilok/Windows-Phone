@@ -1,0 +1,32 @@
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\App.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\MainPage.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\IP Address W8.xr.xml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\IP Address W8.exe
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\IP Address W8.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\resources.pri
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\AppxManifest.xml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\bin\Debug\IP Address W8.build.appxrecipe
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\App.g.i.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\App.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\MainPage.g.i.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\MainPage.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\App.xaml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\App.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\XamlSaveStateFile.xml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\MainPage.xaml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\MainPage.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\IP Address W8.exe
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\IP Address W8.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\priconfig.xml
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\priconfig.xml.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\layout.resfiles
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\layout.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\resources.resfiles
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\resources.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\pri.resfiles
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\pri.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\qualifiers.txt
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\qualifiers.txt.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\vivek\documents\visual studio 2013\Projects\IP Address\IP Address W8\obj\Debug\ProjectArchitectures.txt

@@ -24,7 +24,7 @@
             x:Name="btnOperadora" 
             Content="Checa Operadora" 
             HorizontalAlignment="Left" 
-            Margin="100,224,0,0" 
+            Margin="112,224,0,0" 
             VerticalAlignment="Top" 
                                          />
     </Grid>

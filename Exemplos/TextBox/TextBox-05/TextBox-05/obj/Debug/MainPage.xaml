@@ -10,37 +10,37 @@
 
     <Grid Background="#64B5F6">
         <StackPanel Margin="10">
-        <TextBox Header="Header"/>
-        <TextBox Header="Custom Header">
-            <TextBox.HeaderTemplate>
-                <DataTemplate>
-                    <TextBlock 
-                        Text="{Binding}" 
-                        FontSize="18" 
-                        Foreground="Yellow"/>
-                </DataTemplate>
-            </TextBox.HeaderTemplate>
-        </TextBox>
+            <TextBox Header="Header"/>
+            <TextBox Header="Custom Header">
+                <TextBox.HeaderTemplate>
+                    <DataTemplate>
+                        <TextBlock 
+                            Text="{Binding}" 
+                            FontSize="18" 
+                            Foreground="Yellow"/>
+                    </DataTemplate>
+                </TextBox.HeaderTemplate>
+            </TextBox>
             
-        <TextBox
-            Header="Spell Check Enabled" 
-            IsSpellCheckEnabled="True"/>
+            <TextBox
+                Header="Spell Check Enabled" 
+                IsSpellCheckEnabled="True"/>
             
-        <TextBox 
-            Header="Spell Check Disabled" 
-            IsSpellCheckEnabled="False"/>
+            <TextBox 
+                Header="Spell Check Disabled" 
+                IsSpellCheckEnabled="False"/>
             
-        <TextBox 
-            Header="Text Prediction Enabled" 
-            IsTextPredictionEnabled="True"/>
+            <TextBox 
+                Header="Text Prediction Enabled" 
+                IsTextPredictionEnabled="True"/>
             
-        <TextBox 
-            Header="Text Prediction Disabled" 
-            IsTextPredictionEnabled="False"/>
+            <TextBox 
+                Header="Text Prediction Disabled" 
+                IsTextPredictionEnabled="False"/>
             
-        <TextBox 
-            Header="Place Holder Text" 
-            PlaceholderText="Watermarked text"/>
+            <TextBox 
+                Header="Place Holder Text" 
+                PlaceholderText="Watermarked text"/>
             
         </StackPanel>
     </Grid>

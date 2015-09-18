@@ -529,3 +529,4 @@ namespace TextBlock_05.TextBlock_05_XamlTypeInfo
 }
 
 
+

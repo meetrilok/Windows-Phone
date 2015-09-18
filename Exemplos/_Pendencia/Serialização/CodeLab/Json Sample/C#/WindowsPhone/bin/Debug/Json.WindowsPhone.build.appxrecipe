@@ -7,73 +7,73 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>3A5B45DD-7254-4232-9536-4FD43B97BF17</PackageIdentityName>
-    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\Json.WindowsPhone.exe">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\Json.WindowsPhone.exe">
       <PackagePath>Json.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\mediumtile-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\mediumtile-sdk.png">
       <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\microsoft-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\microsoft-sdk.png">
       <PackagePath>Assets\microsoft-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\smalltile-Phone-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
       <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\splash-Phone-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\splash-Phone-sdk.png">
       <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\windows-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\windows-sdk.png">
       <PackagePath>Assets\windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\smalltile-Windows-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
       <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\splash-Windows-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\splash-Windows-sdk.png">
       <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\squaretile-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\squaretile-sdk.png">
       <PackagePath>Assets\squaretile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\storelogo-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\storelogo-sdk.png">
       <PackagePath>Assets\storelogo-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\Shared\Assets\tile-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\Shared\Assets\tile-sdk.png">
       <PackagePath>Assets\tile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\Scenario1_ParseAndStringify.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\Scenario1_ParseAndStringify.xbf">
       <PackagePath>Scenario1_ParseAndStringify.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
       <PackagePath>ScenarioList.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\styles\Styles.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\styles\Styles.xbf">
       <PackagePath>styles\Styles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\Json.WindowsPhone.xr.xml">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\Json.WindowsPhone.xr.xml">
       <PackagePath>Json.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Json\CodeLab\Json Sample %281%29\C#\WindowsPhone\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\Json Sample\C#\WindowsPhone\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
