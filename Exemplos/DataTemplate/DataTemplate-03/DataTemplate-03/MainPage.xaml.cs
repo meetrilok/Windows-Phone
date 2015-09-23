@@ -18,6 +18,7 @@ using Windows.UI.Xaml.Navigation;
 // ====================================================================
 
 using System.Collections.ObjectModel;
+
 namespace DataTemplate_03
 {
     public sealed partial class MainPage : Page

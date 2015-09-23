@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="DataTemplate_06.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DataTemplate_06"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#64B5F6">
+        <StackPanel 
+            Name="StackPanelRaiz" 
+            Margin="0,33,0,123">
+
+            <StackPanel.Resources>
+                <DataTemplate x:Key="CBTemplate">
+                    <StackPanel Orientation="Horizontal">
+                        <Image 
+                            Width="70" 
+                            Height="70" 
+                            Margin="3"
+                            HorizontalAlignment="Left" 
+                            Source="{Binding Imagem}" 
+                            Stretch="Fill"/>
+
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock 
+                                Text="{Binding Nome}" 
+                                Margin="3" 
+                                HorizontalAlignment="Left" 
+                                FontWeight="Bold"
+                                FontSize="24"/>
+
+                            <TextBlock 
+                                Margin="3" 
+                                Text="{Binding Funcao}" 
+                                HorizontalAlignment="Left" 
+                                FontWeight="Normal"
+                                FontSize="12"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </StackPanel.Resources>
+
+            <ListView
+                x:Name="lstBox" 
+                ItemTemplate="{StaticResource CBTemplate}" 
+                ItemsSource="{Binding}"
+                Height="200" 
+                Width="400"/>
+        </StackPanel>
+    </Grid>
+</Page>
