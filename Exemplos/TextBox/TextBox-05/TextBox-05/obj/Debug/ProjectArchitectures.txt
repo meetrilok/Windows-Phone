@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\TextBox\TextBox-05\TextBox-05\TextBox-05.csproj;neutral
+C:\Work-PUC\Treinamentos\Curso Windows 8.1\Exemplos\TextBox\TextBox-05\TextBox-05\TextBox-05.csproj;neutral

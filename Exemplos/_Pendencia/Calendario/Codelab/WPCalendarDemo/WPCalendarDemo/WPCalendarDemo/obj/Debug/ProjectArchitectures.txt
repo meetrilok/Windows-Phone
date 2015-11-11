@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo.csproj;neutral

@@ -1,4 +1,9 @@
-﻿using System;
+﻿// ====================================================================
+// Elimina Contadores no Emulador
+// ====================================================================
+#undef DEBUG
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;

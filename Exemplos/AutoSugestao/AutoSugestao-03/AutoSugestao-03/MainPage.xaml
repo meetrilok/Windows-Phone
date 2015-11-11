@@ -13,7 +13,8 @@
             x:Name="CaixaTexto" 
             Header="Auto Sugestão Gerenciada"
             GotFocus="FocoSugestao"
-            TextChanged="AlteracaoTexto" Margin="0,273,0,0">
+            TextChanged="AlteracaoTexto" 
+            Margin="0,273,0,0">
             
             <AutoSuggestBox.ItemTemplate>
                 <DataTemplate>

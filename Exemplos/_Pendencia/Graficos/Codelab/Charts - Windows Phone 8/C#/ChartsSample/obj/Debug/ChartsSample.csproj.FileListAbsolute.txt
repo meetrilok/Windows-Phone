@@ -1,0 +1,42 @@
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Assets\ApplicationIcon.png
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\ChartsSample.dll
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\ChartsSample.pdb
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\AppManifest.xaml
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\Properties\WMAppManifest.xml
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\ChartsSample_Debug_AnyCPU.xap
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\App.g.cs
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\ChartsSample.g.resources
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\ChartsSample.Resources.AppResources.resources
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\ChartsSample.csproj.GenerateResource.Cache
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\ChartsSample.dll
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\ChartsSample.pdb
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\XapCacheFile.xml
+H:\Development\MyApps\ChartsSample\ChartsSample\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\ChartsSample.csprojResolveAssemblyReference.cache
+H:\Development\MyApps\ChartsSample\ChartsSample\obj\Debug\Views\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Assets\ApplicationIcon.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\ChartsSample.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\ChartsSample.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\AppManifest.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\Properties\WMAppManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\ChartsSample_Debug_AnyCPU.xap
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\Bin\Debug\AmCharts.Windows.QuickCharts.WP.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\ChartsSample.csprojResolveAssemblyReference.cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\Views\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\ChartsSample.g.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\ChartsSample.Resources.AppResources.resources
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\ChartsSample.csproj.GenerateResource.Cache
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\ChartsSample.dll
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\ChartsSample.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Graficos\Codelab\Charts - Windows Phone 8\C#\ChartsSample\obj\Debug\XapCacheFile.xml

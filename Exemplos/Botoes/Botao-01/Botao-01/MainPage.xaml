@@ -8,16 +8,13 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <!--
-    Olhar esta URL para todas as opçoes do Inscope
-    http://msdn.microsoft.com/en-us/library/windows/apps/hh393998(v=vs.105).aspx
-    -->
-
     <Grid Background="#64B5F6">
+        
         <Grid.RowDefinitions>
             <RowDefinition Height="81*"/>
             <RowDefinition Height="239*"/>
         </Grid.RowDefinitions>
+        
         <TextBlock
 		    x:Name="lblResultado"
             HorizontalAlignment="Center"

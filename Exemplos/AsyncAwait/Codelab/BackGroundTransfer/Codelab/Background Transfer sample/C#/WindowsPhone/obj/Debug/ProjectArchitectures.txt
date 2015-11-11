@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\BackGroundTransfer\Codelab\Background Transfer sample\C#\WindowsPhone\BackgroundTransfer.WindowsPhone.csproj;neutral

@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Giroscopio\CodeLab\Gyrometer sensor sample\C#\WindowsPhone\GyrometerCS.WindowsPhone.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Giroscopio\CodeLab\Gyrometer sensor sample\C#\WindowsPhone\GyrometerCS.WindowsPhone.csproj;neutral

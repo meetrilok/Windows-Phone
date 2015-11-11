@@ -14,16 +14,20 @@
     -->
 
     <Grid Background="#64B5F6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="81*"/>
+            <RowDefinition Height="239*"/>
+        </Grid.RowDefinitions>
         <TextBlock
 		    x:Name="lblResultado"
             HorizontalAlignment="Center"
-		    Margin="10,194,10,0"
+		    Margin="10,31.612,10,0"
 		    TextWrapping="Wrap"
             TextAlignment="Center"
 		    Text="Voce Ainda Não Digitou Nada"
 		    FontSize="24"
 		    VerticalAlignment="Top" 
-            Width="380" />
+            Width="380" Grid.Row="1" />
 
         <TextBox
             x:Name="txtDigita"
@@ -39,9 +43,9 @@
 		    x:Name="btnExecuta"
 		    Content="Executa"
 		    HorizontalAlignment="Left"
-		    Margin="144,312,0,0"
+		    Margin="144,149.612,0,0"
 		    VerticalAlignment="Top"
-		                             />
+		                             Grid.Row="1" />
 
         <TextBlock
         	x:Name="lblNumero"

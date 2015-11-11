@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
+        
         <Button
             x:Name="btnExecuta"
             Content="Vou Mudar o Botão"
@@ -23,4 +24,5 @@
             Content="Botão"
             HorizontalAlignment="Center"/>
     </Grid>
+    
 </Page>

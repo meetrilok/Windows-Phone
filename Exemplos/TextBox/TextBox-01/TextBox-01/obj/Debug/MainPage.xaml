@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
+        
         <TextBlock 
             x:Name="lblResultado" 
             HorizontalAlignment="Center" 

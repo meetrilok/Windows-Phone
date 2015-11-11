@@ -12,29 +12,29 @@
         <StackPanel Background="Transparent">
             <TextBlock 
                 Text="Digite um Texto" />
-            
+
             <TextBox x:ConnectionId='1' 
                 x:Name="ReadWriteTB" 
                                                       
                 IsReadOnly="False" />
-            
+
             <TextBlock 
                 Text="Restrito a Leitura" />
-            
+
             <TextBox 
                 x:Name="ReadOnlyTB" 
                 IsReadOnly="True" />
-            
+
             <TextBlock 
                 Text="Pesquisa" />
-            
-                <TextBlock 
+
+            <TextBlock 
                     FontSize="17" 
                     TextWrapping="Wrap">
                     Quando você clicar na caixa de texto o texto marca d'água é removida e o
                     cursor parece pronto para entrada.
-                </TextBlock>
-            
+            </TextBlock>
+
             <TextBox x:ConnectionId='2' 
                 x:Name="WatermarkTB" 
                 Text="Search" 
@@ -43,5 +43,5 @@
                                                   />
         </StackPanel>
     </Grid>
-</Page>
+    </Page>
 

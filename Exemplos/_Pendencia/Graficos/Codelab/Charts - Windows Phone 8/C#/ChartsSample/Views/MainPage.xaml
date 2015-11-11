@@ -1,0 +1,91 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="ChartsSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True"
+    
+    xmlns:chart="clr-namespace:AmCharts.Windows.QuickCharts;assembly=AmCharts.Windows.QuickCharts.WP" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <phone:Panorama x:Name="panorama" Title="Charts" FontSize="21.333">
+		<phone:PanoramaItem CacheMode="{x:Null}" Header="Pie Chart">
+			<phone:PanoramaItem.RenderTransform>
+				<TranslateTransform/>
+			</phone:PanoramaItem.RenderTransform>
+            <Grid>
+                <!-- PieChart -->
+                <chart:PieChart 
+                        x:Name="PieChart"
+                		Height="300" Width="400"
+                		TitleMemberPath="Title"
+                		ValueMemberPath="Value"
+                        Background="Transparent">
+                </chart:PieChart>
+            </Grid>
+        </phone:PanoramaItem>
+		<phone:PanoramaItem CacheMode="{x:Null}" Header="Line Chart">
+			<phone:PanoramaItem.RenderTransform>
+				<TranslateTransform/>
+			</phone:PanoramaItem.RenderTransform>
+            <Grid>
+                <!--LineChart-->
+                <chart:SerialChart x:Name="LineChart"
+                			Height="300" Width="400"
+                			CategoryValueMemberPath="Category"
+                			AxisForeground="White"
+                            PlotAreaBackground="Black">
+                    <chart:SerialChart.Graphs>
+                        <chart:LineGraph Title="Line 1" ValueMemberPath="Line1" Brush="Red" StrokeThickness="5"/>
+                        <chart:LineGraph Title="Line 2" ValueMemberPath="Line2" Brush="Blue" StrokeThickness="5"/>
+                        <chart:LineGraph Title="Line 3" ValueMemberPath="Line3" Brush="Yellow" StrokeThickness="5"/>
+                    </chart:SerialChart.Graphs>
+                </chart:SerialChart>
+            </Grid>
+        </phone:PanoramaItem>
+        <phone:PanoramaItem CacheMode="{x:Null}" Header="Bar Chart">
+            <phone:PanoramaItem.RenderTransform>
+                <TranslateTransform/>
+            </phone:PanoramaItem.RenderTransform>
+            <Grid>
+                <!--BarChart-->
+                <chart:SerialChart x:Name="BarChart"
+                                 Height="300" Width="400"
+                                 CategoryValueMemberPath="Category"
+                                 AxisForeground="White"
+                                 PlotAreaBackground="Black">
+                    <chart:SerialChart.Graphs>
+                        <chart:ColumnGraph Title="Title 1" ValueMemberPath="Value" Brush="Red"/>
+                    </chart:SerialChart.Graphs>
+                </chart:SerialChart>
+            </Grid>
+        </phone:PanoramaItem>
+        <phone:PanoramaItem CacheMode="{x:Null}" Header="Mixed Chart">
+            <phone:PanoramaItem.RenderTransform>
+                <TranslateTransform/>
+            </phone:PanoramaItem.RenderTransform>
+            <Grid>
+                <!--MixedChart-->
+                <chart:SerialChart x:Name="MixedChart"
+                                 Height="300" Width="400"
+                                 CategoryValueMemberPath="Category"
+                                 AxisForeground="White"
+                                 PlotAreaBackground="Black">
+                    <chart:SerialChart.Graphs>
+                        <chart:ColumnGraph Title="Line 1" ValueMemberPath="Line1" Brush="Red"/>
+                        <chart:LineGraph Title="Line 2" ValueMemberPath="Line2" Brush="Blue" StrokeThickness="5"/>
+                    </chart:SerialChart.Graphs>
+                </chart:SerialChart>
+            </Grid>
+        </phone:PanoramaItem>
+    </phone:Panorama>
+
+</phone:PhoneApplicationPage>

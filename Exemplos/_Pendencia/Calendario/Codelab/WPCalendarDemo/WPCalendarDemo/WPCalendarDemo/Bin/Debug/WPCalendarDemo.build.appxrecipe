@@ -7,66 +7,66 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>b2b15aca-5556-4e60-9a90-4af907454e98</PackageIdentityName>
-    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Bin\Debug\WPCalendarDemo.dll">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Bin\Debug\WPCalendarDemo.dll">
       <PackagePath>WPCalendarDemo.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\AlignmentGrid.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\AlignmentGrid.png">
       <PackagePath>Assets\AlignmentGrid.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\ApplicationIcon.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\ApplicationIcon.png">
       <PackagePath>Assets\ApplicationIcon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\BadgeLogo.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\SquareTile150x150.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\SquareTile150x150.png">
       <PackagePath>Assets\SquareTile150x150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\SquareTile71x71.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\SquareTile71x71.png">
       <PackagePath>Assets\SquareTile71x71.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\FlipCycleTileLarge.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\FlipCycleTileLarge.png">
       <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\FlipCycleTileMedium.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\FlipCycleTileMedium.png">
       <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\FlipCycleTileSmall.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\FlipCycleTileSmall.png">
       <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\IconicTileMediumLarge.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\IconicTileMediumLarge.png">
       <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\IconicTileSmall.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\Tiles\IconicTileSmall.png">
       <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\WideLogo.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Calendario\Codelab\WPCalendarDemo\WPCalendarDemo\WPCalendarDemo\Bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

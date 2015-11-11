@@ -7,103 +7,103 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>B383E167-1221-4F5E-862C-FC0F1D6AAACA</PackageIdentityName>
-    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\InclinometerCS.WindowsPhone.exe">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\InclinometerCS.WindowsPhone.exe">
       <PackagePath>InclinometerCS.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius.png">
       <PackagePath>Assets\mobius.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius480.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius480.png">
       <PackagePath>Assets\mobius480.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius540.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius540.png">
       <PackagePath>Assets\mobius540.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius720.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius720.png">
       <PackagePath>Assets\mobius720.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius768.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius768.png">
       <PackagePath>Assets\mobius768.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius1080.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius1080.png">
       <PackagePath>Assets\mobius1080.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius1440.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mobius1440.png">
       <PackagePath>Assets\mobius1440.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mediumtile-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\mediumtile-sdk.png">
       <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\microsoft-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\microsoft-sdk.png">
       <PackagePath>Assets\microsoft-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
       <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\splash-Phone-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\splash-Phone-sdk.png">
       <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\windows-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\windows-sdk.png">
       <PackagePath>Assets\windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
       <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\splash-Windows-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\splash-Windows-sdk.png">
       <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\squaretile-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\squaretile-sdk.png">
       <PackagePath>Assets\squaretile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\storelogo-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\storelogo-sdk.png">
       <PackagePath>Assets\storelogo-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\tile-sdk.png">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\Shared\Assets\tile-sdk.png">
       <PackagePath>Assets\tile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\Scenario1_DataEvents.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\Scenario1_DataEvents.xbf">
       <PackagePath>Scenario1_DataEvents.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\Scenario2_Polling.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\Scenario2_Polling.xbf">
       <PackagePath>Scenario2_Polling.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\Scenario3_Calibration.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\Scenario3_Calibration.xbf">
       <PackagePath>Scenario3_Calibration.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\CalibrationBar.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\CalibrationBar.xbf">
       <PackagePath>CalibrationBar.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
       <PackagePath>ScenarioList.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\styles\Styles.xbf">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\styles\Styles.xbf">
       <PackagePath>styles\Styles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\InclinometerCS.WindowsPhone.xr.xml">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\InclinometerCS.WindowsPhone.xr.xml">
       <PackagePath>InclinometerCS.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorInclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Inclinacao\CodeLab\Inclinometer sensor sample\C#\WindowsPhone\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

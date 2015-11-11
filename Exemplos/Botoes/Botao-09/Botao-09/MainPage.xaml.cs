@@ -37,7 +37,6 @@ namespace Botao_09
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             var tag = (sender as Button).Tag;
-
             int t = Convert.ToInt16(tag);
 
             switch (t)

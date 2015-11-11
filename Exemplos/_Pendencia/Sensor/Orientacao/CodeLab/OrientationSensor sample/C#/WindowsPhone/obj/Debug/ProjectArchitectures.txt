@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\SensorOrientacao\CodeLab\OrientationSensor sample\C#\WindowsPhone\OrientationSensorCS.WindowsPhone.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Sensor\Orientacao\CodeLab\OrientationSensor sample\C#\WindowsPhone\OrientationSensorCS.WindowsPhone.csproj;neutral

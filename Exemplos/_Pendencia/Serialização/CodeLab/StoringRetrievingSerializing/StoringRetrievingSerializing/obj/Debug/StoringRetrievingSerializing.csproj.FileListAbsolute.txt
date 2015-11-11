@@ -62,3 +62,35 @@ C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apos
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson22_Code\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\qualifiers.txt.intermediate
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson22_Code\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson22_Code\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\StoringRetrievingSerializing.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\StoringRetrievingSerializing.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\StoringRetrievingSerializing.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\bin\Debug\StoringRetrievingSerializing.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\StoringRetrievingSerializing.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\StoringRetrievingSerializing.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\obj\Debug\ProjectArchitectures.txt

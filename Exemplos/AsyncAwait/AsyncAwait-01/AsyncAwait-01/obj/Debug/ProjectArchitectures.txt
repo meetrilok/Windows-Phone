@@ -1,0 +1,1 @@
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\AsyncAwait\AsyncAwait-01\AsyncAwait-01\AsyncAwait-01.csproj;neutral

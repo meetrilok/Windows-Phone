@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
+        
         <StackPanel Margin="10">
             <TextBox Header="Header"/>
             <TextBox Header="Custom Header">

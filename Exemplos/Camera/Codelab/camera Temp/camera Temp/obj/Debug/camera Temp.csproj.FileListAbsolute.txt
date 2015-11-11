@@ -1,0 +1,96 @@
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\App.xbf
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\MainPage.xbf
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\camera Temp.xr.xml
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\camera Temp.exe
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\camera Temp.pdb
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\resources.pri
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\AppxManifest.xml
+H:\Blog Data\camera\camera Temp\camera Temp\bin\Debug\camera Temp.build.appxrecipe
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\App.g.i.cs
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\App.g.cs
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\MainPage.g.i.cs
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\MainPage.g.cs
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\XamlTypeInfo.g.cs
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\App.xaml
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\App.xbf
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\XamlSaveStateFile.xml
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\MainPage.xaml
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\MainPage.xbf
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\camera Temp.exe
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\camera Temp.pdb
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\priconfig.xml
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\priconfig.xml.intermediate
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\layout.resfiles
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\layout.resfiles.intermediate
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\resources.resfiles
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\resources.resfiles.intermediate
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\pri.resfiles
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\pri.resfiles.intermediate
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\qualifiers.txt
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\qualifiers.txt.intermediate
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\Blog Data\camera\camera Temp\camera Temp\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\camera Temp.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\camera Temp.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Camera\Codelab\camera Temp\camera Temp\obj\Debug\ProjectArchitectures.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.xr.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\resources.pri
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\AppxManifest.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\bin\Debug\camera Temp.build.appxrecipe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.g.i.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.xaml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\App.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MainPage.xbf
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\XamlSaveStateFile.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\camera Temp.exe
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\camera Temp.pdb
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\priconfig.xml
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\priconfig.xml.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\layout.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\layout.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\resources.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\resources.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\pri.resfiles
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\pri.resfiles.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\qualifiers.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\qualifiers.txt.intermediate
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Codelab\camera Temp\camera Temp\obj\Debug\ProjectArchitectures.txt

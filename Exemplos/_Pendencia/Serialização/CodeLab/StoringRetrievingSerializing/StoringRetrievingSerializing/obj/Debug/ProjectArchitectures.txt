@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Recursos\Videos\Channel9\Apostilas\Source Code\Lesson22_Code\StoringRetrievingSerializing\StoringRetrievingSerializing\StoringRetrievingSerializing.csproj;neutral
+C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Serialização\CodeLab\StoringRetrievingSerializing\StoringRetrievingSerializing\StoringRetrievingSerializing.csproj;neutral
