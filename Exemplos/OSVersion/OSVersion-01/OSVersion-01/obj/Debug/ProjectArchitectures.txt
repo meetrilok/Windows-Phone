@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\OSVersion\OSVersion-01\OSVersion-01\OSVersion-01.csproj;neutral
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\OSVersion\OSVersion-01\OSVersion-01\OSVersion-01.csproj;neutral

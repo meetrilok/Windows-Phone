@@ -27,7 +27,7 @@
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center" 
                 FontSize="200"/>       
-    </FlipView>
+        </FlipView>
     </Grid>
 
 </Page>

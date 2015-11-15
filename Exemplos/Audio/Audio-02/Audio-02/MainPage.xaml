@@ -43,7 +43,6 @@
             Content="Pausa a Música"
             Click="pauseSoundButton_Click" 
             Margin="95,234,0,326" />
-
     </Grid>
 
 </Page>

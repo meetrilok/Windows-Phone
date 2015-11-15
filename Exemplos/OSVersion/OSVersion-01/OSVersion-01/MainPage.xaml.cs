@@ -27,7 +27,8 @@ namespace OSVersion_01
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             String strAux = null;
-            Windows.Security.ExchangeActiveSyncProvisioning.EasClientDeviceInformation deviceInfo = new Windows.Security.ExchangeActiveSyncProvisioning.EasClientDeviceInformation();
+            Windows.Security.ExchangeActiveSyncProvisioning.EasClientDeviceInformation deviceInfo = 
+                new Windows.Security.ExchangeActiveSyncProvisioning.EasClientDeviceInformation();
             var memoryLimit = Windows.System.MemoryManager.AppMemoryUsageLimit;
 
             string FriendlyName = deviceInfo.FriendlyName;

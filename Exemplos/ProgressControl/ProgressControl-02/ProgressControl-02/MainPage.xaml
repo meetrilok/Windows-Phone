@@ -23,7 +23,6 @@
             x:Name="prgBarra02" 
             Value="50" 
             Width="100"/>
-
     </Grid>
 
 </Page>

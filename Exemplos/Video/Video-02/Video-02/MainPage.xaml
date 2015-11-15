@@ -39,7 +39,6 @@
             Content="Pausa o Vídeo"
             Click="pauseVideoButton_Click" 
             Margin="27,522,0,38" />
-
     </Grid>
 
 </Page>

@@ -17,7 +17,8 @@
             TextWrapping="Wrap" 
             FontSize="24" 
             TextAlignment="Center"
-            Width="390" Margin="10,187,0,424" />
+            Width="390" 
+            Margin="10,187,0,424" />
 
         <ProgressRing 
             x:Name="RingProgress" 
@@ -41,7 +42,6 @@
 		    HorizontalAlignment="Left"
 		    Margin="213,371,0,0"
 		    VerticalAlignment="Top"
-		    Click="AvaliaRing" />
-        
+		    Click="AvaliaRing" />        
     </Grid>
 </Page>

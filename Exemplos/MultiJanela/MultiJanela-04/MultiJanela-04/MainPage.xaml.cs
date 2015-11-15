@@ -38,8 +38,6 @@ namespace MultiJanela_04
             };
 
             Frame.Navigate(typeof(Page2), nav);
-
-
         }
     }
 }

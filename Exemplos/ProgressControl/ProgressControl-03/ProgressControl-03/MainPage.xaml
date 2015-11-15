@@ -22,7 +22,6 @@
         <ProgressRing 
             x:Name="prgBarra03" 
             IsActive="True"/>
-
     </Grid>
 
 </Page>

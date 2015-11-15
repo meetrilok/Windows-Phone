@@ -37,7 +37,6 @@ namespace ActionCenter_03
 
         int iToast = 1;
         int iToastMax = 25;
-
         private void btnEnviaClick(object sender, RoutedEventArgs e)
         {
             if (SuporteNotificacao.ToastLiberado())

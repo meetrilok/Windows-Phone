@@ -9,7 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
-
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
@@ -38,6 +37,5 @@
                 VerticalAlignment="Center"
                 Text="Linha Dois " />
         </StackPanel>
-
     </Grid>
 </Page>

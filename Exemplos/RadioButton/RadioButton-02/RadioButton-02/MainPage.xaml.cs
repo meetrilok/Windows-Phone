@@ -23,13 +23,11 @@ namespace RadioButton_02
         public MainPage()
         {
             this.InitializeComponent();
-
             this.NavigationCacheMode = NavigationCacheMode.Required;
         }
 
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-
         }
 
         private void Click_BtnOK(object sender, RoutedEventArgs e)

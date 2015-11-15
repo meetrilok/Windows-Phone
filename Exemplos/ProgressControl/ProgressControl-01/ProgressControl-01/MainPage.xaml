@@ -17,14 +17,14 @@
             TextWrapping="Wrap" 
             FontSize="24" 
             TextAlignment="Center"
-            Width="390" Margin="10,187,0,424" />
+            Width="390" 
+            Margin="10,187,0,424" />
 
         <ProgressBar 
             x:Name="prgBarra01" 
             IsIndeterminate="True" 
             Width="100" 
-            Margin="150,277,150,360"/>
-       
+            Margin="150,277,150,360"/>       
     </Grid>
 
 </Page>

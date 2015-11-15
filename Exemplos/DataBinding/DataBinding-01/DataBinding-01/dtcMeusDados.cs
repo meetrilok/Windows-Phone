@@ -25,26 +25,22 @@ namespace DataBinding_01
 
         public string Nome
         {
-            get;
-            set;
+            get; set;
         }
 
         public string Profissao
         {
-            get;
-            set;
+            get; set;
         }
 
         public string Cidade
         {
-            get;
-            set;
+            get; set;
         }
 
         public string Estado
         {
-            get;
-            set;
+            get; set;
         }
 
         public override string ToString()

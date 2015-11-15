@@ -10,11 +10,25 @@
 
 
     <Grid Background="#64B5F6" Loaded="CarregaGrade">
-        <ProgressRing Name="progressring" Height="90" Width="90" IsActive="False"/>
-        <ListView Grid.Row="0" x:Name="ListaEstoria" Width="400" Loaded="CarregaLista">
+        <ProgressRing 
+            Name="progressring" 
+            Height="90" 
+            Width="90" 
+            IsActive="False"/>
+        
+        <ListView 
+            Grid.Row="0" 
+            x:Name="ListaEstoria" 
+            Width="400" 
+            Loaded="CarregaLista">
+            
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextBlock Text="{Binding name}" FontSize="24" FontWeight="Light" Margin="12,6"/>
+                    <TextBlock 
+                        Text="{Binding name}" 
+                        FontSize="24" 
+                        FontWeight="Light"
+                        Margin="12,6"/>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
