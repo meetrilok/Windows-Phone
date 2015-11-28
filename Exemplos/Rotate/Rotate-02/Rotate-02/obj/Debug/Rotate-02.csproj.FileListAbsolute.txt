@@ -40,3 +40,45 @@ C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Rotate\Ro
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Rotate\Rotate-02\Rotate-02\obj\Debug\qualifiers.txt.intermediate
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Rotate\Rotate-02\Rotate-02\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Rotate\Rotate-02\Rotate-02\obj\Debug\ProjectArchitectures.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\App.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\MainPage.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\Pagina1.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\Pagina2.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\Rotate-02.xr.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\Rotate-02.exe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\Rotate-02.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\resources.pri
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\AppxManifest.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\bin\Debug\Rotate-02.build.appxrecipe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\App.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\App.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\MainPage.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\MainPage.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina1.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina1.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina2.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina2.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\App.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\App.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\XamlSaveStateFile.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\MainPage.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina1.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina2.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\MainPage.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina1.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Pagina2.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Rotate-02.exe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\Rotate-02.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\priconfig.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\priconfig.xml.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\layout.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\layout.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\resources.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\resources.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\pri.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\pri.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\qualifiers.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\qualifiers.txt.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Rotate\Rotate-02\Rotate-02\obj\Debug\ProjectArchitectures.txt

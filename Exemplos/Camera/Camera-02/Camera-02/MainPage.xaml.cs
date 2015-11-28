@@ -75,7 +75,8 @@ namespace Camera_02
                 if (GerenteCaptura.VideoDeviceController.FocusControl.Supported)
                 {
                     GerenteCaptura.VideoDeviceController.FlashControl.AssistantLightEnabled = false;
-                    GerenteCaptura.VideoDeviceController.FocusControl.Configure(new FocusSettings() { Mode = FocusMode.Manual, Value = focusValue, DisableDriverFallback = true });
+                    GerenteCaptura.VideoDeviceController.FocusControl.Configure(new FocusSettings() 
+                        { Mode = FocusMode.Manual, Value = focusValue, DisableDriverFallback = true });
                     await GerenteCaptura.VideoDeviceController.FocusControl.FocusAsync();
                 }
             }

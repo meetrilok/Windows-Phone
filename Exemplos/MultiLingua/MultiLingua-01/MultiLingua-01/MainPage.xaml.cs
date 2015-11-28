@@ -13,7 +13,11 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-using System.Diagnostics;   // Inserido
+// ====================================================================
+// Insercao Obrigatoria
+// ====================================================================
+
+using System.Diagnostics;   
 
 namespace MultiLingua_01
 {

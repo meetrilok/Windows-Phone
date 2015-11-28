@@ -40,3 +40,24 @@ C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Tiles-03\Notif
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\qualifiers.txt
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\bin\Debug\NotificationsExtensions.XML
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\bin\Debug\NotificationsExtensions.pri
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\NotificationsExtensions.csprojResolveAssemblyReference.cache
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmd
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\NotificationsExtensions.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\NotificationsExtensions.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmdobj
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\NotificationsExtensions.compile.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\qualifiers.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Tiles\Tiles-03\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt

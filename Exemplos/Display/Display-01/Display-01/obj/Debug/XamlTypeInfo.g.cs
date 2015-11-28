@@ -529,4 +529,3 @@ namespace Display_01.Display_01_XamlTypeInfo
 }
 
 
-

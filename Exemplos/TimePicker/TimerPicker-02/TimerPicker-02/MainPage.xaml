@@ -15,7 +15,7 @@
         
         <TimePicker 
             ClockIdentifier="12HourClock" 
-            Header="24 hour clock" 
+            Header="12 hour clock" 
             Margin="1,70,-1,-70"/>
     </Grid>
 </Page>

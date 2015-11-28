@@ -37,9 +37,9 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="NotificationsExtensions.TileContent.TileContentFactory" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="NotificationsExtensions.BadgeContent.BadgeGlyphNotificationContent" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="NotificationsExtensions.BadgeContent.BadgeNumericNotificationContent" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="NotificationsExtensions.BadgeContent.BadgeGlyphNotificationContent" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="NotificationsExtensions.TileContent.TileContentFactory" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="NotificationsExtensions.ToastContent.ToastContentFactory" ThreadingModel="both" />
       </InProcessServer>
     </Extension>

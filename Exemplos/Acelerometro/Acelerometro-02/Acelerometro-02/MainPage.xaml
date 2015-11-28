@@ -9,7 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
-
         <TextBlock 
             HorizontalAlignment="Center" 
             Margin="39,41,40,570" 

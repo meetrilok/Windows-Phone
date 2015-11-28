@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="Grid_13.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grid_13"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="Beige" >
+            <TextBlock 
+                Text="Titulo" 
+                FontSize="36" 
+                TextAlignment="Center" 
+                VerticalAlignment="Center" 
+                FontFamily="Ariel" 
+                Foreground="Black"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Background="CadetBlue" >
+            <TextBlock 
+                Text="Área de Trabalho" 
+                FontSize="36" 
+                TextAlignment="Center" 
+                VerticalAlignment="Center" 
+                FontFamily="Ariel" 
+                Foreground="Black"/>
+        </Grid>
+    </Grid>
+
+
+</Page>
+

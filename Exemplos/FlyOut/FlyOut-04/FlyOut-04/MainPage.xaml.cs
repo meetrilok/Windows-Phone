@@ -20,7 +20,6 @@ namespace FlyOut_04
         public MainPage()
         {
             this.InitializeComponent();
-
             this.NavigationCacheMode = NavigationCacheMode.Required;
         }
 

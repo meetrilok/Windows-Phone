@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\_Pendencia\Camera\Camera-02\Camera-02\Camera-02.csproj;neutral
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Camera\Camera-02\Camera-02\Camera-02.csproj;neutral

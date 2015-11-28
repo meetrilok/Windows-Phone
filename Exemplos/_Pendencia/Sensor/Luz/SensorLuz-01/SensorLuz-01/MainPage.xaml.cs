@@ -47,8 +47,6 @@ namespace SensorLuz_01
             sensor = LightSensor.GetDefault();
             sensor.ReportInterval = 500;
             sensor.ReadingChanged += sensor_ReadingChanged;
-
-
         }
     }
 }

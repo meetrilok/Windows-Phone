@@ -15,11 +15,23 @@
         </Grid.RowDefinitions>
 
         <Grid Grid.Row="0" Background="Beige" >
-            <TextBlock Text="Titulo" FontSize="36" TextAlignment="Center" VerticalAlignment="Center" FontFamily="Ariel" Foreground="Black"/>
+            <TextBlock 
+                Text="Titulo" 
+                FontSize="36" 
+                TextAlignment="Center" 
+                VerticalAlignment="Center" 
+                FontFamily="Ariel" 
+                Foreground="Black"/>
         </Grid>
 
         <Grid Grid.Row="1" Background="CadetBlue" >
-            <TextBlock Text="Área de Trabalho" FontSize="36" TextAlignment="Center" VerticalAlignment="Center" FontFamily="Ariel" Foreground="Black"/>
+            <TextBlock 
+                Text="Área de Trabalho" 
+                FontSize="36" 
+                TextAlignment="Center" 
+                VerticalAlignment="Center" 
+                FontFamily="Ariel" 
+                Foreground="Black"/>
         </Grid>
     </Grid>
 

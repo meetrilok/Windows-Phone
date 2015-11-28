@@ -9,7 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#64B5F6">
-
         <StackPanel>
             <StackPanel.Resources>
                 <Storyboard x:Name="ShowStoryboard">
