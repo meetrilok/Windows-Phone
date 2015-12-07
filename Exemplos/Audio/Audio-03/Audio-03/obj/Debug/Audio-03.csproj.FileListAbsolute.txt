@@ -62,3 +62,35 @@ C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Audio\Audio-03\Audio
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\qualifiers.txt.intermediate
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\ProjectArchitectures.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\App.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\MainPage.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\Audio-03.xr.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\Audio-03.exe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\Audio-03.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\resources.pri
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\AppxManifest.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\bin\Debug\Audio-03.build.appxrecipe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\App.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\App.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\MainPage.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\MainPage.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\App.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\MainPage.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\App.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\MainPage.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\XamlSaveStateFile.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\Audio-03.exe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\Audio-03.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\priconfig.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\priconfig.xml.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\layout.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\layout.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\resources.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\resources.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\pri.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\pri.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\qualifiers.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\qualifiers.txt.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Audio\Audio-03\Audio-03\obj\Debug\ProjectArchitectures.txt

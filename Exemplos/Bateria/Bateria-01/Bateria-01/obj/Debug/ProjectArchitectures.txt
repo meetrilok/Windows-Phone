@@ -1,1 +1,1 @@
-C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\Bateria\Bateria-01\Bateria-01\Bateria-01.csproj;neutral
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\Bateria\Bateria-01\Bateria-01\Bateria-01.csproj;neutral

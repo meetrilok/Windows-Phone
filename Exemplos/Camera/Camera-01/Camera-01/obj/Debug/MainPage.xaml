@@ -10,7 +10,7 @@
 
     <Grid Background="#64B5F6">
         <CaptureElement 
-            x:Name="capturePreview" 
+            x:Name="CapturaPrevia" 
             Margin="0,0,0,400" />
         
         <Image 

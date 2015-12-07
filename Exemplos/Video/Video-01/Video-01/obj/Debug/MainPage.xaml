@@ -41,7 +41,6 @@
             Content="Pausa o Vídeo"
                                            
             Margin="16,505,0,55" />
-
     </Grid>
 
 </Page>

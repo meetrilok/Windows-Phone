@@ -35,3 +35,40 @@ C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\TextBlock\TextBlock-
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\qualifiers.txt.intermediate
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Work\_HPES\Treinamentos HP-ES\Windows Phone 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\ProjectArchitectures.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\App.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\MainPage.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\Styles\Styles.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\TextBlock-05.xr.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\TextBlock-05.exe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\TextBlock-05.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\resources.pri
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\AppxManifest.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\bin\Debug\TextBlock-05.build.appxrecipe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\App.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\App.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\MainPage.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\MainPage.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\Styles\Styles.g.i.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\Styles\Styles.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\App.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\MainPage.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\Styles\Styles.xaml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\App.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\MainPage.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\Styles\Styles.xbf
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\XamlSaveStateFile.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\TextBlock-05.exe
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\TextBlock-05.pdb
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\priconfig.xml
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\priconfig.xml.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\layout.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\layout.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\resources.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\resources.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\pri.resfiles
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\pri.resfiles.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\qualifiers.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\qualifiers.txt.intermediate
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Work\Treinamentos\Curso Windows 8.1\Exemplos\TextBlock\TextBlock-05\TextBlock-05\obj\Debug\ProjectArchitectures.txt

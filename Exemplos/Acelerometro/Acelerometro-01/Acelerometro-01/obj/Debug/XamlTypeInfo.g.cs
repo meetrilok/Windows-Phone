@@ -564,4 +564,3 @@ namespace Acelerometro_01.Acelerometro_01_XamlTypeInfo
 }
 
 
-
